@@ -1,0 +1,1253 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+A physical trainer is interested in studying how an herbal supplement affects weight loss. She randomly assigns a few of her clients to use the supplement in addition to their normal routine and a few to continue their normal routines without the supplement. What is problematic about this experimental design? Explain and provide an example of how you might correct this. 
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+In a study designed to examine the effects of maternal multivitamin supplements on fetal development, researchers followed the fetal development of 90 pregnant mice, 28 from one lab that were given multivitamin supplemented food during pregnancy while the remaining 62 from a different lab were not given supplemental multivitamins. What important element(s) of an experiment is this study missing? Explain and provide an example of how you might correct this.
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+What is the primary reason that bacteria are often used to study evolution experimentally, as compared to other organisms, such as humans?
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+In an experiment designed to examine the effects of a new teaching method on student understanding of probability, researchers gave an entire class of students a test before the teaching was implemented. After the test, the new lesson was taught, then the students were retested to determine how much they learned. What important element(s) of an experiment is this study missing? Explain and provide an example of how you might correct this.
+
+------------------------------------------
+
+Concepts to clarify
+
+outcome
+
+Mark which concept you remain unclear about (if any).
+
+ - I'm clear on all of these concepts
+ - Observational study vs. independent study
+ - Independent variable vs. dependent variable
+ - Treatment and factor
+ - Randomization
+ - Control
+ - Replication
+ - Confounding variable
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Based on the first two activities (peer instruction of experimental design terms and comparison of observational and experimental approaches), what is one key advantage to choosing an experimental design over an observational study to test the hypothesis in the last activity? Explain.
+
+
+===================INSTRUCTOR===================
+
+1.
+- SLIDE 1:
+    - Introduce the new unit and the new Big Question. Explain to students that as we begin this unit on Research Design, the examples we will examine include experimental approaches (such as random-controlled trials and quasi experimental design) to studying evolution and how humans impact evolution that occurs over short and long time scales.
+    - Briefly introduce the session for today and ask Focus Question 1.
+- SLIDE 2:
+    - Prompt students to read the #interventionalstudy LO and identify a key phrase.
+    - Ask the remaining focus questions to engage students with the LO.
+- SLIDE 3:
+    - Prompt students to read the #observationalstudy LO as a quick reminder about observational studies before moving forward.
+
+   1. Succinctly: what is meant by evolution by natural selection (“evolution” for short)?
+
+    Encourage students to be as succinct as possible: “Descent with modification.” Ask another student to explain what this means. Limit discussion at this point. ,   2. What are extraneous variables?
+    In the readings (and the peer instruction activity) these are referred to as confounding variables (or, simply, “confounds”); both terms refer to the same concept.,   3. What is meant by “manipulated”?
+
+    Manipulated in this context refers to treatments (levels) of independent variables that are controlled by the researchers (when independent variables are manipulated, they are often called factors). E.g., one group is given a placebo and one is given a drug with an active ingredient that is being tested.
+,   4. What is meant by “an intervention”?
+
+    An intervention is often also referred to as the "treatment"; the "treatment group" is typically compared to the "control group" to measure the effects of the intervention.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+With only a few clients as controls and a few taking the herbal supplement, she does not have a large enough sample size; because of the small sample size, there may be strong confounding variables. One way to correct this would be to enlarge the study and have more subjects as controls and treatment, ideally including people who work with other physical trainers.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+With only a few clients as controls and a few taking the herbal supplement, she does not have a large enough sample size; because of the small sample size, there may be strong confounding variables. One way to correct this would be to enlarge the study and have more subjects as controls and treatment, ideally including people who work with other physical trainers.
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll B:**
+
+In this study, pregnant mice are not randomly assigned to one treatment group or the other, so it is missing randomization. In fact this is a quasi-experimental design, which we will explore more in a few class sessions. But the study does have other elements of an experiment, including a control (mice which are not taking multivitamins while pregnant), but whether this control is appropriate is unclear since the control mice are housed and cared for in a different lab than the treatment mice. One way to correct this flaw would be to assign half of the pregnant mice from each lab into a multivitamin or no multivitamin supplement group and following fetal development through their pregnancies.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+In this study, pregnant mice are not randomly assigned to one treatment group or the other, so it is missing randomization. In fact this is a quasi-experimental design, which we will explore more in a few class sessions. But the study does have other elements of an experiment, including a control (mice which are not taking multivitamins while pregnant), but whether this control is appropriate is unclear since the control mice are housed and cared for in a different lab than the treatment mice. One way to correct this flaw would be to assign half of the pregnant mice from each lab into a multivitamin or no multivitamin supplement group and following fetal development through their pregnancies.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll C:**
+
+The primary reason that makes experimental approaches to studying evolution possible with bacteria populations (as compared to studying evolution in humans, especially) is the short generation time, typically 20-60 minutes. To study evolution in humans experimentally, one would have to follow traits over multiple generations--which would be a very long time (longer than the researcher’s lifespan!). Another reason is that: bacteria are easily manipulated in the laboratory in terms of generating and studying mutations.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+The primary reason that makes experimental approaches to studying evolution possible with bacteria populations (as compared to studying evolution in humans, especially) is the short generation time, typically 20-60 minutes. To study evolution in humans experimentally, one would have to follow traits over multiple generations--which would be a very long time (longer than the researcher’s lifespan!). Another reason is that: bacteria are easily manipulated in the laboratory in terms of generating and studying mutations.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll D:**
+
+This pretest/posttest study design is missing a control group. The study is also missing randomization, but this is not as important in this study because the entire class of students was included (thus, no randomization was necessary). A better design would have been for the teacher randomly to split the class in two and teach one half using traditional methods and the other half using the new methods; following this, one could compare the new teaching methods with the control (traditional teaching methods).
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+This pretest/posttest study design is missing a control group. The study is also missing randomization, but this is not as important in this study because the entire class of students was included (thus, no randomization was necessary). A better design would have been for the teacher randomly to split the class in two and teach one half using traditional methods and the other half using the new methods; following this, one could compare the new teaching methods with the control (traditional teaching methods).
+
+
+----------------------------------------
+
+10.
+Introduce the activity learning goal, tell students they will review terms in a breakout, and then start the breakout.
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+- Pay attention to questions student write down that they have in the third column of the table. Be ready to address those in the debrief.
+
+
+----------------------------------------
+
+12.
+- Give students 10-15 seconds to fill out the poll (they can mark multiple answers if they'd like).
+- Take the most chosen concept and ask a student on stage to try and explain it. Either tell them they are correct, or provide your own correction.
+- Repeat as appropriate.
+
+
+----------------------------------------
+
+13.
+Summarize a take-home message in your own words, explaining that understanding the scientific meaning of each of these concepts is important moving forward so that we all are using the same vocabulary.
+
+----------------------------------------
+
+14.
+- Introduce the learning goal and tell students that they will have two scenarios regarding the evolution of antibiotic resistance to use to compare observational and interventional approaches.
+- Feel free to clarify that an interventional study is the same thing as an experimental study. We've chosen the term "interventional" because it more clearly refers to the distinction between observational and experimental studies, and also because many people colloquially use the term "experiment" to apply to observational studies, which was a cause for student confusion in the past.
+
+
+----------------------------------------
+
+15.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+16.
+NOTE - This step is exactly the same as the next one. It's just in place to bring a new set of students onto the screen. (Total of 8 minutes for this debrief.)
+
+​
+
+In this activity students debrief their analyses of two research approaches for the same hypothesis.
+
+- Call on students one at a time to compare and contrast the two approaches. Call on other students to add to comments or refine, if necessary. Have students who make particularly salient comments fill in the appropriate cell of the summary document.
+- Use focus questions to wrap up the discussion.
+- This should be a rapidly moving discussion and students speaking should be switched often enough that all students feel the pressure that they may be called on to speak.
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/Y61NRn/notes-for-instructors-act-2.png)
+
+   1. Using your knowledge of statistics and correlation, in which of these studies can you determine cause and effect?
+    The experiment; the hospital study is observational and you can obtain correlations but not determine cause and effect. This is the main point of comparing these two approaches. ,   2. In Carl Bergstrom’s work (highlighted in the reading), he uses computer simulations to look at potential strategies for minimizing the potential of drug-resistant bacteria to evolve in a hospital setting. What are the advantages of this approach? The drawbacks?
+    Advantages:
+
+* He can simulate results that then can be directly tested in the hospital or laboratory setting, allowing him better to focus his research on potentially effective approaches.
+
+* By running simulations first he can potentially reduce the number of trials needed.
+
+* Using computer simulations allows him to conduct research that may be unethical to conduct with humans.
+
+Drawbacks:
+
+* The utility of the simulations depends on whether they reflect the system they are supposed to emulate.
+
+* The simulations may oversimplify the hospital setting and not account for confounding variables that have a large effect on the evolution of bacteria or the efficacy of treatment.,   3. How does this example relate to the Big Question: “How do humans impact evolution?”
+    \
+The widespread use of antibiotics facilitates bacteria’s ability to evolve resistance to the antibiotics. Using the same antibiotics throughout a hospital or to kill a certain type of bacteria creates a selective pressure on the bacteria to evolve resistance. Some strategies for minimizing the evolution of drug-resistance are to vary the type of antibiotics used in the same patient over time and in different patients in the same hospital (from Carl Bergstrom’s work in the readings). 
+----------------------------------------
+
+17.
+NOTE - This step is exactly the same as the previous one. It's just in place to bring a new set of students onto the screen. (Total of 8 minutes for this debrief.) 
+
+​
+
+In this activity students debrief their analyses of two research approaches for the same hypothesis.
+
+- Call on students one at a time to compare and contrast the two approaches. Call on other students to add to comments or refine, if necessary. Have students who make particularly salient comments fill in the appropriate cell of the summary document.
+- Use focus questions to wrap up the discussion.
+- This should be a rapidly moving discussion and students speaking should be switched often enough that all students feel the pressure that they may be called on to speak.
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/Y61NRn/notes-for-instructors-act-2.png)
+
+   1. Using your knowledge of statistics and correlation, in which of these studies can you determine cause and effect?
+    The experiment; the hospital study is observational and you can obtain correlations but not determine cause and effect. This is the main point of comparing these two approaches. ,   2. In Carl Bergstrom’s work (highlighted in the reading), he uses computer simulations to look at potential strategies for minimizing the potential of drug-resistant bacteria to evolve in a hospital setting. What are the advantages of this approach? The drawbacks?
+    Advantages:
+
+* He can simulate results that then can be directly tested in the hospital or laboratory setting, allowing him better to focus his research on potentially effective approaches.
+
+* By running simulations first he can potentially reduce the number of trials needed.
+
+* Using computer simulations allows him to conduct research that may be unethical to conduct with humans.
+
+Drawbacks:
+
+* The utility of the simulations depends on whether they reflect the system they are supposed to emulate.
+
+* The simulations may oversimplify the hospital setting and not account for confounding variables that have a large effect on the evolution of bacteria or the efficacy of treatment.,   3. How does this example relate to the Big Question: “How do humans impact evolution?”
+    \
+The widespread use of antibiotics facilitates bacteria’s ability to evolve resistance to the antibiotics. Using the same antibiotics throughout a hospital or to kill a certain type of bacteria creates a selective pressure on the bacteria to evolve resistance. Some strategies for minimizing the evolution of drug-resistance are to vary the type of antibiotics used in the same patient over time and in different patients in the same hospital (from Carl Bergstrom’s work in the readings). 
+----------------------------------------
+
+18.
+* Show students the 1 1/2 minute video showing the experiment demonstrating the evolution of bacteria to 1000 times the normal amount of antibiotic. (Show video at at least 1.25 speed). 
+
+* Ask the focus question. 
+   1. What conclusions can one draw from this study compared to the experiment described in your breakout notes?
+    * Experiment in breakout notes: One can draw conclusions about whether a specific strain of bacteria evolved resistance to one specific amount of antibiotic. 
+
+* Kishony lab experiment: One can conclude that bacteria can evolve resistance to the antibiotic and to increased amounts of that antibiotic, inferring that once bacteria evolved resistance, the antibiotic is essentially useless!
+----------------------------------------
+
+19.
+- Call on a student to summarize the take home message of this activity.
+- Call on another student to add to this summary or revise/ refine.
+- Summarize the take-home in your own words.
+    - Sample take-home: Both interventional and observational studies are crucial parts of the scientific process. It is important to know the distinction between them because it is important when you choose what study you might create and also interpreting the studies others have done.
+
+
+----------------------------------------
+
+20.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+21.
+Briefly introduce the Activity Learning Goal and the Breakout. 
+
+
+----------------------------------------
+
+22.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Monitor breakout groups and if at least two groups have completed an experimental design go ahead and end breakouts early.
+- Note (and pin) a group that has a particularly interesting experiment to discuss in the debrief.
+
+
+----------------------------------------
+
+23.
+NOTE: In this debrief, you will toggle back and forth between this step and the next as you focus on hearing and improving the breakout work of one group. (Total 12 minutes for this debrief so you should have time to feature 2-3 groups.)
+
+​
+
+- Feature a breakout group that you noted or pinned during the breakouts.
+    - In this step, ask students from the group you selected to explain a step (e.g., what was their dependent variable?).
+    - Ask other students to mark a check or X if they think the element needs revised (e.g., pre-post change in performance on a short term memory task vs. simply stating they will measure memory). The next step is set up to bring unresponsive students on to the stage so you can ask them a question and make sure they're engaged.
+
+
+----------------------------------------
+
+24.
+NOTE: This second step is set up to bring unresponsive students on to the stage so you can ask them a question and make sure they're engaged. (Total 12 minutes for this debrief so you should have time to feature 2-3 groups.)
+
+- Call on students to justify their X or check from the previous question and comment on an aspect of the study presented that needs to be revised or to explain why no aspects need to be revised. (Or to explain why they didn't vote if no check or X is listed on their feed!). 
+- Use the questions below to guide evaluation of the study proposed as they are relevant.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Potential prompts depending on what aspects of the experiment are of interest for discussion**:
+
+​
+
+DEPENDENT VARIABLE
+
+How could the dependent variable be better specified? (e.g., suggest some short term memory task that is a reliable measurement; suggest pre/post measures)
+
+​
+
+CONTROLS
+
+1. Are the controls adequate?
+2. If not, what would be an appropriate control in this experiment?
+
+​
+
+SAMPLE SIZE
+
+1. How many samples are there?
+2. How were those samples obtained?
+3. How could you improve this design in terms of sample size?
+
+​
+
+RANDOMIZATION
+
+1. Is this randomized?
+2. How could you improve the study design to incorporate randomization?
+
+
+----------------------------------------
+
+25.
+- Call on a student to summarize the take home of this activity.
+- Call on another student to add to this summary or revise/ refine.
+- Summarize the take-home in your own words.
+    - Sample take-home: Considering experimental design can help you refine your hypothesis or research question. Specific details are an important element of quality experimental design. Revising aspects of experimental design is an important part of the process.
+
+
+----------------------------------------
+
+26.
+- Allow students approximately 5 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+27.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+28.
+- Call on 1-2 students to provide a take-home from this session.
+- Provide a summary of the following take-home in your own words: Experiments have some advantages over observational studies, such as the ability to determine cause and effect and potentially to have more control over confounding variables. We explored some criteria for evaluating experimental designs, but because there are many variants of such designs one needs to think creatively when designing and evaluating experiments.
+- Ask the focus question to wrap-up.
+
+   1. What research questions might be best addressed using observational study designs rather than an experiment? 
+    Student-provided examples.
+
+For example, studies that cover a long time period (e.g., climate change, human evolution) or those exploring a large spatial scale (e.g., the whole Earth system).
+
+===================RESOURCES===================
+
+Kishony Lab: The Evolution of Bacteria on a “Mega-Plate” Petri Dish
+https://www.youtube.com/embed/plVk4NVIUh8
+null
+
+--------------------------------------------
+
+Peer Instruction Activity
+https://docs.google.com/document/d/1bdhKSjcjfCkePiVtNd6FrW3-ZFZ4qTelX2woIdiatTQ/edit
+null
+
+--------------------------------------------
+
+Staphylococcus bacteria research approach
+https://docs.google.com/document/d/1AyjVYwlLzrQ_ARs-pS3spj1z_pa8Tck0Iii1rnGgiG0/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Study Design Concepts Breakouts
+https://sle-authoring.minervaproject.com/api/v1/worksheets/cf5c15d4-73e8-463a-9311-1db7c89fb291/
+null
+
+--------------------------------------------
+
+[template] NOTES Observational v Interventional Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/fa7d5590-4665-4e3e-9fa2-666e8078aa80/
+null
+
+--------------------------------------------
+
+[template] NOTES Experiment Design Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/45b805ed-1067-406e-a008-701cef9a50c6/
+null
+
+--------------------------------------------
+
+Activity 3 Debrief
+https://docs.google.com/document/d/1MRf3ZeIF6rX56bDkShs6g40MYoodCk801vZRNT82exw/edit
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1552124
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design </p><p><strong>Big Question: </strong>How do humans impact evolution? </p><p><strong>LOs</strong>: </p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span></span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="observationalstudy">﻿<span>#observationalstudy</span>﻿</span></span> - Design and interpret observational studies</li></ul><p><strong>Activity Learning Goals:  </strong></p><ul><li>Confirm and solidify understanding of key concepts in experimental design. </li><li>Identify and understand advantages and drawbacks of observational versus experimental studies. </li><li>Create and evaluate experimental designs. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span> - Design and interpret experimental studies. </strong></p><h6><br/></h6><p>A true experiment has one or more independent variables, which are manipulated or selected independently, and one or more dependent variables, which are measures of the effects of variations of the independent variable or variables. An experiment relies on assigning samples to a treatment condition (an intervention) and tries to minimize (or, ideally, eliminate) the influences of extraneous variables. To determine that the treatment causes the outcome, experimenters must control extraneous variables and other factors that may impact the outcome. In contrast to observational studies, experiments always involve interventions.</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="observationalstudy">﻿<span>#observationalstudy</span>﻿</span> - Apply and interpret observational studies. </strong></p><h6><br/></h6><p>Science typically begins with observation. Only after phenomena have been described can one search for patterns and principles that underlie them. The nature of observational studies varies in different disciplines, but in all cases the researcher measures variables without manipulating them. It is critical that observational studies are designed to ensure that measurements are careful, systematic, and unbiased. Different observational study designs each have strengths and weaknesses, but can effectively test hypotheses.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Activity Introduction - 1552155
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Confirm and solidify understanding of key concepts in study design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Closure Moment - 1552164
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Confirm and solidify understanding of key concepts in study design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Introduction/Breakout Instructions - 1552170
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal </h1><p>Identify and understand advantages and drawbacks of observational versus interventional (i.e., experimental) studies.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Closure Moment - 1552191
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal </h1><p>Identify and understand advantages and drawbacks of observational versus interventional studies.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3: Introduction/Breakout Instructions - 1552205
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Create and evaluate experimental designs.</p><h6><br/></h6><h1>Activity Instructions </h1><p>You will now be assigned to breakout groups where you will have 8 minutes to design an experiment to test the research question of whether exercise increases short-term memory. Try to anticipate, and address, potential problems with your design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3: Closure Moment - 1552215
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Create and evaluate experimental designs.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1552227
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design </p><p><strong>Big Question: </strong>How do humans impact evolution? </p><p><strong>LOs</strong>: </p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies</li></ul><p><strong>Activity Learning Goals:  </strong></p><ul><li>Confirm and solidify understanding of key concepts in experimental design. </li><li>Identify and understand advantages and drawbacks of observational versus experimental studies. </li><li>Create and evaluate experimental designs. </li></ul></div></div></div></div></div></div>

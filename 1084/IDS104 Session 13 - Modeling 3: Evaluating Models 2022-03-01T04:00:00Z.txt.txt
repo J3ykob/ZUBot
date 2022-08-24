@@ -1,0 +1,1045 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+You are building a model to examine the potential severity of a measles outbreak. Based on the discussion of vaccination in your readings, what factors should you include in this model? Identify two. Explain.
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+If you were building a model to compare outbreaks of a bacteria and a virus in the residence halls, what aspects of the residence hall would be key to this model? Identify two. Explain. 
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Based on your readings and experience with Pandemic 2, what are two assumptions about vaccinations that the game designers made? Explain. 
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What does the example of Measles Mary indicate about critical immunization threshold for measles? Example. 
+
+------------------------------------------
+
+Effective Simulation
+
+none
+
+Based on the effectiveness criteria we discussed in the previous step, is Pandemic 2 an effective simulation of infectious disease?
+ - Yes
+ - No
+------------------------------------------
+
+Results of simulations
+
+none
+
+From the results of your simulations in Pandemic 2, which traits appear to be most important early in the game? (e.g. symptoms, transmission, resistance)
+
+
+------------------------------------------
+
+Vaccination rate prediction
+
+outcome
+
+Predict the lowest vaccination rate a city would need to have in order for herd immunity to remain intact.
+
+ - 70%
+ - 85%
+ - 95%
+ - >99%
+------------------------------------------
+
+Measles wrap-up poll 
+
+outcome
+
+If you were the parent/guardian of a toddler who had not yet been vaccinated for measles, how would the results of the simulations affect your decision on whether to vaccinate? Cite specific examples from the simulations and discussion.
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Explain how the criteria developed in Activity 1 helped you evaluate the strengths and weaknesses of the models used in Activity 2.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Welcome students to class and tell them they will continue to practice the LO #modeling.
+- Ask students if there are any lingering questions about the LO.
+
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+Some answers from the readings, all of which would affect the S (susceptibility) variable in the mathematical disease modelling reading:
+
+- Vaccination rates (unvaccinated rates)
+- Potential rate of failed seroconversion
+- Rate of those whose vaccine protection may have waned
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+Some answers from the readings, all of which would affect the S (susceptibility) variable in the mathematical disease modelling reading:
+
+- Vaccination rates (unvaccinated rates)
+- Potential rate of failed seroconversion
+- Rate of those whose vaccine protection may have waned
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+Some possible answers:
+
+- The typical student traffic patterns and use patterns of different spaces of the residence halls.
+- The density of students in different spaces.
+- Key “funnel” points (e.g., a door handle that everyone uses multiple times a day).
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Some possible answers:
+
+- The typical student traffic patterns and use patterns of different spaces of the residence halls.
+- The density of students in different spaces.
+- Key “funnel” points (e.g., a door handle that everyone uses multiple times a day).
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+- Vaccine development is not quick (although in the game it is much much quicker than in real-life).
+- Deployment is slow.
+- Some assumptions:
+    - The more hospitals = the quicker a vaccination can be developed (not necessarily true in real life; most vaccines are developed by research laboratories, some private companies--not hospitals).
+    - Vaccine development speed is impacted by how visible your disease is in the media (in part true, but visibility will not directly lead to a vaccine more quickly; rather, the increased funding for creating a vaccine, which results from increased media exposure, is what will speed up the development process.)
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+- Vaccine development is not quick (although in the game it is much much quicker than in real-life).
+- Deployment is slow.
+- Some assumptions:
+    - The more hospitals = the quicker a vaccination can be developed (not necessarily true in real life; most vaccines are developed by research laboratories, some private companies--not hospitals).
+    - Vaccine development speed is impacted by how visible your disease is in the media (in part true, but visibility will not directly lead to a vaccine more quickly; rather, the increased funding for creating a vaccine, which results from increased media exposure, is what will speed up the development process.)
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+Some possible answers:
+
+- The example of Measles Mary indicates that the critical immunization threshold underestimates the rate of vaccination needed because it does not typically incorporate failed seroconversion or waning protection.
+
+**Follow-up**: What would you need to include in a disease model to calculate the critical immunization threshold to incorporate the potential for a Measles Mary? (Answer: One would incorporate rates of failed seroconversion and waning protection, from older vaccines without boosters, into the variable for susceptibility, which is typically unvaccinated people.)
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**Some possible answers:
+
+- The example of Measles Mary indicates that the critical immunization threshold underestimates the rate of vaccination needed because it does not typically incorporate failed seroconversion or waning protection.
+
+**Follow-up**: What would you need to include in a disease model to calculate the critical immunization threshold to incorporate the potential for a Measles Mary? (Answer: One would incorporate rates of failed seroconversion and waning protection, from older vaccines without boosters, into the variable for susceptibility, which is typically unvaccinated people.)
+
+
+----------------------------------------
+
+10.
+Briefly explain the first activity and the breakout instructions: 
+
+- We have read about and discussed the fact that models are tested, evaluated, and revised (if the evaluation identifies deficiencies). 
+- In this activity, students identify at least 4 criteria that we could use to evaluate how effective a model is.
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally.
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+
+
+----------------------------------------
+
+12.
+- Call on students across all breakout groups to identify a criterion that should be used to evaluate models. As a student identifies an appropriate criterion have him or her add it to the table. Call on other students for mark checks/Xs if they agree/disagree with a criterion. Reorganize the table as necessary for criteria that should be nested under another criterion (e.g., see the notes for the instructors). If students seem stumped at some point or if the organization becomes messy, you can suggest a header for a given cell (e.g., model variables) and have students identify which of the criteria they outlined fall under that header.
+- When the table seems complete, **prompt** students to open the document in a new tab and save it for use during the next part of this activity (the instructor should save it as well).
+- Notes for instructors: Some key criteria are:
+    - The model should make predictions that, when tested, could lead to rejection of, or support for, the model’s assumptions.
+    - The model should be able to be evaluated in practice (with existing types of data), not just in principle.
+    - The model should organize and explain existing results in a simple and clear manner.
+    - The model should be able to explain relationships among parameters (or explain the system).
+
+
+----------------------------------------
+
+13.
+- Allow students one minute to answer the poll.
+- Call on students to justify their answer using the criteria from the previous step.
+- Use focus questions to deepen discussion.
+
+   1. - Can this game function as a model? Why or why not?
+- Which aspects of the game are model-like and which are not?
+
+    Student-provided answers,   2. How realistic is the game for modeling:
+
+* attempts to curb pandemics?
+
+* the spread of an infectious disease?
+    Student-provided answers,   3. What aspects of this game would you need to change to better simulate the spread of an infectious disease?
+
+Follow-up: What can you learn about infectious disease from this game?
+    Student-provided answers. Note: the third part of the pre-class work was meant to have students try to use the game as a model to simulate spread of a disease. This may be interesting to prompt here to ask students how well this worked.
+----------------------------------------
+
+14.
+- Allow students one minute to answer the poll. You may verbally prompt them to think about specific traits that were important, regardless of the specific pathogen.
+- Call on students to justify their answer.
+- Use focus questions to deepen discussion.
+
+   1. What properties of that pathogen make it more likely than the other pathogens to cause a pandemic?
+
+    Viruses can evolve much more rapidly, in real life and in Pandemic 2.,   2. Which pathogen would you predict to be more likely to cause a pandemic (versus an epidemic or endemic)? Why?
+
+    Viruses, because they are often more easily spread. Viruses also cannot be controlled with antibiotics.
+,   3. Were these different aspects modelled effectively/realistically in the game?
+
+    To some extent, the unrealistic aspects were that a player could evolve multiple pathways for infection that would be unrealistic in real life (e.g., airborne, waterborne and spread by insects) and multiple symptoms that may be unrealistic to be together in real-life.
+,   4. (Optional) How could you test whether your predicted type of pathogen would more easily cause a pandemic than the other two types?
+
+    Student-provided answers.
+----------------------------------------
+
+15.
+- Ask a student or two which criteria they found most insightful for evaluating models.
+
+
+----------------------------------------
+
+16.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+17.
+Briefly introduce the learning goal.
+
+
+----------------------------------------
+
+18.
+- End polls after 1 minute (or when all students have indicated that they are finished) and publish results.
+- Call on students at random using the Relay method to justify their answers. Call on 1-2 students to briefly address why the answers to these polls may be relevant outside the classroom.
+- Explain that in breakouts students will run three simulations of the spread of Measles in populations with different vaccination levels in order to test their predictions.
+- Prompt students to write down their predictions so they are available for the breakouts in the next step.
+
+
+----------------------------------------
+
+19.
+- Ensure students in each group are discussing their responses and contributing equally.
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+
+
+----------------------------------------
+
+20.
+* Call on students at random using the Relay method to answer the following questions; move quickly through the first three questions and spend more time on the last two.
+   1. Did the simulation results match your original predictions prior to the breakout? Why or why not?
+
+    Student-provided answers,   2. Did any of the cities you chose in the FRED model behave differently? Should this have happened? Why or why not?
+
+    Student-provided answers,   3. What did you learn about herd immunity?
+    Student-provided answers,   4. Can you think of conditions or situations that might cause an outbreak in a city that has high vaccination levels?
+
+Follow-up: What factors might contribute to making it difficult to achieve vaccination levels above 95% for many viruses?
+    Student-provided answers,   5. Are these models effective simulation of the effects of vaccination? Compare and contrast these simulations with Pandemic 2.
+
+Follow-up: If given the chance, what additional features would you like to incorporate into the model? Why?
+
+    Student-provided answers,   6. Which of the three models best met the criteria we discussed in Activity 1?
+
+    Student-provided answers.
+
+----------------------------------------
+
+21.
+Turn this into a focus question if you prefer or if time is running tight.
+
+
+----------------------------------------
+
+22.
+- Call on a student to identify a take-home message from this activity.
+- Call on another student to revise/refine if necessary.
+- If desired, summarize in your own words.
+    - SAMPLE: If models have been validated with data they can provide important insight into predictions that couldn't otherwise be tested. That makes them very useful public policy tools, which is very relevant for things like policies on vaccination.
+
+
+----------------------------------------
+
+23.
+- Allow approx. 5 minutes to answer the poll question
+- Debrief before moving to the session summary
+
+
+----------------------------------------
+
+24.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+25.
+- Call on a student to provide a take-home from this session.
+- Summarize the following take-home in your own words: Simulations allow us to study and explore systems systematically. However, one must be aware that simulations are types of models, and hence often are simplifications. Thus, it is important to consider how simulations should be evaluated. A great use of simulations is to generate further hypotheses, which then are tested; simulations are particularly powerful when used as an impetus for empirical tests.
+- Another take home is perspective taking:
+    - In Pandemic 2 we take on the perspective of a pathogen,
+    - In Activity 2, thinking about herd immunity we're considering public health,
+    - And as an individual, we might weight factors very differently than public health official.
+- Ask the focus question.
+
+   1. If flu season were approaching, how would you go about determining what the vaccination levels should be of students living in the residence hall?
+
+    This question leads the students to apply the models they’ve been exploring to their lives in the residence hall; if they explored this they might all want to get their annual flu vaccinations, given the close quarters. This question has direct application to the Big Question “Can we avoid pandemics?” because students are asked to look at vaccines as a potential preventative tool for a small scale epidemic at the residence hall.
+
+===================RESOURCES===================
+
+black-genesis-drop-ceiling-tiles-740-07-64_1000.jpg
+https://s3.amazonaws.com/picasso.box_resources/0d318d72-7716-11ec-ba25-9a7b3cd9f4c7/black-genesis-drop-ceiling-tiles-740-07-64_1000.pdf
+null
+
+--------------------------------------------
+
+pre-class work instructions
+https://docs.google.com/document/d/118V58rPov5X_V-DO40cKKf0AntA8iCLIiPeQ6xOaVP4/edit
+null
+
+--------------------------------------------
+
+Summary: Criteria for evaluating models
+https://docs.google.com/document/d/1q9rzeHzEbVNvx5XewBdVunjUU1H-HSm122CaiXAGg6I/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Model Criteria Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/469877f8-e6c0-4596-8f17-56eb2b3e8bf7/
+null
+
+--------------------------------------------
+
+[template] NOTES Measles Simulation Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/a46fd4fb-e8b9-497f-a593-2d9ce1c28ea1/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1554307
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Visualizations and Models</p><p><strong>Big Question: </strong>How can we avoid global pandemics? </p><p><strong>LOs: </strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span></span> - Recognize how models can be used to explain a set of data and generate new predictions.</li><li><span style="color: rgb(10, 120, 191);">#visualizations</span> - Interpret, analyze, and create data visualizations.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify criteria for evaluating the effectiveness of a model.</li><li>Evaluate aspects of a simulation game that can reveal the dynamics of infectious disease. </li><li>Develop scientific predictions about how vaccination rates affect the spread of infectious disease and use simple models to evaluate those predictions. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Activity Introduction - 1554341
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goals</h1><ul><li>Identify criteria for evaluating the effectiveness of a model.</li><li>Evaluate aspects of a simulation game that can reveal the dynamics of infectious disease. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Instructions</h1><h6><br/></h6><p>One aspect of modeling we have read about and discussed is that models are tested, evaluated and revised (if the evaluation reveals deficiencies).</p><h6><br/></h6><p>Identify at least 4 criteria that we could use to evaluate how effective a model is.</p><ul><li>What elements should be included?</li><li>What other aspects should be considered?</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Closure Moment - 1554364
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goals</h1><ul><li>Identify criteria for evaluating the effectiveness of a model.</li><li>Evaluate aspects of a simulation game that can reveal the dynamics of infectious disease. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Activity Introduction - 1554378
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Develop scientific predictions about how vaccination rates affect the spread of infectious disease and use simple models to evaluate those predictions.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Initial Poll - 1554379
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Measles Overview </h1><h6><br/></h6><p>The Measles virus has: </p><ul><li>Short duration (1-2 weeks)</li><li>Extremely high infectiousness value (it is airborne, so simply being in the same room with an infected person can lead to exposure) and </li><li>Relatively high recovery rate. </li></ul><p>Based on your reading of this background information, your NetLogo simulations in the last session and the information provided about this virus, make a prediction about the potential spread and vaccination rates in the following poll. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Closure Moment - 1554401
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Develop scientific predictions about how vaccination rates affect the spread of infectious disease and use simple models to evaluate those predictions.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1554413
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Visualizations and Models</p><p><strong>Big Question: </strong>How can we avoid global pandemics? </p><p><strong>LOs: </strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#modeling﻿</span> - Recognize how models can be used to explain a set of data and generate new predictions.</li><li><span style="color: rgb(10, 120, 191);">﻿#visualizations </span>- Interpret, analyze, and create data visualizations.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify criteria for evaluating the effectiveness of a model.</li><li>Evaluate aspects of a simulation game that can reveal the dynamics of infectious disease. </li><li>Develop scientific predictions about how vaccination rates affect the spread of infectious disease and use simple models to evaluate those predictions. </li></ul></div></div></div></div></div></div>

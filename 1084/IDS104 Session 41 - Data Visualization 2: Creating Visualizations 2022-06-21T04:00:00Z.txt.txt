@@ -1,0 +1,875 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Copy  your caption to Figure 1 (Line graph) from your pre-class work and paste it here.
+
+​
+
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Copy  your caption to Figure 1 (Line graph) from your pre-class work and paste it here.
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Copy your caption to Figure 2 (Scatter Plot) from your pre-class work and paste it here.
+
+​
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+Copy your caption to Figure 2 (Scatter Plot) from your pre-class work and paste it here.
+
+
+------------------------------------------
+
+Line graph errors
+
+none
+
+How would you improve one weakness or error in any one of the line graphs discussed in your breakout group?
+
+
+------------------------------------------
+
+Figure type
+
+none
+
+Which figure type best illustrates the primary insights into this data set?
+
+ - Line graph
+ - Scatter plot
+ - Histogram
+------------------------------------------
+
+Reflection poll
+
+outcome
+
+Synthesize and summarize your interpretation of the patterns in the data visualizations from this class session (This synthesis could be used as the starting sentence of the Discussion section of a report). Explain how these results contribute to our understanding of climate change. 
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce this class session. In a previous session they learned how to evaluate figures. This class will concentrate on creating figures, which is another important skill of #visualizations.
+- Tell students we will spend the session giving feedback on their pre-class work.
+- Tell students that it is very common for students to make mistakes when creating figures as they begin to learn. That's okay, but the important thing is to recognize and correct those mistakes, and instill the proper habits.
+
+​
+
+
+----------------------------------------
+
+2.
+- Feel free to start with this slide, or skip it all together.
+- You could also choose one of the "Optional Hook" google docs that are saved in the document tab.
+- Ask the focus question (or some other variant that you think introduces the class in a lighthearted way).
+
+   1. This graph is obviously just a joke, but what common mistakes does it commit? 
+
+    There are actually many mistakes (if we can call them that for a joke):
+
+- Missing axis label
+- Missing unit (if one can quantify love for food...)
+
+----------------------------------------
+
+3.
+- Before you launch the poll, tell students to retrieve documents with pre-class work (figures and captions) so they are ready to copy and paste poll answers.
+- Allow students no more than 1 minute to copy and paste their pre-class work here.
+
+​
+
+Student provided answer. 
+
+
+----------------------------------------
+
+4.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+5.
+- Before you launch the poll, tell students to retrieve documents with pre-class work (figures and captions) so they are ready to copy and paste poll answers.
+- Allow students no more than 1 minute to copy and paste their pre-class work here.
+
+Student provided answer.
+
+
+----------------------------------------
+
+6.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+7.
+- Before you launch the poll, tell students to retrieve documents with pre-class work (figures and captions) so they are ready to copy and paste poll answers. 
+- Allow students no more than 1 minute to copy and paste their pre-class work here.
+
+Student provided answer.
+
+
+----------------------------------------
+
+8.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+9.
+- Before you launch the poll, tell students to retrieve documents with pre-class work (figures and captions) so they are ready to copy and paste poll answers. 
+- Allow students no more than 1 minute to copy and paste their pre-class work here.
+
+Student provided answer.
+
+
+----------------------------------------
+
+10.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+11.
+Tell the students that we will examine the different figures they made, one at a time in subsequent breakouts.
+
+   1. Optional: What variables did you plot for the pre-class work?
+
+Follow up: What does it mean to have a negative or positive ice mass anomaly?
+
+    Student provided answers
+
+----------------------------------------
+
+12.
+Visit a few groups to see what figure(s) you would like to focus on if you choose the optional debrief to feature breakout groups.
+
+​
+
+NOTE: These breakout notes are Google Docs so that students can copy and paste their figures for each other to view and comment on. This means that the dashboard will not be collecting their responses and to view the student' breakout work and contributions you will have to visit groups.
+
+
+----------------------------------------
+
+13.
+1) Allow students approximately 3 minutes to answer the poll question.
+
+2) Feature 3-4 poll answers that highlight different errors. Call on students at random to follow up by explaining the implications of a particular error (e.g., what are the consequences of mislabelling the axes?)
+
+3) Call on students at random to answer the focus question below.
+
+4) (Optional) You might find it useful to feature the figure(s) from a student/breakout that produced effective figures (use the next optional step in the timeline).
+
+5) Tell students that now they will go into a new breakout and examine each other’s scatter plots.
+
+​
+
+**Some common errors**:
+
+- Axes not labelled
+- Axes incorrectly labelled (land ice mass anomalies, not land ice mass)
+- No units on axis labels
+- If a student plots both land masses, they should provide a legend to indicate which line corresponds to which ice mass
+- Choice of scale
+- For this line graph, the most useful figure would have both Greenland and Antarctica on the same graph. This allows to compare the change in both land ice mass anomalies (It is not incorrect to plot only 1 ice mass, but one can glean the maximum information when both are plotted).
+- If time permits you may also comment on aesthetic elements (e.g. the use of gridlines).
+
+   1. What are the key patterns you discern from the line graph?
+
+    Both regions display a downward trend, indicating a decrease in ice mass over time. In this time Greenland shows a larger anomaly compared to Antarctica, signaling a faster rate of decrease.
+
+----------------------------------------
+
+14.
+Use this step if there are examples of student work from the breakout you'd like to highlight.
+
+
+----------------------------------------
+
+15.
+Visit a few groups to see what figure(s) you would like to focus on if you choose the optional debrief to feature breakout groups.
+
+​
+
+NOTE: These breakout notes are Google Docs so that students can copy and paste their figures for each other to view and comment on. This means that the dashboard will not be collecting their responses and to view the student' breakout work and contributions you will have to visit groups.
+
+
+----------------------------------------
+
+16.
+1. Call on 2-3 students at random to answer each focus question. Allow approx. 2 minutes per focus question.
+2. (Optional) You might find it useful to feature the figure(s) from a student/breakout that produced effective figures (use the next optional step in the timeline).
+3. Tell students that now they will go into a new breakout and examine each other’s histograms.
+
+   1. What were some weakness in the scatter plots discussed in your group?
+
+    Student provided answers. Some sample answers:
+
+1) Data symbols are very large and overlapping, cannot discern individual data points.
+
+2) Plotting Land ice mass anomaly vs time. This does not add useful information compared to the line graph. Plotting Greenland vs Antarctica is more informative.
+,   2. What are the key patterns you discern from the scatter plot?
+
+    There is a positive relationship between Greenland and Antarctica land ice mass anomaly (as one variable increases, the other will likely increase, and vice versa). Some students may
+calculate a correlation coefficient. The positive correlation does not indicate causation, but one can hypothesize that there is a common underlying cause (e.g. rise in temperature).
+,   3. In what situations is it appropriate to place a line on a graph to connect the data points?
+
+    When to connect the dots:
+
+- If the data are continuous data in a time series.
+- If each point in the series is obtained from the same source, when the measures are dependent on the measurements of the prior days (e.g., cumulative plant growth over time).
+
+When to add a best-fit line:
+
+- To show the relationship of data points on a scatterplot (can be linear or curved).
+
+----------------------------------------
+
+17.
+Use this step if there are examples of student work from the breakout you'd like to highlight.
+
+
+----------------------------------------
+
+18.
+The eye rest break is in the middle of the activity since there is only one activity this session.
+
+
+----------------------------------------
+
+19.
+Visit a few groups to see what figure(s) you would like to focus on if you choose the optional debrief to feature breakout groups.
+
+​
+
+NOTE: These breakout notes are Google Docs so that students can copy and paste their figures for each other to view and comment on. This means that the dashboard will not be collecting their responses and to view the student' breakout work and contributions you will have to visit groups.
+
+
+----------------------------------------
+
+20.
+1. Call on 2-3 students at random to answer the focus questions below. Allow approx. 2 minutes per focus question.
+2. (Optional) You might find it useful to feature the figure(s) from a student/breakout that produced effective figures (use the next optional step in the timeline).
+
+​
+
+​
+
+   1. What are some decisions you might make when designing a frequency histogram? Explain.
+
+    - At what value to set the bin size. Setting the bin size too large will yield only a few columns, not enough to visualize a pattern. Conversely, setting the bin size too small would result in very short columns scattered along a long axis, again obscuring the pattern.
+- How to plot frequency: Absolute (raw) numbers may result in inability to see patterns depending on the distribution. Relative frequencies (%) may alleviate this, but need to be explicitly indicated.
+,   2. - Bar graphs and histograms superficially look the same. When would you use a histogram rather than a bar graph? 
+
+    - Bar graphs are used to compare the values of a single variable among several groups or levels on another variable (e.g., countries). For example, the growth of plants that are treated with 3 different types of fertilizer. Each treatment would be on the x-axis as a separate bar and the growth would be the response variable (y-axis).
+- Frequency histograms are important in describing populations, that is, how individuals are distributed according to the measured variable. The measures on the x-axis are “binned” into groups, and then the y-axis (height of the bars) indicates the number of individuals that were in that binned group. For example, frequency histograms of heights or student test scores are common uses.
+,   3. What are the key patterns you observe from the histograms?
+
+    Greenland has a wider range of ice mass anomalies which suggests more variation in mass anomalies. Antarctica, on the other hand, has high frequencies for certain values, for example, around 500 Gt, which indicates that Antarctica’s ice mass fluctuation is more stable relative to that of Greenland.
+,   4. What were some weakness in the histograms discussed in your group?
+
+​
+
+    Student provided answers. Some sample answers:
+
+1) Very large or very small bin sizes (these do not allow one to clearly discern the distribution)
+
+2) Generating a bar graph instead of a histogram.
+
+​
+
+----------------------------------------
+
+21.
+Use this step if there are examples of student work from the breakout you'd like to highlight.
+
+
+----------------------------------------
+
+22.
+Show these figures to highlight how seemingly small details (e.g., bin size, axis range) can have a large impact on interpretations of the data.
+
+​
+
+For bin size, the distributions appear more similar when bin size is small.
+
+​
+
+For axis range, the second set of figures visually shows the differences in the range of the data. For the first set of figures, it would be easy for a viewer to overlook the different numbers on the x axis and mistakenly interpret the range of the data as similar. 
+
+
+----------------------------------------
+
+23.
+- Give students 15-20 seconds to answer the poll
+- Call on 2-3 students at random to answer the focus questions below. Allow 1-2 minutes per focus question.
+- You might find it useful to feature the figure(s) from a student/breakout that produced effective figures.
+
+   1. Ask a student to explain their choice.
+
+Follow-up: What are advantages and disadvantages of each way of presenting the data?
+
+    Student-provided answers.
+
+​
+
+_**Note to instructors**_: For the data set we considered here, with continuous data over time, line graphs are effective for showing the variability over time. But other visualizations can highlight other aspects of these data sets--which will be more or less useful. It depends on your objectives (what you want to highlight) and the characteristics of the data (e.g., categorical vs. continuous). 
+,   2. Which figure type is less effective at conveying key features of the dataset? Why?
+
+    Student-provided answers. Students might identify the histogram as least insightful. Push students to identify other scenarios in which a histogram would be more useful.
+,   3. We did not generate a bar graph for this session. Provide an example to illustrate when a bar graph would be effective, and an example where another figure type would be more effective.
+
+    Bar graph may clearly portray differences among groups but does not allow you to clearly see the relationship between variables (a line graph may be better suited to see relationships between two variables). Student provided examples.Some example answers:
+
+- A bar graph may clearly portray differences among groups.
+- A strength of a line graph is to portray the relationship between variables.
+- Some example weaknesses:
+    - A bar graph does not allow you to see precise individual data values easily.
+    - A scatterplot may not allow you clearly to see differences between two groups.
+
+----------------------------------------
+
+24.
+- Ask a student one thing they will remember the next time they make a figure.
+- After the student's answer, make the point that data visualization skills require repeated practice and improvement.
+
+
+----------------------------------------
+
+25.
+1) Allow students 5 minutes to answer the poll question.
+
+2) Feature exceptional responses
+
+3) Call on students at random to answer the focus question below.
+
+​
+
+SAMPLE ANSWER:
+
+From patterns across three different data visualizations it's clear that some overarching factor is causing the long term decrease in the anomalies of ice mass in Greenland and Antarctica. The line graph shows overall trend of decrease, yet with lots of variability and seasonality. The scatter plot shows us that there is a strong correlation (with r=0.95) between the two ice masses suggests common causes, such as that there is a warming effect that is impacting both places. From the histogram it is clear that the range of anomalies is different, therefore the absolute affect is also different.
+
+   1. What additional questions do these patterns raise? How might you test these ideas?
+
+    Student provided answers
+
+----------------------------------------
+
+26.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+SAMPLE ANSWER:
+
+From patterns across three different data visualizations it's clear that some overarching factor is causing the long term decrease in the anomalies of ice mass in Greenland and Antarctica. The line graph shows overall trend of decrease, yet with lots of variability and seasonality. The scatter plot shows us that there is a strong correlation (with r=0.95) between the two ice masses suggests common causes, such as that there is a warming effect that is impacting both places. From the histogram it is clear that the range of anomalies is different, therefore the absolute affect is also different.
+
+
+----------------------------------------
+
+27.
+- Call on 1-2 students to provide a take-home from this session.
+- Summarize the following take-home in your own words.
+    - **Lesson summary:** Creating and analyzing data visualizations are important skills that are relevant beyond science. Different representations of the same data may offer different insights while obscuring others. Deciding which visualization to present and how to present the data will depend on which result one wishes to highlight and in what context the graphic will be presented.
+- Remind students that they will generate one more visualization of the same data set for the next class session.
+- Call on 1-2 students to answer the focus questions.
+
+   1. Since we began this unit on data visualization, have you noticed any figures outside this class that you were able to evaluate with a more critical eye? What was effective or not effective?
+    Student-provided answers.,   2. What learning principle was effectively drawn on in this session?
+    - Deliberate practice.
+- Student may identify others: deep processing, generation effect are also relevant.
+
+
+===================RESOURCES===================
+
+black-genesis-drop-ceiling-tiles-740-07-64_1000.jpg
+https://s3.amazonaws.com/picasso.box_resources/5d353128-8ba4-11ec-9040-d2193438795c/black-genesis-drop-ceiling-tiles-740-07-64_1000.pdf
+null
+
+--------------------------------------------
+
+Optional Hook 1
+https://docs.google.com/document/d/1koq4NEyQnPO3dHp4bt4P-GAIR553Ger5KlBDPC-YsVs/edit
+null
+
+--------------------------------------------
+
+Optional Hook 2
+https://docs.google.com/document/d/1lO54byhRbpEdJv0D1o0ytKjFoAqwDIKr_-iPAJtTylM/edit
+null
+
+--------------------------------------------
+
+Optional Hook 3
+https://docs.google.com/document/d/1_hr3MxYEjLIpygi3WGj6WpzdgNgaRRPI4tcVeIZf1rM/edit
+null
+
+--------------------------------------------
+
+Optional Hook 4
+https://docs.google.com/document/d/13wGukWK4-A-gOduDonxaJC8wlQ0T85nBoRmoiq7KRuY/edit
+null
+
+--------------------------------------------
+
+Optional Hook 5
+https://docs.google.com/document/d/1q9DHG5WSXV6kWwzCzC56Z_GvDFs0h2dGAQKREOYF-5A/edit
+null
+
+--------------------------------------------
+
+SLIDE Histograms
+https://course-resources.minervaproject.com/uploaded_files/production/00026366-0452/deriving-insights-5.1---histograms.pdf
+null
+
+--------------------------------------------
+
+SLIDE McDonald's Curve
+https://course-resources.minervaproject.com/uploaded_files/production/00026367-0308/deriving-insights-5.1---mcdonald-s-curve.pdf
+null
+
+--------------------------------------------
+
+[template] NOTES Histogram Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/ca3ad75f-c2e6-463a-b75a-e1c478a0a4d6/
+null
+
+--------------------------------------------
+
+[template] NOTES Line Graph Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/603f8399-bcd9-4e37-8ff6-fe5308d08aaf/
+null
+
+--------------------------------------------
+
+[template] NOTES Scatter Plot Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/58482f8e-4a0f-4106-a526-0b3e962d6212/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1611585
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data Visualizations and Modeling</p><p><strong>Big Question:</strong> How do we mitigate human-caused climate change?</p><p><strong>LO: </strong><span style="color: rgb(10, 120, 191);">#visualizations</span> - Interpret, analyze, and create data visualizations.</p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Critique different visualizations of the same data set.</li><li>Determine key patterns and trends in the visualizations.</li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><span style="color: rgb(10, 120, 191);">#visualizations </span><strong>- Interpret, analyze, and create data visualizations.</strong></p><h6><br/></h6><p>Typically, one can understand data best by looking at it from multiple different perspectives, which can be facilitated by data visualization techniques—this is because the human brain did not evolve to be able rapidly to scan and make sense of columns of data. Histograms, cumulative histograms, difference histograms, bar graphs, line graphs, scatter plots, and many other types of graphics can provide insights into how to ask and answer questions. Different data visualization techniques have different strengths and weaknesses, and one must consider properties of the data and the questions of interest when deciding how best to use these tools.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction - 1611615
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><ul><li>Critique different visualizations of the same data set.</li><li>Determine key patterns and trends in the visualizations.</li></ul><p><br/></p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1611661
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goals</h1><ul><li>Critique different visualizations of the same data set.</li><li>Determine key patterns and trends in the visualizations.</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1611672
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data<strong> </strong>Visualizations and Modeling</p><p><strong>Big Question:</strong> How do we mitigate human-caused climate change?</p><p><strong>LOs: </strong><span style="color: rgb(10, 120, 191);">﻿#visualizations﻿</span> - Interpret, analyze, and create data visualizations.</p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Critique different visualizations of the same data set.</li><li>Determine key patterns and trends in the visualizations.</li></ul></div></div></div></div></div></div>

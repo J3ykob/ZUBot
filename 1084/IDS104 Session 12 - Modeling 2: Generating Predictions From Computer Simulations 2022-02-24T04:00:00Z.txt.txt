@@ -1,0 +1,1351 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+The famous Ebola virus in central Africa has a very short duration, a very high infectiousness value, and an extremely low recovery rate. The values for each factor in previous outbreaks are given below.
+
+- infectiousness. The infection rate in the same household changed from 1% to 50% with an average of 12%. 
+- chance-recover. The average recovery rate from Ebola is 50%. Recovery rates have changed from 10% to 75% in the past outbreaks.
+- duration: An individual with Ebola remains contagious for 2 to 8 weeks.
+
+Using the information above modify the preset values in the virus model. Explain (a) the values you used for each factor and (b) the spread of the virus in the population.
+
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+The famous Ebola virus in central Africa has a very short duration, a very high infectiousness value, and an extremely low recovery rate. The values for each factor in previous outbreaks are given below.
+
+- infectiousness. The infection rate in the same household changed from 1% to 50% with an average of 12%. 
+- chance-recover. The average recovery rate from Ebola is 50%. Recovery rates have changed from 10% to 75% in the past outbreaks.
+- duration: An individual with Ebola remains contagious for 2 to 8 weeks.
+
+Using the information above modify the preset values in the virus model. Explain (a) the values you used for each factor and (b) the spread of the virus in the population.
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+The famous Ebola virus in central Africa has a very short duration, a very high infectiousness value, and an extremely low recovery rate. The values for each factor in previous outbreaks are given below.
+
+- infectiousness. The infection rate in the same household changed from 1% to 50% with an average of 12%. 
+- chance-recover. The average recovery rate from Ebola is 50%. Recovery rates have changed from 10% to 75% in the past outbreaks.
+- duration: An individual with Ebola remains contagious for 2 to 8 weeks.
+
+Using the information above modify the preset values in the virus model. Explain (a) the values you used for each factor and (b) the spread of the virus in the population.
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+The famous Ebola virus in central Africa has a very short duration, a very high infectiousness value, and an extremely low recovery rate. The values for each factor in previous outbreaks are given below.
+
+- infectiousness. The infection rate in the same household changed from 1% to 50% with an average of 12%. 
+- chance-recover. The average recovery rate from Ebola is 50%. Recovery rates have changed from 10% to 75% in the past outbreaks.
+- duration: An individual with Ebola remains contagious for 2 to 8 weeks.
+
+Using the information above modify the preset values in the virus model. Explain (a) the values you used for each factor and (b) the spread of the virus in the population.
+
+
+------------------------------------------
+
+HIV model
+
+outcome
+
+How would you revise the NetLogo VIRUS model to better model HIV, given the limitations that were discussed during the activity?
+
+
+------------------------------------------
+
+HIV hypothesis
+
+outcome
+
+In his TedTalk, Rosling (2009) suggests that coupling tendencies may drive the HIV epidemic. Identify a hypothesis about HIV from Rosling’s observational data that you might be able to explore using a simulation (using a different simulation than the NetLogo simulation you conducted in the previous activity).
+
+
+------------------------------------------
+
+Parameter values
+
+none
+
+What parameter values did you specify to evaluate the hypothesis?
+
+ - INITIAL-PEOPLE
+ - AVERAGE-COUPLING-TENDENCY
+ - AVERAGE-COMMITMENT
+ - AVERAGE-CONDOM-USE
+ - AVERAGE-TEST-FREQUENCY
+ - OTHER
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Compare the two models that you used for simulating HIV spread through a population. Identify a key strength and weakness of each.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce this session. 
+- Start class by asking the focus questions.
+
+   1. Are models always intended to reproduce observations?
+
+    It is a common misconception that they are, but draw attention to the LO statement that “One can vary the nature of inputs...and then observe how the model behaves”. For example, we can also use models to test things that are not observable (Eg. put a giant ice sheet on North America…).
+,   2. How are computer simulations used to generate empirical predictions in science?
+
+_Follow-up:_ What is the role of predictions in the typical cycle that underlies scientific research? What is that cycle?
+
+    One can examine the results of a simulation of mathematical model and then develop predictions from those results. 
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+10.
+- Ask focus questions to prime the breakout work.
+- Briefly introduce the breakout. 
+
+   1. What are some assumptions of the VIRUS model?
+
+    - Homogenous mixing of the population
+- Dynamics at sub-weekly scales are negligible
+- Encounters are sequential (only two turtles can occupy the same patch/location)
+,   2. What is an appropriate strategy to vary parameters to understand their effect?
+
+    Start by varying one at a time.
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+
+
+----------------------------------------
+
+12.
+Briefly explain how the debrief will work. 
+
+----------------------------------------
+
+13.
+NOTE: The next step is exactly the same as this. It is there for you to click back and forth to bring different students on screen. Ask student to mark checks/x's to agree/disagree with responses.
+
+- Tell students that as this debrief continues, they should identify, based on the simulations presented, a prediction about the outbreaks (based on the models) that is the most pressing to test.
+- Call on students to answer the focus questions based on their pre-class work (no more than 30 seconds per student). Prompt students with strong answers to type their summary into the correct column in the table after they speak.
+- The goals are to lead the students (epidemiologists) to:
+    - Explain the models:
+        - Explain the models and the results,
+        - Identify limitations of these models,
+    - Advise the NICD:
+        - Compare the results to make a decision for which is most important to fund most heavily,
+        - Identify predictions from the models that require further research.
+
+   1. How did you modify the pre-set values for Infectiousness, Duration, and Chance-Recover to simulate the Ebola/HIV virus? Why?
+    *Ebola*:
+
+* Infectiousness: low
+
+* Duration: 2 weeks- 9 weeks
+
+* Chance-recover: \~50% (can range from 10-75%)
+
+*HIV*:
+
+* Infectiousness: low
+
+* Duration: very long
+
+* Chance-recover: very low,   2. What happens when you run the simulation with the values that you consider most realistic? Did the simulation settle down to stable, periodic, or chaotic behavior?
+
+Follow-up: Were there any conditions under which everyone died, even though you chose realistic settings?
+    *Ebola*: Typically settles to stable, with most people uninfected.\
+*HIV*: Typically settles to chaotic or stable (can be many people infected or very few).
+
+Follow-up:
+
+*Ebola*: Unlikely, unless the virus has higher infectivity or longer duration.\
+*HIV*: Possibly.,   3. Were there any conditions under which the virus went extinct? 
+    *Ebola*: In most simulations, the Ebola virus goes extinct eventually.\
+*HIV*: Some, student-provided answers.,   4. What are the limitations of these models/simulations?
+    Both of these are very simplified virus models. They can give a basic sense of the relative differences between viruses, but are not necessarily good at predicting what may happen in a given population.,   5. Should the NICD be worried about either of these diseases (Ebola or HIV) as a potential pandemic? Why?
+
+Follow-up: If you heard that Ebola was mutating in the wild, what would be the worst news you could get in terms of what properties of the virus are changing?
+    Based on these models, the NICD should be concerned about HIV as a potential pandemic, but less concerned about Ebola.
+
+Follow-up: The worst news would be that the duration of infection has lengthened and/or that infectiousness has increased.
+----------------------------------------
+
+14.
+NOTE: The previous step is exactly the same as this. It is there for you to click back and forth to bring different students on screen.
+
+- Tell students that as this debrief continues, they should identify, based on the simulations presented, a prediction about the outbreaks (based on the models) that is the most pressing to test.
+- Call on students to answer the focus questions based on their pre-class work (no more than 30 seconds per student). Prompt students with strong answers to type their summary into the correct column in the table after they speak.
+- The goals are to lead the students (epidemiologists) to:
+    - Explain the models:
+        - Explain the models and the results,
+        - Identify limitations of these models,
+    - Advise the NICD:
+        - Compare the results to make a decision for which is most important to fund most heavily,
+        - Identify predictions from the models that require further research.
+
+   1. How did you modify the pre-set values for Infectiousness, Duration, and Chance-Recover to simulate the Ebola/HIV virus? Why?
+    *Ebola*:
+
+* Infectiousness: low
+
+* Duration: 2 weeks- 9 weeks
+
+* Chance-recover: \~50% (can range from 10-75%)
+
+*HIV*:
+
+* Infectiousness: low
+
+* Duration: very long
+
+* Chance-recover: very low,   2. What happens when you run the simulation with the values that you consider most realistic? Did the simulation settle down to stable, periodic, or chaotic behavior?
+
+Follow-up: Were there any conditions under which everyone died, even though you chose realistic settings?
+    *Ebola*: Typically settles to stable, with most people uninfected.\
+*HIV*: Typically settles to chaotic or stable (can be many people infected or very few).
+
+Follow-up:
+
+*Ebola*: Unlikely, unless the virus has higher infectivity or longer duration.\
+*HIV*: Possibly.,   3. Were there any conditions under which the virus went extinct? 
+    *Ebola*: In most simulations, the Ebola virus goes extinct eventually.\
+*HIV*: Some, student-provided answers.,   4. What are the limitations of these models/simulations?
+    Both of these are very simplified virus models. They can give a basic sense of the relative differences between viruses, but are not necessarily good at predicting what may happen in a given population.,   5. Should the NICD be worried about either of these diseases (Ebola or HIV) as a potential pandemic? Why?
+
+Follow-up: If you heard that Ebola was mutating in the wild, what would be the worst news you could get in terms of what properties of the virus are changing?
+    Based on these models, the NICD should be concerned about HIV as a potential pandemic, but less concerned about Ebola.
+
+Follow-up: The worst news would be that the duration of infection has lengthened and/or that infectiousness has increased.
+----------------------------------------
+
+15.
+- Prompt all students to answer the poll. After approx. 2 minutes, end the poll.
+- Feature responses and call on the authors to justify.
+
+
+----------------------------------------
+
+16.
+- Call on a student to identify a take-home message from this activity.
+- Call on another to refine/revise if necessary.
+- Summarize in your own words.
+    - Sample: Looking at how the model applies to different infections helps understand the limitations of models and how well (or poorly) they approximate the disease dynamics. That process of evaluation is an important skill.
+
+
+----------------------------------------
+
+17.
+Take a one minute eye rest break. 
+
+
+----------------------------------------
+
+18.
+- Briefly introduce the activity. Tell students they will generate a hypothesis in the next step, and then work in breakouts to test the hypothesis using a new simulation.
+- Allow students approx. 1 minute to skim the parameters slide and ask any clarifying questions.
+
+
+----------------------------------------
+
+19.
+- Allow students approx. 2 minutes to answer the poll.
+- End the poll and go to the next step to debrief.
+
+_**Note to Instructor**_: You should work with the simulation used in the next breakout before class so that you know which hypotheses will and will not be appropriate--and thus can help guide students to explore one that is appropriate.
+
+
+----------------------------------------
+
+20.
+Come to a consensus on a testable hypothesis that would work for the breakout (recommend the first hypothesis above; or refine a hypothesis that was suggested by a student). Explain that students will now work in breakouts to test the hypothesis using a new simulation (instructions are in breakout notes).
+
+​
+
+NOTE: It could be helpful to enter the consensus hypothesis in the chat (e.g., The prevalence of HIV in many African countries is due to a greater likelihood of individuals having concurrent partners than sequential ones.)
+
+​
+
+SAMPLE HYPOTHESES from the Rosling talk:
+
+1. The prevalence of HIV in many African countries is due to a greater likelihood of individuals having concurrent partners than sequential ones.
+2. The slower decline of percent of population infected with HIV in more affluent countries is due to the greater access to drugs.
+3. Hypothesize that the difference in HIV rates in different African countries is because they use condom-based prevention programs rather than abstinence-based programs.
+
+
+----------------------------------------
+
+21.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- It could be helpful to enter the consensus hypothesis in the chat (e.g., The prevalence of HIV in many African countries is due to a greater likelihood of individuals having concurrent partners than sequential ones).
+
+
+----------------------------------------
+
+22.
+- Give students ~30 seconds to fill in the poll.
+- End the poll and ask a student to justify their answer.
+
+​
+
+**Answer**:
+
+The answer depends on the hypothesis.
+
+​
+
+For the concurrency hypothesis, the correct answer is "other" because the combination of average coupling tendency (high) and average commitment (low) best approximates concurrent partnership, given the limitation of the model that only two "turtles" can occupy a patch at any time.
+
+
+----------------------------------------
+
+23.
+- Call on students across all groups using the focus questions below.
+
+   1. What conclusions can you draw about the hypothesis from this simulation?
+
+    Student-provided answers. Call on all students to use the checkmark and X to identify whether they found the same results. Call on those students who found different conclusions (and those who do not answer).,   2. Based on the simulation results presented, what is your prediction about the best preventative measures that the NICD should implement to help control the HIV/AIDS outbreak?
+
+Follow-up: How could you test these predictions?
+    Follow-up: Some possible answers:
+
+* Implement the preventative measures and use observational data to see whether the pattern follows the simulation.
+
+* Additional simulations.
+
+* Comparative studies (one area that implemented the measure and one that does not)-- these could be retrospective.,   3. Identify a limitation of this simulation and explain how you could modify it to make it more realistic.
+
+Follow-up: Are the limitations of this model severe enough to limit the conclusions one can draw?
+    Student-provided answers.
+----------------------------------------
+
+24.
+- Call on a student to identify a take-home message from this activity.
+- Call on another to refine/revise if necessary.
+- Summarize in your own words.
+    - SAMPLE: The assumptions and limitations of a model determine whether they provide appropriate insight on a topic. For the concurrency hypothesis, the limitation actually impinges on the ability of the NetLogo model to provide insight, but there is a workaround, though it's debatable whether that's sufficient. No model is perfect, so being able to understand shortcomings like this and make the right call on whether the model results apply is an important skill.
+
+
+----------------------------------------
+
+25.
+- Allow students approx. 5 minutes to answer the poll 
+- Debrief and move on to session summary
+
+
+----------------------------------------
+
+26.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+27.
+- Call on a student to provide a take-home from this class session.
+- Summarize the following take-home in your own words: One can vary the settings in a simulation to (a) capture key properties of different systems and (b) assess how a system might behave under different conditions. By observing the outcome from running these simulations one can derive new predictions for how the underlying systems and phenomena might behave. In the iterative process that underlies the scientific method, the results of testing predictions can be used to improve the model and also to suggest interventions for controlling the real system (in this case, preventing pandemics).
+- Use the focus question to deepen discussion of applications.
+
+   1. Would the NetLogo virus model be appropriate for investigating the dynamics of influenza infections in college dorms? How would you modify the model to address this question?
+
+    Some answers include changing the population density to reflect the size of the incoming class, change the percent affected at week zero etc.,   2. If you were going to develop your own simulation--of any system--to make a prediction, what would it be and why?
+    To get the conversation started you can suggest simulations of traffic patterns to predict how construction will affect travel times.
+
+===================RESOURCES===================
+
+black-genesis-drop-ceiling-tiles-740-07-64_1000.jpg
+https://s3.amazonaws.com/picasso.box_resources/ff595982-7715-11ec-ba25-9a7b3cd9f4c7/black-genesis-drop-ceiling-tiles-740-07-64_1000.pdf
+null
+
+--------------------------------------------
+
+Simulation Summaries
+https://docs.google.com/document/d/13LCK4jWCX48HhAxJUDAoc3VwshzhIUxJVPInJLG4Y7A/edit
+null
+
+--------------------------------------------
+
+[template] NOTES NICD Response Models Breakouts
+https://sle-authoring.minervaproject.com/api/v1/worksheets/8954acbb-cca1-4dad-a94e-aee474c838dd/
+null
+
+--------------------------------------------
+
+[template] NOTES HIV Prediction Breakouts
+https://sle-authoring.minervaproject.com/api/v1/worksheets/ba754fc1-37ef-447b-9a02-92eff0447dd0/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1553968
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data<strong> </strong>Visualizations and Modeling</p><p><strong>Big Question: </strong>How can we avoid global pandemics? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span></span> - Recognize how models can be used to explain a set of data and generate new predictions.</li><li><span style="color: rgb(10, 120, 191);">#visualizations</span> - Interpret, analyze, and create data visualizations.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="hypothesisdevelopment">﻿<span>#hypothesisdevelopment</span>﻿</span></span> - Evaluate the link between hypothesis-driven research and the theories or observations that motivate it.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Simulate infections of viruses with different properties. </li><li>Use the iterative scientific method to generate testable scientific predictions, test those predictions with computer simulations and generate new predictions from the simulations. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span> - Recognize how models can be used to explain a set of data and generate new predictions.</strong></p><h6><br/></h6><p>Many kinds of models (ranging from conceptual to physical to mathematical to simulation) are used in science. A theory generally guides the construction of a model, indicating which aspects of a model are relevant. Models are used to explain data or to test a theory, often through visualization. One can vary the nature of inputs to a model and the specific constraints on its behavior and then observe how the model behaves —thereby deriving new predictions for how the phenomena in question should change when subjected to those inputs and constraints. Different principles govern predictions about short-term versus long-term behaviors (e.g., random effects tend to cancel out over the long-term, making such predictions more reliable). However, predicted trends must always be viewed with caution, in part because the environment may change.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Introduction - 1554001
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Simulate infections of viruses with different properties.</p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Breakout instructions </h1><h6><br/></h6><p><strong>The Setting</strong>:<em> </em>You are advisors for the National Institute for Communicable Diseases (NICD). There have been outbreaks of two diseases (Ebola and HIV) in your country, and the NICD response team would like your models to assess the risk that these two diseases will spread. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Debrief Instructions - 1554008
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Debrief Instructions</h1><h6><br/></h6><p>NICD plans to allocate funding to combat these diseases based on these models.</p><h6><br/></h6><p>You have been asked to present the results of your modeling for these two diseases to the head of the NICD response team. Other epidemiologists have also been asked to present their competing models at this meeting. So non-presenting teams should use the chat and the handraise to:  </p><ul><li>Raise questions for their fellow researchers and </li><li>Identify errors in their models or model summaries. </li></ul><p>These are important issues because your analyses will directly impact how NICD decides to fund treatment of the two diseases.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Closure Moment - 1554028
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Simulate infections of viruses with different properties.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Introduction - 1554041
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Use the iterative scientific method to generate testable scientific hypotheses, test those hypotheses with computer simulations and generate new predictions from the simulations.</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>NetLogo AIDS Model parameters:</h1><p>Here is a summary of the sliders in the model. They are explained in more detail in the "Model info" tab. </p><ul><li>INITIAL-PEOPLE: How many people simulation begins with (range 50--500).</li><li>AVERAGE-COUPLING-TENDENCY: General likelihood member of population has sex (0--10).</li><li>AVERAGE-COMMITMENT: How many weeks sexual relationships typically lasts (0--200).</li><li>AVERAGE-CONDOM-USE: General chance member of population uses a condom. (0--10).</li><li>AVERAGE-TEST-FREQUENCY: Average frequency member of population will check their HIV status in a 1-year time period (0--2).</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Hypothesis Poll - 1554047
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>NetLogo AIDS Model parameters:</h1><p>Here is a summary of the sliders in the model. They are explained in more detail in the "Model info" tab. </p><ul><li>INITIAL-PEOPLE: How many people simulation begins with (range 50--500).</li><li>AVERAGE-COUPLING-TENDENCY: General likelihood member of population has sex (0--10).</li><li>AVERAGE-COMMITMENT: How many weeks sexual relationships typically lasts (0--200).</li><li>AVERAGE-CONDOM-USE: General chance member of population uses a condom. (0--10).</li><li>AVERAGE-TEST-FREQUENCY: Average frequency member of population will check their HIV status in a 1-year time period (0--2).</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Closure Moment - 1554071
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Use the iterative scientific method to generate testable scientific predictions, test those predictions with computer simulations and generate new predictions from the simulations.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1554083
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data<strong> </strong>Visualizations and Modeling</p><p><strong>Big Question: </strong>How can we avoid global pandemics? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span></span> - Recognize how models can be used to explain a set of data and generate new predictions.</li><li><span style="color: rgb(10, 120, 191);">#visualizations </span>- Interpret, analyze, and create data visualizations.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="hypothesisdevelopment">﻿<span>#hypothesisdevelopment</span>﻿</span></span> - Evaluate the link between hypothesis-driven research and the theories or observations that motivate it.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Simulate infections of viruses with different properties. </li><li>Use the iterative scientific method to generate testable scientific predictions, test those predictions with computer simulations and generate new predictions from the simulations. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Shamma's Screen 
+null
+null
+
+--------------------------------------------
+
+Alya's Screen 
+null
+null
+
+--------------------------------------------
+
+Shaikha's Screen 
+null
+null

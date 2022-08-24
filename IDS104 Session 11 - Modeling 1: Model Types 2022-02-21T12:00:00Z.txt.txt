@@ -1,0 +1,1264 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Egger and Carpi (2008) discuss Dalton’s ball and hook models for atoms as an example of what type of model. Explain.
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Explain what a physical model is using an example from the readings.
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Explain what a mathematical model is using an example from the readings.
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What does simplification mean in scientific modeling? Explain.
+
+
+------------------------------------------
+
+Activity 1 Closure Poll
+
+outcome
+
+What do you understand about models that you didn't before the activity?
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Polio has been eradicated globally with the exception of Pakistan and Afghanistan. Some countries (e.g., Ukraine, Tajikistan) continue to experience outbreaks from the importation of wild or vaccine derived poliovirus from another country. What type of models can scientists use to understand poliovirus transmission and why? Explain.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce the session and the Big Question.
+- Introduce the new LO by having students read the LO slide.
+- Ask the focus questions.
+
+   1. What is a model?
+    A visual, physical, or mathematical representation of the structure of a system that can be used to explain data or test a hypothesis or theory,   2. Are all models simplifications of the systems they aim to represent?
+
+    Yes. You may have heard the phrase, "all models are wrong, but some are useful." They are wrong because they inevitably make simplifications. The ones that make the right simplifications for the goal of the model are the models that are useful.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll A:**
+
+- Conceptual model, because they are abstract representations of atoms (i.e., not physical).
+
+**Follow-ups:**
+
+- What are the steps in the modeling process? (Answer: The model is revised, improved, tested again, and compared to observations again in an ongoing, iterative process.)
+- Why are these models still used today if they are so abstract? (Answer: these models are still used because they are useful for some purposes, such as visualizing spatial relationships.)
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+- Conceptual model, because they are abstract representations of atoms (i.e., not physical).
+
+**Follow-ups:**
+
+- What are the steps in the modeling process? (Answer: The model is revised, improved, tested again, and compared to observations again in an ongoing, iterative process.)
+- Why are these models still used today if they are so abstract? (Answer: these models are still used because they are useful for some purposes, such as visualizing spatial relationships.)
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+Physical models are smaller and simpler representations of the object or system being studied. In the readings scientists built a room-sized physical model of the Mississippi River delta in the Gulf of Mexico to understand how key processes that control river deltas interact.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Physical models are smaller and simpler representations of the object or system being studied. In the readings scientists built a room-sized physical model of the Mississippi River delta in the Gulf of Mexico to understand how key processes that control river deltas interact.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+Mathematical models are sets of equations that take into account many factors to represent a phenomenon. An example of a mathematical model in our readings was describing atmospheric circulation using complex mathematical equations, which were then used to predict the weather. Mathematical models are usually done on computers.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+Mathematical models are sets of equations that take into account many factors to represent a phenomenon. An example of a mathematical model in our readings was describing atmospheric circulation using complex mathematical equations, which were then used to predict the weather. Mathematical models are usually done on computers.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+Simplification refers to the fact that scientific models are simpler representations or explanations of the real objects or systems they are derived from. Models do not include every detail or every possible explanation for the phenomenon under study, which allows to perform experiments that cannot be done in the real world .
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+Simplification refers to the fact that scientific models are simpler representations or explanations of the real objects or systems they are derived from. Models do not include every detail or every possible explanation for the phenomenon under study, which allows to perform experiments that cannot be done in the real world .
+
+
+----------------------------------------
+
+10.
+Introduce this activity and explain how each slide discussion will work (using the optional second slide).
+
+----------------------------------------
+
+11.
+- Feature Figure 1 and allow students 30 seconds to review the figure.
+- Use focus questions for each figure (~1.5 minutes per question).
+- Tell students that they will now use these same questions to examine two other models of Ebola in breakouts. 
+
+   1. 1. What type of model is this?
+2. What are the goals of this model?
+3. What are some of the key features of this model? \ \ Follow-up: Are there other features that could have been included?
+4. What are the strengths and limitations of this type of model for understanding these data?
+
+    1. Physical/conceptual (Note: one could argue for conceptual; the difference is not as important as the following questions)
+2. To show the structure of the Ebola virus.
+3. The key features are the structural components of the Ebola virus.
+4. Strengths are that the simplicity makes this easy to read and understand; one limitation is that it does not help one to understand disease dynamics, and may or may not be useful for identifying the virus in a microscope.
+
+----------------------------------------
+
+12.
+Pay attention to breakout groups to find ones that you want to feature in the debrief.
+
+
+----------------------------------------
+
+13.
+- Ask the focus questions.
+- Call on other students to agree or disagree using checks and Xs.
+
+   1. What type of model is this?
+
+    Conceptual.
+
+(Ask students to mark checks or x's if they agree or disagree).
+,   2. What are the goals of these models and potential uses?
+
+    To illustrate the disease dynamics. Model A is a general transmission model, whereas B includes some important elements specific to Ebola, which can be useful in taking some action to reduce the spread of ebola.
+
+Note: This is a good example to point out the simplifications a model makes. For something like measles, the simpler model A can be effective, whereas the particulars of transmission in ebola are useful to include in model B, even though it complicates things.
+,   3. What are some of the key features of this model? \ \ Follow-up: Are there other features that could have been included?
+
+    Student-generated answers.
+,   4. What are the strengths and limitations of this type of model for understanding these data?
+
+    Strengths of this are the simple visual on routes of infection; some limitations are that the real world is much more complex than the simple potential routes given in the visualization.
+
+----------------------------------------
+
+14.
+- Ask the focus questions.
+- Call on other students to agree or disagree using checks and Xs.
+
+   1. What type of model is this?
+
+​
+
+    Computer simulation
+
+(Ask students to mark checks or x's if they agree or disagree).
+
+​
+
+​
+,   2. What are the goals of these models and potential uses?
+
+    To model what might happen to a population over time that is dealing with infection. It could be used to evaluate a potential public health response (e.g., would quarantining be likely to have a positive impact?).
+
+​
+
+Note: This is a good example to point out that simulations of computational models are particularly useful in situations where running an experimental or observational study would be impractical, unethical, or just too slow. For the response to an outbreak like ebola they are crucial tools.
+,   3. What are some of the key features of this model? \ \ Follow-up: Are there other features that could have been included or excluded?
+
+    One can change some parameters (e.g., transmission rate, contagious period, mortality rate) and then see the outcomes of that particular disease in a population over time.
+,   4. What are the strengths and limitations of this type of model for understanding these data?
+
+    Strengths are the ability to modify the inputs and see the potential range of consequences. Limited by the simplicity of the equations used to generate the simulation and the accuracy of the parameters specified.
+
+----------------------------------------
+
+15.
+- Give students two minutes to fill out the poll.
+- Debrief an answer or two as time allows.
+
+SAMPLE ANSWERS:
+
+- There is a broad range of types of models for one subject, and they can apply to different aspects of the scientific method for a particular research question.
+- Applying models properly requires identifying the strengths and weaknesses of a model, and seeing how those do (or don't) fit with the goal of the model.
+
+​
+
+   1. (Optional) How do these models play different roles for understanding and responding to Ebola?
+
+    Student provided answers.
+
+----------------------------------------
+
+16.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+17.
+Introduce the learning goal by telling students that now we come up with idea of how different models commonly used in biomedical research could be applied to understanding disease and vaccine development.
+
+​
+
+The video they are about to watch explains in vivo and in vitro models. Remind them that their preclass work also included  a video on a computational model of the human body.
+
+
+----------------------------------------
+
+18.
+Pay attention to breakout groups to see which ones you want to highlight in the debrief.
+
+
+----------------------------------------
+
+19.
+1. Call on students at random to identify 2-3 research questions for each model type.
+2. Points for discussion:
+
+
+- Cell culture can help investigate the basic biochemical processes. This approach could be used to understand the biology of the virus, the cellular response to viral infection etc.
+- Model organisms are useful to study the functioning of the body as a whole, looking at the interaction of all its different tissues, as well as to study behavior. Model organisms can be used to assess safety of a vaccine.
+- Computational models require a deep understanding of the underlying biology of the system. Computational models are unlikely to be used for vaccine development, but might be used to determine dose of vaccine.
+
+
+----------------------------------------
+
+20.
+Introduce the breakout instructions, and then start the breakout.
+
+
+----------------------------------------
+
+21.
+Pay attention to breakout groups to see if there are answers you'd like to highlight in the debrief.
+
+
+----------------------------------------
+
+22.
+- Call on students across all groups to identify criteria used to evaluate which model organism is the most appropriate. Prompt students with strong answers to type the criteria into the document.
+- Ask students to consider how each model organism fares with respect to each criterion. Instructors may need to step in and do some information transfer, especially for the last criterion. Sample answers provided below.
+- Answer questions that students identify. Some of the more obvious characteristics of each model organism are summarized below.
+- To wrap up, call on 1-2 students to answer the focus question below.
+
+​
+
+_**Note to faculty:**_ You may want to clarify that in this activity students should focus on comparing and contrasting potential model organisms, not necessarily the ethics of whether or not model organisms should be used. As noted in the instructions, the findings are potentially life-saving but the research cannot be conducted initially with humans, and all ethical guidelines will be followed. Discussion that veers in the direction of whether or not it is appropriate to use these animals in research (e.g., animal rights discussion) should focus on ethics as a criteria (i.e., comments that directly identify advantages and/or disadvantages of specific animal models, such as chimps being perhaps not the best choice because of ethical concerns), but do not allow ethical discussion to supersede the goal of the activity.
+
+Advice on a preface from a previous instructor: "There should be a few broad criteria to evaluate and one of them is surely ethics. Be sure to identify others as well. I am happy to discuss ethics of using animals in research, although that conversation will be best addressed after class or in office hours since we have time constraints in class."
+
+​
+
+Key Criteria and points for discussion:
+
+​
+
+(1) Resources (#constraints): Money, personnel, time etc. Flies>mice>chimps. Large numbers of flies (100s) can be bred very quickly (weeks). Mice require more care and maintenance (they require cages, cleaning etc. but litters can be born in about 3 weeks). Chimps require intensive training of personnel, special housing, additional enrichment and are very expensive.
+
+(2) Ethics: Fruit flies least problematic followed by mice and chimps. You should note for students here that funding agencies and journals require that researchers comply with ethical regulations. Study design and methods should minimize the numbers of animals used, minimize pain etc.
+
+(3) Relatedness to humans (#analogies): Mammals share a similar immune system and respond in similar ways to human disease-causing agents such as viruses. Primates and chimps are more closely related as compared to mice. Fruit flies are the least applicable in this scenario because they do not have an adaptive immune system (an immune system that retains memory of a past infection). This is the principle underlying vaccination, so flies are less useful for vaccine development
+
+​
+
+Other possible criteria:
+
+- What stage in the discovery process (e.g., early on, when screening lots of possible vaccines, might use mice?)
+
+Additional information in document titled 12.1 Model organisms chart
+
+   1. Based on this discussion, which model organism would you select? Why?
+
+    Student provided answers.
+
+----------------------------------------
+
+23.
+- Call on a student to identify a take-home message from this activity.
+- Call on another to refine/revise if necessary.
+- Summarize in your own words.
+    - Sample takehome: Obviously we can't ethically test just any vaccine or drug on humans. The variety of modeling types are crucial to the drug/vaccine development pipeline so that we have an understanding of the safety and efficacy of the particular compound before it gets to clinical trials in humans.
+
+
+----------------------------------------
+
+24.
+- Allow approx. 4 minutes to answer the poll.
+- Debrief and move on to session summary.
+
+
+----------------------------------------
+
+25.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+26.
+* Call on a student to provide a take-home from this session.
+
+* Summarize the following take-home in your own words: All types of models play an important role in scientific research because they can be used to derive predictions and explain data, which may be difficult to do otherwise. However, different models have different strengths and limitations, which must be considered when evaluating the usefulness of a model for explaining the phenomena it was developed to address. 
+
+* Ask the focus question. 
+   1. Can you think of uses of models in other disciplines? Do these models have similar limitations?
+
+    Some examples:
+
+* Architectural mock-ups of buildings before the building is made (a physical model).
+
+* Most economic models, whether economic forecasting or supply/demand or calculating GDP (typically mathematical models, some simulation).
+
+* Mock-up of a crime scene to solve a murder (could be a physical model or a conceptual, depending).
+
+===================RESOURCES===================
+
+black-genesis-drop-ceiling-tiles-740-07-64_1000.jpg
+https://s3.amazonaws.com/picasso.box_resources/e36a385e-7715-11ec-bf3a-c6c9f71c3d7b/black-genesis-drop-ceiling-tiles-740-07-64_1000.pdf
+null
+
+--------------------------------------------
+
+ModelorganimsChart.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/00089457-3765/12.1modelorganimschart.pdf
+null
+
+--------------------------------------------
+
+SLIDE Ebola Virus Anatomy
+https://course-resources.minervaproject.com/uploaded_files/production/00026381-5752/deriving-insights-6.1---activity-1-fig-1.pdf
+null
+
+--------------------------------------------
+
+SLIDE Transmission Models
+https://course-resources.minervaproject.com/uploaded_files/production/00026382-2190/deriving-insights-6.1---activity-1-fig-2.pdf
+null
+
+--------------------------------------------
+
+SLIDE Infection Computer Simulation
+https://course-resources.minervaproject.com/uploaded_files/production/00026383-4982/deriving-insights-6.1---activity-1-fig-3.pdf
+null
+
+--------------------------------------------
+
+In vivo vs. in vitro drug development
+https://www.youtube.com/embed/-p-a1VWA5oc
+null
+
+--------------------------------------------
+
+Optional #simulation
+https://docs.google.com/document/d/1FnaL2HwaT19X1BwaldNZIDsYR803gwQwF6LLKowIMhk/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Evaluating Models Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/c418efaa-0212-44ba-8f0f-f570b8788f9e/
+null
+
+--------------------------------------------
+
+Generated Structured Learning Exercise
+https://sle-authoring.minervaproject.com/api/v1/worksheets/52c2aa4f-a1bf-4af2-8399-f475e42886d2/
+null
+
+--------------------------------------------
+
+[template] NOTES Models in Biomedical Research Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/8b7725de-5ac0-4925-b532-385bbc6f6351/
+null
+
+--------------------------------------------
+
+[template] NOTES Choosing Different Animal Models Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/c5bba7b8-a362-4054-ab96-6fc4198c2bdd/
+null
+
+--------------------------------------------
+
+NOTES Debrief 1
+null
+null
+
+--------------------------------------------
+
+NOTES Debrief 2
+null
+null
+
+--------------------------------------------
+
+Preclass Workbook
+https://sle-authoring.minervaproject.com/api/v1/worksheets/adcb9e66-9b0b-4911-bdb1-9a6bb6dc7376/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1554195
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data Visualisations and Modeling</p><p><strong>Big Question:</strong> How can we avoid global pandemics?</p><p><strong>LO: </strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span> - Recognize how models can be used to explain a set of data and generate new predictions. (introduced)</p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Evaluate the strengths and limitations of different model types. </li><li>Evaluate the advantages and disadvantages of different types of models in biomedical research</li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span> - Recognize how models can be used to explain a set of data and generate new predictions.</strong></p><h6><br/></h6><p>Many kinds of models (ranging from conceptual to physical to mathematical to simulation) are used in science. A theory generally guides the construction of a model, indicating which aspects of a model are relevant. Models are used to explain data or to test a theory, often through visualization. One can vary the nature of inputs to a model and the specific constraints on its behavior and then observe how the model behaves—thereby deriving new predictions for how the phenomena in question should change when subjected to those inputs and constraints. Different principles govern predictions about short-term versus long-term behaviors (e.g., random effects tend to cancel out over the long-term, making such predictions more reliable). However, predicted trends must always be viewed with caution, in part because the environment may change. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Introduction - 1554228
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the strengths and limitations of different model types.</p><p><br/></p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Instructions  </h1><ol><li>We will look at three figures, each of which presents a different model associated with Ebola hemorrhagic fever. </li><li>The first figure we will evaluate together and the next two you will evaluate in breakout groups.</li><li>For each figure, examine the figure and consider the:  </li></ol><ul><li>type of model displayed </li><li>goals of the model </li><li>key features of the model </li><li>strengths and limitations of such a model </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Closure Poll - 1554255
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the strengths and limitations of different model types.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Introduction/Instructions 1 - 1554265
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the utility of different types of models in biomedical research.</p><p><br/></p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Breakout Instructions:  </h1><h6><br/></h6><p>You are scientists at the Centers for Disease Control and Prevention. Your department is studying a highly infectious virus with the goal of developing a vaccine. The vaccine is in the early stages of development. This drug has the potential to save many human lives. Three different laboratories are willing to participate in the study, but each specializes in a different type of model: non-human animal model (in vivo), cell culture (in vitro), and computational model.</p><h6><br/></h6><p>Consider the strengths and limitations of each type of model and <strong>identify a list of questions you could address using each type of model.</strong></p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Instructions 2 - 1554275
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Breakout Instructions</h1><p>In the next breakout you will consider the use of model organisms in vaccine development. By evaluating three possible model organisms, you will generate a list of criteria for selecting an appropriate model organism.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Closure Moment - 1554290
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the utility of different types of models in biomedical research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1554302
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2: </strong>Data Visualisations and Modeling</p><p><strong>Big Question:</strong> How can we avoid global pandemics?</p><p><strong>LO: </strong><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="modeling">﻿<span>#modeling</span>﻿</span></span> - Recognize how models can be used to explain a set of data and generate new predictions. (introduced)</p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Evaluate the strengths and limitations of different model types. </li><li>Evaluate the advantages and disadvantages of different types of models in biomedical research</li></ul></div></div></div></div></div></div>

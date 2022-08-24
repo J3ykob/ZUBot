@@ -1,0 +1,1103 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Identify at least two ways that a researcher could minimize the potential for confounding variables in an experiment designed to test the effects of 2 different pesticides on dog fleas. Assume the researcher is using dogs that have fleas as the test subjects. Explain. 
+
+------------------------------------------
+
+Set B
+
+outcome
+
+Identify at least two ways that a researcher could minimize bias in an experiment designed to test the effects of 2 different pesticides on dog fleas. Assume the researcher is using dogs that have fleas as the test subjects. Explain. 
+
+------------------------------------------
+
+Set C
+
+outcome
+
+In an experiment designed to test how well a new flu medication reduces symptoms, participants were enrolled when their physicians identified them as having flu. All 100 participants received the new medication and the investigators compared before and after treatment. For 63 of the participants, their flu symptoms got remarkably better with the treatment. Post hoc analysis revealed that these participants had the worst symptoms at the beginning of the study. For 37 participants the flu symptoms worsened; these were the participants whose symptoms were the mildest at the beginning of the study. What might best explain this pattern of results?
+
+
+------------------------------------------
+
+Set D
+
+outcome
+
+Consider an experiment designed to test the effects of grazing on plant diversity in grasslands. Investigators plan to use two different grazers and a number of experimental plots at the same grassland. The investigators want to control for the type of grazers (sheep versus cattle) as a potential confounder because the species may prefer different plants. What is one method they could use to accomplish this? Explain. 
+
+------------------------------------------
+
+Observational study
+
+outcome
+
+Propose an observational study to test the hypothesis that because of increased harvesting over the past 30 years, snow lotus (S. laniceps) will be shorter over time than the same species 30 years ago.
+
+
+------------------------------------------
+
+Critique
+
+outcome
+
+Based on these criteria, what would you want to modify in your experimental design (from the breakout) to improve it? How would your assessment of causality be affected by making the modification. Explain.
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Explain how one aspect of good experimental design overcomes a particular bias, using an example from this session.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce this session.
+- Prompt students to read the new LO and answer the focus questions.
+- Be sure to clarify any confusions before moving on in this session.
+
+   1. Mark a check if you think that observational studies can implement controls, and an X if you think only interventional studies can have controls.
+
+    Call on a student that marked a check. They should explain that an appropriate comparison group can act as a control in an observational study.
+
+​
+
+Follow up: What strategies to control confounding variables could be applied in an observational study?
+
+Answer: Matching (assuming you have a comparison group) and statistical control (assuming you have measured potential confounding variables).
+,   2. - What do we mean by a "control group” in a scientific study?
+- Why is this important?
+
+    - A control group is the comparison group, either to the treatment group in an interventional study or to a group with a specific characteristic of interest in an observational study (e.g., group of non-smokers could be a control group compared to a group of smokers in an observational study). 
+- This is important because the conclusions of a study are drawn from the differences between the control group and the treatment group. Otherwise one can not attribute any differences to the treatment or characteristic of interest.
+,   3. - What do we mean by “controlling for confounding variables” in a scientific study? 
+- Why is this important?
+
+    - To control a variable refers to the aspects of the sampling technique that are held constant among all samples (e.g., all measurements are done the same way; all sample units are treated the exact same way, for example, if you are testing the effects of fertilizer on plots of grass and must spray the fertilizer, an equal amount of water might be sprayed on the control plot so that any potential confounds from the liquid addition are mitigated. )
+- This is important because by controlling aspects that can be controlled we minimize the effects of confounding variables.
+
+----------------------------------------
+
+2.
+- Ask a student on stage to draw on the figure and put a check at the step randomization occurs (the check should go after "study sample").
+- Ask other students to mark checks and Xs if they agree or disagree. If the student was incorrect, clear the board and write it in the right spot.
+- Ask another student to draw on the figure and put an X at the step where random sampling occurs (the X should go between Sample Population and Study Sample).
+- Explain that students often mix randomization and random sampling. They are different and occur at different steps of the process.
+
+
+----------------------------------------
+
+3.
+1) You will only have students answer one of these polls. Work with your teaching team to decide which poll you will use for your section.
+
+2) Prompt students to answer the poll, giving 4-5 minutes for them to answer and then 4-5 minutes for the debrief.
+
+​
+
+**Answer to Pol A: Score on #interventionalstudy**
+
+**Some possibilities:**
+
+- Having a large sample size.
+- Randomizing the order in which dogs are tested in their kennels (e.g., not all of the pesticide 1 animals at one end of the kennel).
+- Balancing the order that the researcher collects the data from the test subjects in the different conditions.
+- Minimize the potential for fleas to move between test subjects.
+- include a control group that is not treated with pesticide/treated with an inert substance (this answer best combined with next answer)
+- Treat all test subjects the same regardless of treatment (e.g., if pesticide was sprayed on, control animals should also be “sprayed” but with an inert substance).
+
+
+----------------------------------------
+
+4.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Set A: Score on #interventionalstudy**
+
+**Some possibilities:**
+
+- Having a large sample size.
+- Randomizing the order in which dogs are tested in their kennels (e.g., not all of the pesticide 1 animals at one end of the kennel).
+- Balancing the order that the researcher collects the data from the test subjects in the different conditions.
+- Minimize the potential for fleas to move between test subjects.
+- include a control group that is not treated with pesticide/treated with an inert substance (this answer best combined with next answer)
+- Treat all test subjects the same regardless of treatment (e.g., if pesticide was sprayed on, control animals should also be “sprayed” but with an inert substance).
+
+
+----------------------------------------
+
+5.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B: **
+
+**Score on #interventionalstudy**
+
+**Some possibilities:**
+
+- Randomizing the order in which the researcher collects the data from the test subjects.
+- Blinding-- for example
+    - not telling the graduate students collecting data which subjects had which treatment
+        - This would reduce potential confirmation bias
+    - scrambling the order in the kennels in which subjects are housed (e.g., not all of the pesticide 1 animals at one end of the kennel).
+- Designate some test subjects as a control group (and thus testing the pesticides against an inert substance).
+- Using simple random sampling could reduce sampling bias (point out this qualifies as bias, but is due to the sampling process and not cognitive processes).
+
+​
+
+
+----------------------------------------
+
+6.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Set B: Score on #interventionalstudy**
+
+**Some possibilities:**
+
+- Randomizing the order in which the researcher collects the data from the test subjects.
+- Blinding-- for example
+    - not telling the graduate students collecting data which subjects had which treatment
+        - This would reduce potential confirmation bias
+    - scrambling the order in the kennels in which subjects are housed (e.g., not all of the pesticide 1 animals at one end of the kennel).
+- Designate some test subjects as a control group (and thus testing the pesticides against an inert substance).
+- Using simple random sampling could reduce sampling bias (point out this qualifies as bias, but is due to the sampling process and not cognitive processes).
+
+
+----------------------------------------
+
+7.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Set C: Score on #controlgroups**
+
+In this example, the results are most likely due to the natural progression of the flu. Those participants with the worst symptoms got better over the course of the study. And those with milder symptoms got worse (they must have come to the physician’s office earlier in the flu progression than the first group).
+
+**Follow-up:** What are some problems with this study design? (Answer: No real control in this design.)
+
+
+----------------------------------------
+
+8.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Set C: Score on #controlgroups**
+
+In this example, the results are most likely due to the natural progression of the flu. Those participants with the worst symptoms got better over the course of the study. And those with milder symptoms got worse (they must have come to the physician’s office earlier in the flu progression than the first group).
+
+**Follow-up:** What are some problems with this study design? (Answer: No real control in this design.)
+
+
+----------------------------------------
+
+9.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Set D: Score on #controlgroups**
+
+**Some possibilities**
+
+- Analyze data in different categories: sheep-grazed, cattle-grazed, and controls.
+- Match each control plot with a treatment plot that is sheep-grazed and one that is cattle-grazed.
+
+_**Follow-up**_**:**
+
+- How might the investigators make their findings more robust and more generalizable across grassland systems? (Answer: Replicate the study in another grassland and/or with different grazers.)
+- How might they make it more generalizable across other ecosystems? (Answer: Replicate the study with herbivores in another ecosystem.)
+
+
+----------------------------------------
+
+10.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Set D: Score on #controlgroups**
+
+**Some possibilities**
+
+- Analyze data in different categories: sheep-grazed, cattle-grazed, and controls.
+- Match each control plot with a treatment plot that is sheep-grazed and one that is cattle-grazed.
+
+_**Follow-up**_**:**
+
+- How might the investigators make their findings more robust and more generalizable across grassland systems? (Answer: Replicate the study in another grassland and/or with different grazers.)
+- How might they make it more generalizable across other ecosystems? (Answer: Replicate the study with herbivores in another ecosystem.)
+
+
+----------------------------------------
+
+11.
+* Briefly introduce the activity and ask the focus question. 
+
+* (Optional) Revisit the focus questions from the lesson introduction to clarify the difference between these uses of the word control in science before moving onto the examples if students are still not clear.
+   1. If you have a single control group, does that mean you have only one controlled variable?
+    No! You may have multiple variables that are controlled (verb), even if there is only one control group (noun).
+
+----------------------------------------
+
+12.
+- Introduce this activity by showing the two slides to students, and having them _carefully read the hypothesis_.
+- Ask if there are any clarifying questions about the hypothesis before moving on to the poll and discussion.
+- Ask a student to restate the hypothesis in their own words.
+
+
+----------------------------------------
+
+13.
+- Launch the poll and give students ~3-4 minutes to respond. 
+- Move to the next step to discuss the poll.
+
+
+----------------------------------------
+
+14.
+- Launch the poll and give students ~3-4 minutes to respond. Switch to a 5-up if desired for post-poll discussion.
+- Highlight a few designs and ask students to identify strengths and weaknesses.
+- See focus questions below for possible questions and answers to deepen discussion and address key take-homes.
+
+   1. Is there an effective control group here? What other control groups could you use to test this hypothesis?
+
+    Possible controls (noun) include:
+
+- Using _S. medusa_ as a comparison, because these plants are smaller and less frequently harvested and should not decrease in height over time (Confounding variables mitigated: choosing a non-harvested species that has very similar ecology as a control will help eliminate the argument that climate change is selecting for shorter plants).
+- Comparing the heights of plants in harvested areas and from non-harvested (or less harvested) areas.
+- Comparing the heights of plants from archived specimens (from museums or plant collections with older dates) to the current measurements of heights of plants in the same areas. 
+,   2. What aspects are controlled? What else could or should be controlled? (I.e., How could you strengthen this study in terms of minimizing confounding variables?)
+
+    Example controlled variables (i.e., constants):
+
+- Ensuring that the locations are the same or as similar as possible to minimize height difference due to location (e.g., in the BACI design using the same location as specified in the specimens; for the comparison design, ensuring that environmental variables such as temperature, sun exposure, and altitude are relatively similar)
+- Measurements must be performed the same way, ideally by the same researcher, (e.g., from top of highest root to base of flower). When comparing current plants to museum specimens, one might even press and dry the current flowers to ensure that the treatment of plants and therefore the measurements are similar because the archived specimens are dried and pressed in order to be archived.
+- Measurements of the flowers are done at the same moment in flowering (i.e., at the height of flowering, when no more small blooms are evident); or stage of flowering is noted and quantitatively accommodated in some way.
+
+----------------------------------------
+
+15.
+- Prompt students to examine the results of the two companion studies. Note that for our purposes we consider this an observational study.
+- Call on a student to summarize a conclusion from the first figure. Repeat for the second.
+- Ask the focus questions.
+
+**Notes on the two figures:**
+
+1. Heights of snow lotus plants at flowering. (a) Decline in height of _S. laniceps_ from herbarium specimens and field collections over the past 100 years (r2 0.4361, P 0.0001). (b) Height of _S. medusa_ collections from the past 120 years, with no significant decline.
+2. Height of _S. laniceps_ plants found at heavily harvested and protected sites. Plants found in heavily harvested sites were on average 9 cm smaller than plants found in protected areas (average plant height SE; low harvest, 22.7 cm  2.0; high harvest, 13.4 cm 0.4).
+
+   1. Which type of control in this example produced more convincing results? Explain.
+
+    The point of this question is to lead students to discuss how the different controls may impact what conclusions one may draw. In this example, having two companion studies that used different types of controls made for a much stronger result (i.e., essentially a replication within the study!).
+
+----------------------------------------
+
+16.
+- Call on a student to summarize the difference between control group (as a noun) and controlled (as a verb) in scientific studies.
+- Call on students to answer the focus question.
+- (Optional) Call on another student to explain how this example bore on the Big Question: “How do humans impact evolution?”
+
+   1. Is this an observational or experimental study?
+
+    It is an observational study. Use this moment to emphasize that control groups and controlling for variables are still important in observational studies!
+
+----------------------------------------
+
+17.
+Take a one minute eye rest break. 
+
+
+----------------------------------------
+
+18.
+- Briefly introduce the activity before launching breakouts.
+- Tell them they will create an experiment about the evolution of antibiotic resistance.
+- Tell them to start by writing down their hypothesis before proceeding to outline their variables, control groups, etc.
+
+
+----------------------------------------
+
+19.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+20.
+[NOTE: This step is duplicated in the next stepto bring disengaged students on stage]
+
+- Call on students across all breakout groups to identify a criterion that should be used to evaluate experimental designs. As a student identifies an appropriate criterion, add it to the table. Reorganize the table as necessary for criteria students identify that should be nested under another criterion (e.g., see the notes for the instructor’s version of the table below).
+- After each criteria suggestion, ask students for checks and Xs if they think it is a good addition. If students are not engaging, then click to the next step, which is exactly the same, but will refresh the students on stage.
+- If students seem stumped at some point or if the organization becomes messy, you can suggest the header for a given cell (e.g., independent variable) and have students identify which of the criteria they outlined fall under that header.
+- Be sure to at least identify the criteria in the example table below. Students may have additional and relevant criteria in addition to these.
+- When the table seems complete, **prompt students to open the document** in a new tab and save it for use during the next discussion and for the next session, both for pre-class work and during the class session (the instructor should save it as well).
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/YRDREr/ns51-5.1-example-summary-criteria.png)
+
+
+----------------------------------------
+
+21.
+[NOTE: This step is a duplicate of the previous step to bring disengaged students on stage]
+
+- Call on students across all breakout groups to identify a criterion that should be used to evaluate experimental designs. As a student identifies an appropriate criterion, add it to the table. Reorganize the table as necessary for criteria students identify that should be nested under another criterion (e.g., see the notes for the instructor’s version of the table below).
+- After each criteria suggestion, ask students for checks and Xs if they think it is a good addition. If students are not engaging, then click to the next step, which is exactly the same, but will refresh the students on stage.
+- If students seem stumped at some point or if the organization becomes messy, you can suggest the header for a given cell (e.g., independent variable) and have students identify which of the criteria they outlined fall under that header.
+- Be sure to at least identify the criteria in the example table below. Students may have additional and relevant criteria in addition to these.
+- When the table seems complete, **prompt students to open the document** in a new tab and save it for use during the next discussion and for the next session, both for pre-class work and during the class session (the instructor should save it as well).
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/YRDREr/ns51-5.1-example-summary-criteria.png)
+
+
+----------------------------------------
+
+22.
+- Students will now critique their experimental design from the breakout. Prompt students to use the free-response poll to evaluate their group’s experimental design from the first activity using the criteria we just outlined. (~3 minutes)
+
+​
+
+
+----------------------------------------
+
+23.
+​
+
+- Prompt students to read the critiques of those from their breakout group and then reply to at least one teammate in the chat. Call on a few students to explain verbally.
+- Optional: Highlight a few responses and then call on students (at least one from each original group) to explain/justify their answers.
+- Use the focus question to deepen discussion.
+
+   1. What might be the result of not adhering to one of the criteria?
+
+    For example, without a control group, you cannot distinguish between effects of a treatment and what might happen under natural conditions.
+
+----------------------------------------
+
+24.
+- Call on a student to summarize a take-home for this activity.
+- Call on another student to add/refine/revise if necessary.
+- Ask a student what criteria they understood better as a result of the activity.
+
+
+----------------------------------------
+
+25.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+26.
+- Call on 1-2 students to provide a take-home from this session.
+- Provide a summary of the following take-home in your own words: Well-designed experiments are considered less biased and less susceptible to confounding variables than are other research methods. But, good design is key to their rigor, and this may not always be easy to implement in practice.
+- (Optional) Ask the focus questions if there is time.
+
+   1. **LO Application (Optional)**
+
+Where do you see results of experiments in your everyday life?
+
+    Some possible responses:
+
+- medicine for specific ailments
+- beneficial foods for specific ailments, e.g., heart disease (though many of these are flawed, they are widely reported in the media)
+,   2. **LO Application (Optional)**
+
+Where should there be more experiments but there are not? Why might experiments not be employed in those scenarios as often as they should?
+
+    Some possible responses:
+
+- Nutritional and physical exercise advice (may not be employed as often because it can be difficult to get people to adhere to a strict eating plan or physical regime over a long period and there are lots of confounding variables possible)
+- Herbal supplements (may not be used because of the cost for experiments, and in the US there is little to no regulation of claims so no incentive for companies to spend the money)
+,   3. **LO Application (Optional)**
+
+Which of the Big Questions explored in this class would you want to address with an experiment (interventional study)?
+
+    Determining cause and effect for a specific aspect of climate change is a particularly good example. One could also use experiments to examine the reliability of testimony. (For the Big Bang and Water Allocation Big Questions, observational approaches may be more applicable, and for certain aspects of climate change).
+
+----------------------------------------
+
+27.
+The goal of this brief activity is for students to synthesize a method for reading a scientific paper for the specific purpose of class preparation (which they will have to do for upcoming class sessions).
+
+- Use a Relay to draw out the steps, one by one, in order. Be sure to identify how thoroughly to read that section, and identify 1-3 questions to consider when reading each specific section (if applicable).
+- Use the focus questions to consider how one might change these instructions for other purposes.
+
+_Notes for instructor:_
+
+The general goal is to get students to identify that for class preparation a reasonable order and effort of reading a paper might be: 1) title/authors/affiliations (read thoroughly), 2) abstract (read thoroughly), 3) Introduction (read), 4) methods (skim), 5) look at figures (thoroughly), 6) results (read thoroughly), 7) discussion (read)
+
+   1. Experienced readers approach a scientific paper skeptically and do not automatically accept an author’s conclusions. What parts of a paper would be most convincing for a skeptical reader?
+
+_Follow-up_: How does this reflect where you should allocate your greatest effort and time with a paper?
+
+_Follow-up 2 (optional):_ Which LOs apply?
+
+    - Experienced readers examine whether an experiment tests the hypothesis of the author and whether the data and analysis support the claims of the author. Careful readers are persuaded by the data and its analysis, not by an author's writing.
+- _Follow-up_: Thus, one should spend more effort and time in the results section to evaluate whether the data and analysis support the author’s claims. To evaluate the results integrates elements of the introduction and the methods section.
+- (O_ptional follow-up_) LOs that apply: #interventionalstudy, #observationalstudy, among others.
+,   2. How might this strategy change if you were reading a paper to:
+
+1) Keep up with the work of a colleague?
+
+2) Get an idea about how to measure a specific variable?
+
+3) Examine a paper that contradicts your own research?
+
+4) Review it as a peer-reviewer?
+    Answers:
+
+1) One might read just the abstract.
+
+2) One might focus just on the methods section.
+
+3) One might read the results and examine figures and tables carefully and skim the methods/discussion if appropriate.
+
+4) Read every section carefully and skeptically to ensure that the data does support the author’s assertions.
+
+===================RESOURCES===================
+
+SLIDE Summary Criteria
+https://course-resources.minervaproject.com/uploaded_files/mke/ng67Gr/ns51-5.1-summary-criteria.pdf
+null
+
+--------------------------------------------
+
+slide-element-52040.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/r9Qj5r/slide-element-52040.pdf
+null
+
+--------------------------------------------
+
+slide-element-106879.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/VLQlMr/slide-element-106879.pdf
+null
+
+--------------------------------------------
+
+SLIDE Snow lotus case
+https://course-resources.minervaproject.com/uploaded_files/mke/nBPMpV/ns51-5.1-snow-lotus-case.pdf
+null
+
+--------------------------------------------
+
+SLIDE snow lotus hypothesis
+https://course-resources.minervaproject.com/uploaded_files/mke/Vdax5r/ns5.1--snow-lotus-hypothesis.pdf
+null
+
+--------------------------------------------
+
+SLIDE Snow lotus reveal
+https://course-resources.minervaproject.com/uploaded_files/mke/n7288r/ns51-5.1-snow-lotus-reveal.pdf
+null
+
+--------------------------------------------
+
+SLIDE Snow Lotus Hypothesis
+https://course-resources.minervaproject.com/uploaded_files/mke/00157176-4516/ns51-5.1---snow-lotus-hypothesis.pdf
+null
+
+--------------------------------------------
+
+SLIDE Random Sampling and Randomization
+https://course-resources.minervaproject.com/uploaded_files/mke/00160331-2001/ns51-5.2-random-sampling-and-randomization.pdf
+null
+
+--------------------------------------------
+
+How to read a scientific paper
+https://docs.google.com/document/d/1SkV78hOH39ZyS4g3oYd2CCg0ZihKkNv53_Pu13rXFsE/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Activity 2: Bacteria Resistance Experiment
+https://sle-authoring.minervaproject.com/api/v1/worksheets/097fb079-1d6b-41cb-bbba-e20a1b152bda/
+null
+
+--------------------------------------------
+
+NOTES Experiment Criteria Debrief
+null
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1553021
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design</p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LO:</strong> <span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span> - Identify and evaluate appropriate control groups for empirical study designs. </p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify effective control groups (i.e., noun) and effective methods for controlling (i.e., verb) variables in research design.</li><li>Design and evaluate an experiment.</li><li>Deepen understanding of experimental designs by developing and using criteria to critique them. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span> - <strong>Identify and evaluate appropriate controls for empirical study designs.</strong> </p><h6><br/></h6><p>In empirical research, control groups are often used to identify the effects of extraneous variables and to provide a comparison case for a result (e.g., the experimental results in the treatment group(s) are typically compared to those in the control group). Without an appropriate control group, results may be misleading or incomplete (i.e., results may provide additional evidence that is consistent with a theory, but do not test an alternative hypothesis that would be tested with a control). Choosing an appropriate control group in some types of studies can be difficult, therefore one must be able to identify the limitations of particular control groups and interpret results accordingly.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction - 1553061
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify effective control groups (i.e., noun) and effective methods for controlling (i.e., verb) variables in research design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1553088
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify effective control groups (i.e., noun) and effective methods for controlling (i.e., verb) variables in research design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1553102
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goals:</h1><ul><li>Design and evaluate an experiment.</li><li>Deepen understanding of experimental designs by developing criteria with which to critique them.</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1553123
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goals</h1><ul><li>Design and evaluate an experiment.</li><li>Deepen understanding of experimental designs by developing criteria with which to critique them.</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1553129
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design</p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LO:</strong> <span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - Identify and evaluate appropriate control groups for empirical study designs. </p><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify effective control groups (i.e., noun) and effective methods for controlling (i.e., verb) variables in research design.</li><li>Design and evaluate an experiment.</li><li>Deepen understanding of experimental designs by developing and using criteria to critique them. </li></ul></div></div></div></div></div></div>

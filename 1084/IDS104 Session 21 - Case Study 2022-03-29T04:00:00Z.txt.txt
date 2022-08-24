@@ -1,0 +1,1676 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+What are two advantages of a case study approach? Explain.
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+What is one potential problem with case study research and how might one best avoid that problem? Explain. 
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Case study research has sometimes been criticized for lacking scientific rigor; what are two ways a researcher could address these concerns? Explain, providing an example.
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What are two key aspects to consider when deciding whether a case study is an appropriate research method to use? Explain.
+
+
+------------------------------------------
+
+Types of methods used in case study
+
+none
+
+What type of methods can be used in case studies like Steve Crohn?
+
+ - Interventional
+ - Observational
+ - Both interventional and observational
+------------------------------------------
+
+Feedback Poll 1
+
+outcome
+
+**If you were not on stage**: Identify a student and an explanation of either: 1) a particularly good application of an LO or 2) a suggestion for how to improve an ineffective application of an LO.
+
+**If you were on stage**: Identify how you might strengthen your application of a specific LO if you were given more time to speak.
+
+
+------------------------------------------
+
+Feedback Poll 2
+
+outcome
+
+**If you were not on stage**: Identify a student and an explanation of either: 1) a particularly good application of an LO or 2) a suggestion for how to improve an ineffective application of an LO.
+
+**If you were on stage**: Identify how you might strengthen your application of a specific LO if you were given more time to speak.
+
+
+------------------------------------------
+
+Feedback Poll 3
+
+outcome
+
+**If you were not on stage**: Identify a student and an explanation of either: 1) a particularly good application of an LO or 2) a suggestion for how to improve an ineffective application of an LO.
+
+**If you were on stage**: Identify how you might strengthen your application of a specific LO if you were given more time to speak.
+
+
+------------------------------------------
+
+Mitigating bias in case studies
+
+outcome
+
+What comment(s) from the debate best explained why bias needs to be addressed in case studies and how to do so?
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Explain one great LO-related comment that you thought of but did not get the opportunity to present during the class. If you said everything you wanted to say, identify and explain a strong LO application by another student. Be sure to reference a specific moment in class.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce this session.
+- Call on students to answer the focus questions.
+
+   1. What is a case study?
+
+    A case study is an in-depth evaluation of an event, individual, or phenomenon that can provide a, "multi-faceted understanding of a complex issue in is real-life context" (Cresswell et al. 2011).
+,   2. In one of the tables of the Cresswell et al. (2011) article, they cite another researcher's definition that, "[Case studies are] research situations where the number of variables of interest far outstrips the number of datapoints."
+
+​
+
+Explain how this helps make the distinction between a case study and an observational study with a small sample size.
+
+    It shows that case studies aren't just characterized by focusing on one particular individual/event/etc., but also they are characterized by the depth of exploration on a subject. This contrasts with an observational (and even interventional) study that is focused on the relationships between particular variables.
+
+​
+
+[Note: sometimes there is a bit of gray area between a case study and an observational study with a small sample size, but the points above are guidelines on making the distinction.]
+,   3. How do case studies help one to “gain deeper insights”?
+    The detailed and exhaustive investigation that characterizes most case studies allows the researcher to gain deeper understanding of processes and interactions that may not be apparent in larger, less detailed and less exhaustive studies.,   4. How do case studies rely on other empirical methods?
+
+    Case studies always rely on other empirical methods for data collection. For example, to use a case study to examine how lifestyle changes affect aging one might collect observations about a case, use a survey or interview, and may even introduce a treatment (lifestyle changes).
+
+----------------------------------------
+
+2.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+**Possible Answer to Poll A:**
+
+Advantages:
+
+- Case studies can identify contextual evidence and explanatory information (similar to interviews).
+- Case studies provide depth and researchers may uncover potential linkages.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Possible Answer to Poll A:**
+
+Advantages:
+
+- Case studies can identify contextual evidence and explanatory information (similar to interviews).
+- Case studies provide depth and researchers may uncover potential linkages.
+
+
+----------------------------------------
+
+4.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+**Answer to Poll B:**
+
+Some possible answers:
+
+- Wrong case choice (e.g., not a truly representative case); this can be avoided by researching potential cases and considering the choice of case carefully.
+- Collecting a lot of irrelevant data that are not of value to the research question; this can be avoided by at least partially structuring data collection so that it remains focused on the objective, but be open to unexpected answers.
+- Lack of scientific rigor; this can be avoided through transparency throughout the research process (case selection, data collection, etc.) and/or focusing data collection within a conceptual framework to give objective focus (also see answers to the question below for set D).
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Some possible answers:
+
+- Wrong case choice (e.g., not a truly representative case); this can be avoided by researching potential cases and considering the choice of case carefully.
+- Collecting a lot of irrelevant data that are not of value to the research question; this can be avoided by at least partially structuring data collection so that it remains focused on the objective, but be open to unexpected answers.
+- Lack of scientific rigor; this can be avoided through transparency throughout the research process (case selection, data collection, etc.) and/or focusing data collection within a conceptual framework to give objective focus (also see answers to the question below for set D).
+
+
+----------------------------------------
+
+6.
+1Ensure students in each group are discussing their responses and contributing equally. 
+
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+**Answer to Poll C:**
+
+Some possible answers:
+
+- Replication of the case study, or another follow-up study targeting the primary results of the case study (e.g., if you study one parrot to explore how language is learned, then take key potential causes for different aspects of learning and design an experiment to test if they are indeed causative).
+- Using a conceptual framework to focus observational data collected to ensure objectivity.
+- Transparency throughout the research process. Clearly identifying how and why a particular case was chosen and how data were collected and analyzed.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+Some possible answers:
+
+- Replication of the case study, or another follow-up study targeting the primary results of the case study (e.g., if you study one parrot to explore how language is learned, then take key potential causes for different aspects of learning and design an experiment to test if they are indeed causative).
+- Using a conceptual framework to focus observational data collected to ensure objectivity.
+- Transparency throughout the research process. Clearly identifying how and why a particular case was chosen and how data were collected and analyzed.
+
+
+----------------------------------------
+
+8.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+**Answer to Poll D:**
+
+Some possible answers:
+
+- If you are interested in investigating important aspects within a topic then a case study approach is appropriate (i.e., depth).
+- If the goal is to explore a topic that not much is known about, a case study approach may allow the flexibility to probe in depth when other approaches may not.
+- If you are trying to ascertain the effects of a specific treatment or cause and effect, then a case study may not be appropriate (a full-scale experimental approach would probably be better). However, a case study could be used to identify the potential factors that may be causing the effect observed, and therefore could be an important first step that is followed by an experiment.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+Some possible answers:
+
+- If you are interested in investigating important aspects within a topic then a case study approach is appropriate (i.e., depth).
+- If the goal is to explore a topic that not much is known about, a case study approach may allow the flexibility to probe in depth when other approaches may not.
+- If you are trying to ascertain the effects of a specific treatment or cause and effect, then a case study may not be appropriate (a full-scale experimental approach would probably be better). However, a case study could be used to identify the potential factors that may be causing the effect observed, and therefore could be an important first step that is followed by an experiment.
+
+
+----------------------------------------
+
+10.
+- Introduce the video by saying that it is about a man named Steve Crohn who was a famous case study in HIV research because he never was infected despite repeated exposure.
+- Play the video from 00:17-00:58.
+- Ask the focus question.
+
+   1. What type of case study would Steve Crohn be described as, and why was he particularly valuable for HIV research?
+
+    This was an outlier case. Because Steve Crohn was the exception to the rule in that he is resistant to HIV infection. Studying him offered an opportunity to uncover different aspects of HIV infection than what could be uncovered by studying only those who had the disease.
+
+​
+
+Interesting additional note: Some current successful antiviral treatments for HIV are based on this case study.
+
+​
+
+[Optional]: Use this example to differentiate between outlier case and other case types.
+
+----------------------------------------
+
+11.
+- Give students 10-15 seconds to think about the poll and mark an answer.
+- Tell them 'both' is the right answer, and move to the next step to show that.
+
+
+----------------------------------------
+
+12.
+- Briefly explain the two pieces of data gained from the observational and interventional approach.
+    - HIV was unable to infect Steve Crohn's cells because they had a defective receptor molecule on the cell surface that prevented the virus from entering.
+    - A genetic mutation was responsible for the defective receptor molecule.
+
+​
+
+
+----------------------------------------
+
+13.
+Introduce the learning goal, and tell students they will discuss the paper on healthy ways of aging in a Thai village in breakouts before we discuss together as a class.
+
+
+----------------------------------------
+
+14.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+- If groups seem to have reached consensus before the time is up, end breakouts and move into the debrief (which could benefit from more time)
+
+
+----------------------------------------
+
+15.
+- Explain that students who are not on the main stage will provide feedback on LO applications for a student that is on stage.
+    - This feedback should evaluate how well the student used a given LO.
+    - Every time the group on stage changes and a student is not on stage, he or she will answer a poll offering feedback for another student who is on stage
+- For example, the first set of students is featured (6 students) and the questions in Set 1 will be directed to those students on stage. Students not on stage will answer a poll to identify a good application of an LO by a specific student.
+- NOTE: faculty should use discretion if the polling is taking too much time; be sure to do at least one feedback poll but the other feedback can come verbally if needed.
+
+
+----------------------------------------
+
+16.
+Return to this step at the start of the debrief and after every feedback poll. Give ~5 minutes for each iteration.
+
+​
+
+**Question Sets 1-3:**
+
+- For each set of focus questions (1-3 below), call on the students onstage; make sure that you call on each student on stage at least once. Switch to another set of students for each question set.
+- Remind the students who are not on stage that they need to listen closely so that they can provide input via a poll. Specifically, they need to provide feedback on how well specific LOs were used (well or poorly--and if the latter, with a constructive suggestion for improvement).
+- Select one of the feedback polls and give students 1-2 minutes to answer the poll before switching the group on stage. (Polls are in separate steps, just come back to this step to continue the discussion).
+- NOTE: Some of the questions are very quick (e.g., what is the hypothesis? What is the subject?), so do not linger on those, but use them to judge comprehension and class preparation.
+
+​
+
+**Question Set 4:**
+
+Call on a random selection of students across all groups for this question set.
+
+   1. **Set 1: Study design**
+
+1. What hypothesis is this case study exploring?
+2. What is the subject?
+3. What are some strengths and weaknesses of this _study design_?
+4. _Optional_: Is this really a “case study”? Why or why not?
+
+    1. The hypothesis of this study is that cultural practices promote healthy lifestyle choices.
+2. The subject is a small group (n=7) of elderly people in a small village in northern Thailand.
+3. Student-provided answers: some examples:
+    1. Strengths-- very thorough data, the authors use different sources (observation, interviews with subjects, interviews with others close to the subjects).
+    2. Weaknesses-- the study is very limited in scope and generalizability (given various non-representative characteristics of the people, such as their diet and personal relationships), the set of questions that generated the observations are not shared in the study and therefore cannot be evaluated
+4. In one sense it is a case study (a single example of a larger population), but in another it is just a small-n study.
+,   2. **Set 2: Interpretation**
+
+1. What conclusions can be drawn from the observations made?
+2. What conclusions cannot be drawn from the case?
+3. What are some weaknesses of _the interpretations of this study_?
+
+    1. Some conclusions are that cultural practices influence the healthy choices of the elders in this study (e.g., religious foods are healthy, reliance on family promotes good health because of community connections, etc.).
+2. Some conclusions that cannot be drawn are whether this can be generalized to other communities aside from this one.
+3. Major drawbacks include the fact that the researchers did not provide any examples of how a cultural practice may promote unhealthy living and did not consider whether the findings could be a result of bias (e.g., sampling bias). 
+,   3. **Set 3: **
+
+1. Other aspects that affected the results?
+2. Was the bias effectively addressed and mitigated?
+3. What would be an appropriate next step in this research?
+
+    1. Some confirmation bias on the part of the researchers: they set out to find how cultural practices promote healthy lifestyle decisions and did not identify/assess any that might do the opposite.
+2. To minimize bias, peer review can be instrumental at all stages of the process (design, data collection, analysis, interpretation). This was not reported to have been done in this study.
+3. Possible next steps:
+    1. Test hypotheses that were refined from this study with an observational study on a larger sample.
+    2. Examine the generalizability of the results of this study by replicating it in another community.
+,   4. **Set 4: Challenge questions (**_**optional)**_
+
+1. What aspects of this study are generalizable to other communities?
+2. How could you make this more generalizable?
+
+    1. The overall generalizability of this study is low. 
+    1. Perhaps there is some support for the overarching objective of documenting that cultural practices can promote healthy lifestyle choices (but there are some examples that are the opposite of this as well, e.g., many USA cultural practices such as television watching and the focus on red and processed meat in traditional foods). 
+    2. Note that the Thai village is peculiar not only due to its habits and customs, but its lifestyle due to factors like the landscape, field work and the environment. These aspects are likely important to consider, since living in a very industrialized and polluted city will negatively affect your lifespan regardless of your spiritual beliefs or relations with family. The authors do specify that their results may be more common in isolated small communities with specific geographical conditions. 
+2. Some solutions were provided in the readings for this session. An example is that one could repeat the study in another community to gauge how generalizable it is. Some other examples are:
+    1. Data gathering over longer period
+    2. Employ triangulation (using a variety of additional sources)
+    3. Thorough literature reviews
+    4. Peer review at all stages of the process
+
+----------------------------------------
+
+17.
+Tell students that they can be fairly brief with their commentary here (~1 minute), in order to not slow progress too much.
+
+
+----------------------------------------
+
+18.
+Tell students that they can be fairly brief with their commentary here (~1 minute), in order to not slow progress too much.
+
+
+----------------------------------------
+
+19.
+Tell students that they can be fairly brief with their commentary here (~1 minute), in order to not slow progress too much.
+
+
+----------------------------------------
+
+20.
+Call on 2-3 students to summarize a take-home message for this activity, perhaps by asking one to identify the greatest strength and another the greatest weakness of the study design just discussed.
+
+   1. Which of the questions I posed to you could you pose to yourself to evaluate case studies of your own design?
+
+    Student-generated answers.
+
+----------------------------------------
+
+21.
+Take a one minute eye rest break. 
+
+
+----------------------------------------
+
+22.
+- Go over the directions of the debate.
+- Ask students to cast their vote using a check or X. (You will need to ask them to re-cast their votes, as the checks and x's "fade" over time)
+- If there are insufficient numbers on one of the sides, assign a few students to switch.
+- Click on the next step to start the debate.
+
+
+----------------------------------------
+
+23.
+- Students debate the statement given for pre-class work. Start the debate by selecting one student to present a single argument for their side of the statement, and then tell them to call on a classmate on screen. [Alternatively you can tell the students to go back and forth without being called on; if a class is not reserved, this can work.]
+- Click back and forth between this step and the next step to bring on students who are for or against the statement.
+
+
+----------------------------------------
+
+24.
+- Students debate the statement given for pre-class work. Start the debate by selecting one student to present a single argument for their side of the statement, and then tell them to call on a classmate on screen. [Alternatively you can tell the students to go back and forth without being called on; if a class is not reserved, this can work.]
+- Click back and forth between this step and the next step to bring on students who are for or against the statement.
+
+
+----------------------------------------
+
+25.
+- Tell students to spend three minutes answering the poll.
+- End the poll and tell students to take a minute to look through, and be ready to highlight a strong answer.
+
+
+----------------------------------------
+
+26.
+Tell the student to explain which answer they thought was strong and why.
+
+
+----------------------------------------
+
+27.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+28.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+29.
+- Call on a student to provide a take-home for this session.
+- Provide a summary of the following take-home in your own words: Robust, in-depth and exhaustive case studies can be used to refine and/or test hypotheses. Although case studies can provide strong evidence in some instances, careful consideration must be given to: the limits of generalizations because a case study is a single example, and to the potential for researcher bias.
+- Call on students to answer the focus questions.
+
+   1. When would a case study be more appropriate than a study with a large quantitative sample?
+    A case study is more appropriate when depth of understanding of a process or system is required. For example, Omalu’s first autopsy of Mike Webster--popularized in the movie “Concussion”--was the first identification of CTE and eventually changed the view of concussions and American football.
+
+
+===================RESOURCES===================
+
+Steve Crohn Video
+https://www.youtube.com/embed/e6orDqEsfCE
+null
+
+--------------------------------------------
+
+[template] NOTES Danyuthasilpe et al. (2009) critique
+https://sle-authoring.minervaproject.com/api/v1/worksheets/d454a86b-e448-4316-b10f-cab7d403da87/
+null
+
+--------------------------------------------
+
+LO List for Activity 2
+null
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1553245
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3</strong>: Research Methods</p><p><strong>Big Question:</strong> Why do we age? </p><p><strong>LOs:</strong> </p><ul><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span> - Design and interpret case studies.</li><li>﻿<span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li></ul><p><strong>Activity Learning Goals:  </strong></p><ul><li>Evaluate the potential for bias in case studies. </li><li>Critique the design and interpretation of primary case study research. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span> <strong>-</strong> <strong>Design and interpret case studies.</strong></p><p><br/></p><p>A case study focuses on a single example drawn from a population. This sort of study can rely on any empirical method, ranging from observational to experimental. For example, one could study a single planet (e.g., Earth) to learn about properties of planets in general, a single parrot to learn about the limits of avian speech, or a single community to explore how implementing a new homeless policy affects the incidence of homelessness. Case studies are a useful way to refine hypotheses and to gain deeper insights, but care must be taken when generalizing from the results of a case study to a population as a whole.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Reveal: Methods used in case studies - 1553290
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Methods - Steve Crohn case study</h1><h6><br/></h6><p><u>Observational</u></p><p>Researchers sequences portions of Steve Crohn's DNA they thought might be relevant to his immunity to HIV.</p><p><br/></p><p><u>Interventional</u></p><p>Researchers extracted Crohn's CD4 immune system cells and <em>in vitro </em>experimentally tried to infect them with HIV.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction/Breakout instructions  - 1553292
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Critique the design and interpretation of primary case study research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Debrief Instructions - 1553294
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Debrief Instructions  </h1><ul><li>Three random groups of students will be featured in the main stage during this debrief. </li><li>Students not onstage will be required to answer a feedback poll after the discussion.</li></ul><h6><br/></h6><p>The feedback should identify a specific LO application by a specific student with an explanation of either a:</p><ul><li>particularly good application of an LO or </li><li>suggestion for how to improve an ineffective application of an LO. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1553308
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Critique the design and interpretation of primary case study research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction/Activity Instructions  - 1553322
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the potential for bias in case studies.</p><h6><br/></h6><h1>Activity instructions</h1><p>We will debate the statement:  </p><ul><li>Case studies are more susceptible to confirmation bias than other research methods (i.e., case studies have a tendency to confirm a researcher’s preconceived notions). </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p>This debate will occur in a full class relay:  </p><ol><li>Start by marking a check if you agree with the statement and an X if you do not. You should leave these up the entire debate (you will need to mark them again), but you can change if a point convinces you.</li><li>The instructor will call on one student to begin arguments. </li><li>The student who just made an argument will call on a classmate to follow up.</li><li>Use examples from the pre-class material to support your arguments. </li><li>Arguments should not repeat earlier comments, so pay attention. </li></ol></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Debate - Yes votes - 1553323
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Statements for Debate:  </h1><ul><li>Case studies are more susceptible to confirmation bias than other research methods (i.e., case studies have a tendency to confirm a researcher’s preconceived notions). </li></ul><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p>This debate will occur in a full class relay:  </p><ol><li>Start by marking a check if you agree with the statement and an X if you do not. You should leave these up the entire debate (you will need to mark them again), but you can change if a point convinces you.</li><li>The instructor will call on one student to begin arguments. </li><li>The student who just made an argument will call on a classmate to follow up.</li><li>Use examples from the pre-class material to support your arguments. </li><li>Arguments should not repeat earlier comments, so pay attention. </li></ol></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Debate - No votes - 1553330
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Statements for Debate:  </h1><ul><li>Case studies are more susceptible to confirmation bias than other research methods (i.e., case studies have a tendency to confirm a researcher’s preconceived notions). </li></ul><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p>This debate will occur in a full class relay:  </p><ol><li>Start by marking a check if you agree with the statement and an X if you do not. You should leave these up the entire debate (you will need to mark them again), but you can change if a point convinces you.</li><li>The instructor will call on one student to begin arguments. </li><li>The student who just made an argument will call on a classmate to follow up.</li><li>Use examples from the pre-class material to support your arguments. </li><li>Arguments should not repeat earlier comments, so pay attention. </li></ol></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment Poll - 1553337
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the potential for bias in case studies.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment Poll Discussion - 1553339
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Evaluate the potential for bias in case studies.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1553350
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3</strong>: Research Methods</p><p><strong>Big Question:</strong> Why do we age? </p><p><strong>LOs:</strong> </p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span></span> - Design and interpret case studies.</li><li>﻿<span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span></span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li></ul><p><strong>Activity Learning Goals:  </strong></p><ul><li>Evaluate the potential for bias in case studies. </li><li>Critique the design and interpretation of primary case study research. </li></ul></div></div></div></div></div></div>

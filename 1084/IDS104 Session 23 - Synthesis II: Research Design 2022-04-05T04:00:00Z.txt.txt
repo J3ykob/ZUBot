@@ -1,0 +1,1653 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Identify two flaws in the Messerli (2012) study. Explain.
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Messerli (2012) used the number of Nobel laureates in a country as surrogates for what measure? Why is this (or is this not) valid? 
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+What is the hypothesis of the Messerli (2012) study? Can it be tested with the data collected? Why/ why not?
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+Identify another research method, different than the one(s) used by Messerli (2012), that could have been used to study their hypothesis. What would be one strength or weakness of the method you propose? Explain.
+
+
+------------------------------------------
+
+Which case to focus on for debrief
+
+none
+
+Which case do you think it will be most useful to debrief?
+
+ - Case 1 - Traditional political polls
+ - Case 2 - Snack preferences of children
+ - Case 3 - Aspects of diet correlated with life outlook
+ - Case 4 - Vitamin D pills and flu
+------------------------------------------
+
+Dietary guidelines proposal 1
+
+none
+
+Before the meeting, we are interested in gauging the thoughts of the committee members, so please answer the following poll:  Do you think the primary research, specifically Pan et al. (2012), supports advising the public to eat less red meat?
+ - Yes
+ - No
+------------------------------------------
+
+Poll2: Dietary guidelines proposal
+
+none
+
+Now that we have concluded our discussion of this proposal, please answer the following poll: Do you think the primary research, specifically Pan et al. (2012), supports advising the public to eat less red meat?
+ - Yes
+ - No
+------------------------------------------
+
+Strongest pair of study designs
+
+outcome
+
+Using any of the examples you heard in discussion, what would be the strongest pair of study designs to test the hypothesis? Select two (just two!) from the list and be prepared to explain your answer.
+
+ - observational study - cohort
+ - observational study - case-control
+ - observational study - cross-sectional
+ - RCT
+ - quasi-experiment
+ - case study
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+What was one or more notable moment(s) in this class that exemplified why it is important to distinguish among different research methods? Make sure to reference one or more specific moments in this class and clearly identify which HCs you are applying.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+Briefly Introduce the lesson. 
+
+   1. What aspects of research studies do we “interpret”?
+    Interpretation of a research study can be at several different points in the process:
+
+* Whether the study design will test the hypothesis,
+
+* Whether the results are interpreted appropriately,
+
+* Whether the conclusions bear on the results, and
+
+* Whether the conclusions evaluate the hypothesis. 
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll A:**
+
+**Some examples:**
+
+- Messerli uses the average chocolate consumption for each country, but the actual chocolate consumption by the Nobel laureates (which is used as the indicator of intelligence) is unknown and not specified, so the correlation is extremely speculative.
+- The Nobel prize winner data was compiled from the total number of winners per country through 2011, but the chocolate consumption data was from a single year between 2004-2011, depending on when data were available. Whether chocolate consumption over time has remained the same in each country is unknown.
+- Other foods contain flavonoids (e.g., tea, wine) and are identified by the author but are not considered, even though they may be confounding variables.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+**Some examples:**
+
+- Messerli uses the average chocolate consumption for each country, but the actual chocolate consumption by the Nobel laureates (which is used as the indicator of intelligence) is unknown and not specified, so the correlation is extremely speculative.
+- The Nobel prize winner data was compiled from the total number of winners per country through 2011, but the chocolate consumption data was from a single year between 2004-2011, depending on when data were available. Whether chocolate consumption over time has remained the same in each country is unknown.
+- Other foods contain flavonoids (e.g., tea, wine) and are identified by the author but are not considered, even though they may be confounding variables.
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+Messerli used Nobel laureates as measure of a population's cognitive function. Some reasons why this is not valid include:
+
+- There are very few Nobel laureates in a given country. (In no way can one group of people, without random sampling, represent an entire country.)
+- This is not valid because the number of laureates do not directly signifies an average cognitive function of a country - there could be other variables involved that causes many Nobel laureates to come from Sweden - such as their education system, culture etc. A more valid measure could be average IQ test.
+- Nobel laureates were used as surrogates for people with "superior cognitive function" and thus "overall cognitive function of a given country". This is not valid because there are uncountable factors that lead to someone becoming a Nobel laureate, from the person's traits/skills/abilities to timely opportunities, and there is no clear empirical research supporting causality, let alone, strong correlation between all Nobel laureates ever and their "cognitive function".
+
+Other notes:
+
+- There are more Nobel laureates from developed European countries, and particularly from Sweden (where the prize committee is based).
+- Nobel prizes are often given out decades after the actual work was done, and thus their work will have occurred long before the chocolate consumption data used in this study (2004-2011).
+- In light of this hypothesis, no direct measurement is made on whether Nobel laureates eat more chocolate than other people (which would follow from that assumption).
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Messerli used Nobel laureates as measure of a population's cognitive function. Some reasons why this is not valid include:
+
+- There are very few Nobel laureates in a given country. (In no way can one group of people, without random sampling, represent an entire country.)
+- This is not valid because the number of laureates do not directly signifies an average cognitive function of a country - there could be other variables involved that causes many Nobel laureates to come from Sweden - such as their education system, culture etc. A more valid measure could be average IQ test.
+- Nobel laureates were used as surrogates for people with "superior cognitive function" and thus "overall cognitive function of a given country". This is not valid because there are uncountable factors that lead to someone becoming a Nobel laureate, from the person's traits/skills/abilities to timely opportunities, and there is no clear empirical research supporting causality, let alone, strong correlation between all Nobel laureates ever and their "cognitive function".
+
+Other notes:
+
+- There are more Nobel laureates from developed European countries, and particularly from Sweden (where the prize committee is based).
+- Nobel prizes are often given out decades after the actual work was done, and thus their work will have occurred long before the chocolate consumption data used in this study (2004-2011).
+- In light of this hypothesis, no direct measurement is made on whether Nobel laureates eat more chocolate than other people (which would follow from that assumption).
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+- The hypothesis is that increased chocolate consumption is correlated with increased cognitive function and is measurable at a population level (using the number of Nobel laureates per capita as a surrogate). At first glance, this is counterintuitive--and hence is interesting. It is also interesting because of the possibility--not supported by the data--that one variable causes the other (correlation does not imply causation!!).
+- It is possible to compare chocolate consumption and Nobel laureates per capita, but the time scales of the data would have to be appropriate, which in this study they are not (Nobel laureates through 2011 and chocolate consumption data from 2004-2011). More importantly, Nobel laureates probably are not an appropriate indicator of population-level cognitive function, for multiple reasons. No direct measurement is made on whether Nobel laureates eat more chocolate than other people (which would follow from that assumption), so the overall hypothesis that Messerli identifies is likely untestable with this study design.\
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+- The hypothesis is that increased chocolate consumption is correlated with increased cognitive function and is measurable at a population level (using the number of Nobel laureates per capita as a surrogate). At first glance, this is counterintuitive--and hence is interesting. It is also interesting because of the possibility--not supported by the data--that one variable causes the other (correlation does not imply causation!!).
+- It is possible to compare chocolate consumption and Nobel laureates per capita, but the time scales of the data would have to be appropriate, which in this study they are not (Nobel laureates through 2011 and chocolate consumption data from 2004-2011). More importantly, Nobel laureates probably are not an appropriate indicator of population-level cognitive function, for multiple reasons. No direct measurement is made on whether Nobel laureates eat more chocolate than other people (which would follow from that assumption), so the overall hypothesis that Messerli identifies is likely untestable with this study design.\
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+**Some possible answers:**
+
+- Quasi-experimental design: One could use surveys to assign participants to groups beforehand and then follow them for a number of years.
+- Experimental design: One could use model organisms to design an experiment examining the effects of chocolate on intelligence.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+**Some possible answers:**
+
+- Quasi-experimental design: One could use surveys to assign participants to groups beforehand and then follow them for a number of years.
+- Experimental design: One could use model organisms to design an experiment examining the effects of chocolate on intelligence.
+
+
+----------------------------------------
+
+10.
+Introduce the learning goal, and make the point that continued practice is important to building these skills.
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+12.
+Give students 15-20 seconds to answer the poll, and then focus on the favorite answer in the following discussion step.
+
+
+----------------------------------------
+
+13.
+- Keep this debrief short to prioritize time for the next two activities (note: only 3 minutes allotted to discuss one case)
+
+Potential design flaws/notes for all cases:
+
+1. A sample from a directory of "land-line" phone numbers is no longer representative of the general population because many people do not have landlines but have cellular phones. Using a landline-based sample would likely bias results to older generations. Plus there are various biases at work: People often say what they think is socially acceptable, be prone to priming effects, etc.
+2. Three major flaws: a) They may be mailing surveys to many households that do not have children, which is inefficient, but not necessarily a flaw. b) Even though the sample is random, it will not necessarily be a representative sample because it is the parents (not the children) who will read and fill out the survey. The answers may be based on what the parents think their child likes (or what parents will and will not purchase for their children), even though their child may or may not have been exposed to some of the foods listed in the survey. c) Parents may lie, wanting their children to “look better” than they actually are--assuming that the parents do in fact know what their children like.
+3. Unstructured interviews are best used for subjects that we know little about or when significant depth is required. However, such interviews are particularly susceptible to various types of bias.
+4. There is no specified control group for this study. The researcher will be able to compare the efficacy of the flu vaccine to that of the vitamin D supplement, but the researcher will be unable to determine whether either is significantly effective for preventing flu. Plus, confounds include: a) people who get flu shots are self-selected and may differ from others; b) the flu shots were administered earlier, in a different season and with more time to act; c) it’s not clear how to establish comparable “doses” of the two treatments.
+
+
+----------------------------------------
+
+14.
+Give the take-home that even though some of these flaws are pretty clear, we need to keep practicing identifying them to build the habit of being critical, which will help us when evaluating more complex scenarios.
+
+
+----------------------------------------
+
+15.
+Introduce the learning goal and instructions.
+
+
+----------------------------------------
+
+16.
+- Launch the poll and give students <30 seconds to answer. 
+- It is the instructor’s choice whether to share the poll results, but it will be helpful information to have as you move into discussion. Students will be re-polled at the end.
+
+
+----------------------------------------
+
+17.
+NOTE: This step is the same as the following one. At some point, ask for checks/Xs of agreement with a student comment, and then go to the next step to bring in disengaged students. (Total of 8 minutes for this discussion.)
+
+- The instructor plays the role of Advisory Committee Chair, moderator of this meeting, who is promoting the proposal to advise that the public eat less red meat in the Dietary Guidelines to be published next year.
+- Discuss by calling on different students to explain and justify their answer. Keep the focus on how the Pan et al. (2012) study either supports or does not support this proposed advice.
+- Use focus questions if necessary to draw out aspects of the study and refocus the discussion on evaluating the Pan et al. (2012) study. To keep the discussion moving, the instructor may have to argue in support of the proposal based on Pan et al. (2012) to draw out responses from the students; some points are below.
+- **Focus questions (Optional: use as needed to refocus the discussion on evaluating the contributions of the Pan et al. 2012 article.)**
+- (Optional) Prompt non-presenting students to “tweet” in the chat at least one time during the discussion for good applications of an HC when presenters explain how Pan et al. (2012) either supports or does not support the proposed advice.
+
+   1. What aspects of the Pan et al. (2012) study support advising the public to eat less red meat? That is, what are some strengths of this study?
+    Some strengths of this study that would support advising the public to eat less red meat are:
+
+* Large sample size (37698 men from the Health Professional’s Follow-up Study and 83644 women from the Nurse’s Health Study)
+
+* Long period of study (\~20 years)
+
+* Repeated assessments of diet, lifestyle and physical health throughout the study\
+,   2. What aspects of the Pan et al. (2012) study would make you hesitant to advise against eating red meat? That is, what are flaws in this study?
+    Some weaknesses of this study, that should make one hesitant to offer advise against red meat consumption:
+
+* Primarily Caucasian participants and thus potentially low generalizability to other populations.
+
+* Diet was assessed using a survey, which may be susceptible to memory bias of participants.
+
+* ***Numerous*** confounding variables that may have affected results (see answers to question 3 below). This is likely the primary reason not to recommend the proposed advice based on this study alone.,   3. What are some confounding variables that may have led to the results?
+
+**Note: **The authors explain that they controlled for these potential confounds using multivariate analyses, but do not provide any details of their model, including in the supplemental data in the paper. However, this is a common and viable approach in multivariate studies in some disciplines. (But, there could be other confounding variables not controlled for via statistics nor observed as part of this data set.)
+    Most of the confounding variables are evident when examining the tables. Researchers group participants into five quintiles based on their meat consumption. All of the differences among these groups identified below are correlated with the observed mortality and potentially could have produced the results. .\
+Those groups that had higher red meat consumption also:
+
+* Had lower physical activity
+
+* Had higher Body Mass Index
+
+* Were more likely to be a smoker
+
+* Had lower multivitamin use
+
+* Consumed more:
+
+  * total calories per day
+
+  * alcohol
+
+  * dairy
+
+
+* Consumed less:
+
+  * fruits
+
+  * fish
+
+\
+\(See Table 1 in Pan et al., 2012 and Pearson’s matrix below in optional conclusion)
+----------------------------------------
+
+18.
+NOTE: This step is the same as the previous one, but will bring new students on stage. (Total of 8 minutes for this discussion.)
+
+- The instructor plays the role of Advisory Committee Chair, moderator of this meeting, who is promoting the proposal to advise that the public eat less red meat in the Dietary Guidelines to be published next year.
+- Discuss by calling on different students to explain and justify their answer. Keep the focus on how the Pan et al. (2012) study either supports or does not support this proposed advice.
+- Use focus questions if necessary to draw out aspects of the study and refocus the discussion on evaluating the Pan et al. (2012) study. To keep the discussion moving, the instructor may have to argue in support of the proposal based on Pan et al. (2012) to draw out responses from the students; some points are below.
+- **Focus questions (Optional: use as needed to refocus the discussion on evaluating the contributions of the Pan et al. 2012 article.)**
+- (Optional) Prompt non-presenting students to “tweet” in the chat at least one time during the discussion for good applications of an HC when presenters explain how Pan et al. (2012) either supports or does not support the proposed advice.
+
+   1. What aspects of the Pan et al. (2012) study support advising the public to eat less red meat? That is, what are some strengths of this study?
+    Some strengths of this study that would support advising the public to eat less red meat are:
+
+* Large sample size (37698 men from the Health Professional’s Follow-up Study and 83644 women from the Nurse’s Health Study)
+
+* Long period of study (\~20 years)
+
+* Repeated assessments of diet, lifestyle and physical health throughout the study\
+,   2. What aspects of the Pan et al. (2012) study would make you hesitant to advise against eating red meat? That is, what are flaws in this study?
+    Some weaknesses of this study, that should make one hesitant to offer advise against red meat consumption:
+
+* Primarily Caucasian participants and thus potentially low generalizability to other populations.
+
+* Diet was assessed using a survey, which may be susceptible to memory bias of participants.
+
+* ***Numerous*** confounding variables that may have affected results (see answers to question 3 below). This is likely the primary reason not to recommend the proposed advice based on this study alone.,   3. What are some confounding variables that may have led to the results?
+
+**Note: **The authors explain that they controlled for these potential confounds using multivariate analyses, but do not provide any details of their model, including in the supplemental data in the paper. However, this is a common and viable approach in multivariate studies in some disciplines. (But, there could be other confounding variables not controlled for via statistics nor observed as part of this data set.)
+    Most of the confounding variables are evident when examining the tables. Researchers group participants into five quintiles based on their meat consumption. All of the differences among these groups identified below are correlated with the observed mortality and potentially could have produced the results. .\
+Those groups that had higher red meat consumption also:
+
+* Had lower physical activity
+
+* Had higher Body Mass Index
+
+* Were more likely to be a smoker
+
+* Had lower multivitamin use
+
+* Consumed more:
+
+  * total calories per day
+
+  * alcohol
+
+  * dairy
+
+
+* Consumed less:
+
+  * fruits
+
+  * fish
+
+\
+\(See Table 1 in Pan et al., 2012 and Pearson’s matrix below in optional conclusion)
+----------------------------------------
+
+19.
+Launch the poll and give students <30 seconds to answer.
+
+----------------------------------------
+
+20.
+To conclude the discussion, call on a 2-3 students who have changed their minds to explain what points made in the discussion caused that change.
+
+----------------------------------------
+
+21.
+Call on 2 students to respond to the prompts:
+
+1. What did you learn about translating the results of a study into advice for the public from this activity?
+
+2. How do the results of this study bear on the Big Question “Why do we age?”
+
+----------------------------------------
+
+22.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+23.
+Briefly introduce the activity.
+
+
+----------------------------------------
+
+24.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Listen in to breakout groups to identify students with strong study designs who you can call upon during the debrief.
+
+
+----------------------------------------
+
+25.
+- Explain that students who are not speaking should be prepared to identify one **specific** aspect of good study design not mentioned by the presenter, along with a solution. (Example of a poor answer: “Need to address biases - don’t be biased in your experimental design.” Example of a strong answer: “Need to consider confirmation bias - consider the alternative hypothesis that…”)
+    - Make sure to call on one or more non-presenting students to give their suggestions after each presentation.
+- Focus the discussion on the students who are on the main stage.
+    - Call on one student briefly to describe the two studies they devised to assess the hypothesis and ask him or her to explain how the strengths of each one cover weaknesses of the other
+    - Call on another student to present a different pair of studies to test the hypothesis. Cut students off if the studies do not use different research methods or a sufficiently different approach (e.g., different scale of target population, different venue).
+    - Continue until it’s become clear that there are no new ideas; at this point, simply ask whether another group produced a different type of pair. If so, ask them to explain.
+    - The goals are:
+        - to draw out a diverse assortment of study designs and ideally one example for each of the methods we have covered in this course (observational study, RCT, quasi-experiment, interview, survey, case study).
+        - to show various ways in which the strengths of one research method can cover for weaknesses in another, and vice versa.
+
+
+----------------------------------------
+
+26.
+This step is a repeat of the last step to pull in new students.
+
+- Explain that students who are not speaking should be prepared to identify one **specific** aspect of good study design not mentioned by the presenter, along with a solution. (Example of a poor answer: “Need to address biases - don’t be biased in your experimental design.” Example of a strong answer: “Need to consider confirmation bias - consider the alternative hypothesis that…”)
+    - Make sure to call on one or more non-presenting students to give their suggestions after each presentation.
+- Focus the discussion on the students who are on the main stage.
+    - Call on one student briefly to describe the two studies they devised to assess the hypothesis and ask him or her to explain how the strengths of each one cover weaknesses of the other
+    - Call on another student to present a different pair of studies to test the hypothesis. Cut students off if the studies do not use different research methods or a sufficiently different approach (e.g., different scale of target population, different venue).
+    - Continue until it’s become clear that there are no new ideas; at this point, simply ask whether another group produced a different type of pair. If so, ask them to explain.
+    - The goals are:
+        - to draw out a diverse assortment of study designs and ideally one example for each of the methods we have covered in this course (observational study, RCT, quasi-experiment, interview, survey, case study).
+        - to show various ways in which the strengths of one research method can cover for weaknesses in another, and vice versa.
+
+
+----------------------------------------
+
+27.
+- Launch the poll, allow students up to 1 minute to answer, and show results.
+- Call on 2-3 students to explain their answers. Choose those that are particularly strong pairs of research designs, which clearly “cover” for each other’s weaknesses.
+
+Possible talking point for faculty: In real world observational studies, people may eat less chocolate and different types (eat other things that counteract chocolate!)-- so even if you see causation in RCT, it may not be relevant to the real world.
+
+   1. When choosing the most effective pairs of designs to test this hypothesis:
+
+* What advantages of certain study designs were you prioritizing as important?
+
+* What disadvantages of other study designs were you attempting to avoid?
+
+* How do strengths of different methods compensate for weaknesses of other methods?
+    Student-provided answers.
+
+----------------------------------------
+
+28.
+Call on 1-2 students to summarize a take-home message for this activity.
+
+----------------------------------------
+
+29.
+Give students approximately four to five minutes to complete the reflection poll.
+
+​
+
+**Note to faculty: **One important reason for this reflection is that being able to differentiate among different research methods allows you easily to identify the advantages and disadvantages of the study.
+
+
+----------------------------------------
+
+30.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+31.
+- Call on a student to provide a take-home from this session. 
+- Provide a summary of the following take-home in your own words: To draw meaningful conclusions from research, one must be able to identify the strengths and weaknesses of a given study. Different research methods can be used to evaluate a single hypothesis and multiple studies that use different methods can converge and allow us more confidence in the results.
+
+
+
+----------------------------------------
+
+32.
+​
+
+
+
+===================RESOURCES===================
+
+PearsonCorrelationHPFS.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/nvA0Kr/ns51-10.2-pearsoncorrelationhpfs.pdf
+null
+
+--------------------------------------------
+
+Pearson's Correlation HPFS
+https://docs.google.com/document/d/1olBPZDlutGnvhSaONNW3Dh3lfrGYmhfEpIHZikZFxvI/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Research Design Flaws Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/6d7420e9-cec4-4ae1-a858-7a937a905090/
+null
+
+--------------------------------------------
+
+[template] NOTES Complementary Studies Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/55c99e08-335b-4b5a-8d25-a0c2e240ae9b/
+null
+
+--------------------------------------------
+
+Further Reading mDoc
+null
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1552768
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question</strong>: Why do we age?</p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - <span style="color: rgb(51, 51, 51);">Identify and evaluate appropriate control groups for empirical study designs.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#interviewsurvey﻿</span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span></span> - <span style="color: rgb(51, 51, 51);">Design and interpret case studies.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#evidencebased﻿</span> - Identify and appropriately structure the information needed to support an argument effectively. </li></ul><p><strong>Activity Learning Goals:</strong> Continued ...</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify flaws in research designs. </li><li>Critique the design and interpretation of primary research. </li><li>Design multiple research studies to address a single hypothesis and identify ways that the advantages of one method can compensate for weaknesses in another and vice versa.  </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Activity Introduction - 1552802
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify flaws in research designs.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Scenario Discussion - 1552811
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Case 1</h1><p>Traditional political polls survey people on how they plan to vote in an upcoming election. A random sample of people typically is obtained from a directory of “land-line” phone numbers. The survey is completed verbally over the phone and typically only takes a few minutes. Interviewers ask demographic questions and then ask whether the person intends to vote and for whom they intend to vote (or whether they are undecided). </p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Case 2</h1><p>A food distribution company wants to learn which snack foods young children who live in a particular city prefer. The company mails out surveys to a random sample of households in the target neighborhoods. The mixed method surveys the researchers use include questions specifically asking about food products the company distributes and also include open-ended questions about the snack foods typically consumed by children in the household. </p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Case 3</h1><p>A researcher is interested in exploring whether any aspects of a person’s diet are correlated with his or her outlook on life (positive or negative). This is relatively cutting edge, since nothing has been published about this connection. He decides to use quantitative surveys to gather the largest amount of data possible so that he can tease out correlations.  </p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Case 4</h1><p>A researcher is interested in whether vitamin D pills are as effective as the flu vaccine at warding off the flu. The researcher plans to study the effects in the local school. She divides the school children into two groups: (1) children who already received the flu vaccine, and (2) children who did not get the flu vaccine but will receive 400 IU of vitamin D every school day. The researcher tracks the number of times each child reports having the flu and compares the incidences at the end of the school year.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1552817
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify flaws in research designs.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1552823
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Critique the design and interpretation of primary research.</p><h6><br/></h6><h1>Activity Instructions</h1><p>You are a member of the Advisory Committee for the US National Dietary Guidelines; your report will be published next year. The Dietary Guidelines summarize nutritional research every 5 years in a single document that outlines nutritional advice for the public. </p><ul><li>This meeting was called to evaluate a proposal by the Advisory Committee Chair to advise the public to eat less red meat, based on new primary research reported by Pan et al. (2012) and others. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1552858
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Critique the design and interpretation of primary research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3. Introduction - 1552872
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Design multiple research studies to address a single hypothesis and identify ways that the advantages of one method can compensate for weaknesses in another and vice versa.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3. Closure Moment - 1552895
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Design multiple research studies to address a single hypothesis and identify ways that the advantages of one method can compensate for weaknesses in another and vice versa.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1552905
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question</strong>: Why do we age?</p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li><li><span style="color: rgb(10, 120, 191);">﻿#controlgroups﻿</span> - <span style="color: rgb(51, 51, 51);">Identify and evaluate appropriate control groups for empirical study designs.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#interviewsurvey﻿</span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span style="color: rgb(10, 120, 191);">﻿#casestudy﻿</span> - <span style="color: rgb(51, 51, 51);">Design and interpret case studies.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#evidencebased﻿</span> - Identify and appropriately structure the information needed to support an argument effectively. </li></ul><p><strong>Activity Learning Goals:</strong> Continued ...</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify flaws in research designs. </li><li>Critique the design and interpretation of primary research. </li><li>Design multiple research studies to address a single hypothesis and identify ways that the advantages of one method can compensate for weaknesses in another and vice versa.  </li></ul></div></div></div></div></div></div>

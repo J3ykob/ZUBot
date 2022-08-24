@@ -1,0 +1,1205 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Empirical rational choice theory makes assumptions about how agents make decisions. What are these assumptions? Do you think these assumptions are problematic?
+
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+What is the difference between normative and empirical theories? Give examples of each kind of theory. 
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+What are the reasons to adopt a model of bounded rationality? 
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What does it mean to say that Adrienne’s preferences are complete and transitive? Why is it a good idea to ensure one’s preferences are complete and transitive?
+
+
+------------------------------------------
+
+Cost/Benefit Poll 1
+
+outcome
+
+How did your cost/benefit analysis differ from the presenting group's analysis? [If (and only if) you were in the presenting group, then answer how you might improve your group's cost/benefit analysis].
+
+
+------------------------------------------
+
+Cost/Benefit Poll 2
+
+none
+
+How did your cost/benefit analysis differ from the presenting group's analysis? [If (and only if) you were in the presenting group, then answer how you might improve your group's cost/benefit analysis].
+
+
+------------------------------------------
+
+Poll 1
+
+none
+
+What are the possible goals/preferences that lead to this situation? How might one change the institutional arrangement to prevent this (that is, how might we change the structure of costs/benefits in this context)?
+
+
+------------------------------------------
+
+Poll 2
+
+none
+
+What are the possible goals/preferences that lead to this situation? How might one change the institutional arrangement to prevent this (that is, how might we change the structure of costs/benefits in this context)?
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+How is utility relevant to the Big Question for this unit (“Why do people commit crimes?”)? Illustrate your answer with an example.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+Introduce the LO of the day, and clarify specific elements using the focus questions, below. You may also wish to call out specific questions from the study guide, or prep poll questions that will not be taken by your section (assumptions of RCT, empirical versus normative theories, bounded rationality, completeness and transitivity).
+
+   1. What does it mean for something to be a “tradeoff between costs and benefits”?
+
+    It means that acquiring a particular benefit often involves an accompanying cost, which must be weighed in determining whether acquiring the benefit is worth the cost of doing so.
+,   2. What does it mean to “maximize overall benefits”? Can you analyse this at multiple levels?
+
+    It means to make a decision that produces the largest aggregate benefit in a system (which may be at a group or system-wide level), even if it results in higher costs for particular agents than other options.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll A**: The theory assumes agents make rational choices, which implies
+
+- People recognize all the actions available to them.
+- People accurately predict the results of their actions.
+- People calculate the value of each action in terms of the results it will lead to, and choose the best one.
+
+These assumptions can be seen as not problematic, if one focuses on the model’s ability to predict results (Milton Friedman’s approach). The assumption may seem problematic if we consider that prediction doesn’t necessarily encapsulate explanation, and we want to understand not just the result but also how and why we reach them (an approach exemplified by bounded rationality).
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll B**: Empirical, or descriptive, theories aim to describe the world and answer the question ‘what is’. Normative, or prescriptive, theories aim to describe how and why things ought to be rather than how they actually are, and answer the question ‘what should be’. Examples of empirical theories include the theory of gravity, the theory of evolution, general relativity, special relativity, the big bang etc. Normative theories include theories of aesthetics, morality, rationality, logic and so forth.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll C**: Rational decision-making is extremely demanding, and much of it seems beyond the cognitive capacity of humans. Psychological research reveals a variety of ways in which human behavior deviates from the standards of rationality. Proponents of bounded rationality theories believe that their theories are preferable to standard rational choice theories because they do a better job of ‘capturing the essence of the social situation.’ They believe that these theories provide better (or at least ‘as good’) predictions while also providing a richer explanation of the way in which the system works to get to these results.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll D**: Completeness mean that you have a preference over any possible set of results, and transitivity means that if you prefer A to B and B to C, you also prefer A to C. Completeness is important in order to avoid a situation where one is paralyzed and incapable of deciding because they don’t know whether they prefer one option to the other. Transitivity is important because it precludes the state of cyclical preferences, which is unstable as well as vulnerable to exploitation.
+
+
+----------------------------------------
+
+10.
+Students go into back-to-back breakouts where in each of them they work together to (a) enumerate possible courses of actions, (b) possible outcome states, (c) assign a complete ranking of the possible outcomes given their understanding of the agent's goals and then (D) make a recommendation for a course of action. The debrief will allow them to compare and contrast their analysis, with the closure moment translating the analysis into the language of costs and benefits, and asking whether some costs/benefits were not obvious at first glance.
+
+​
+
+There is an example to talk through to make sure students are clear on how to complete the table. Highlight that there is a choice, with two alternatives. Under each alternative are some associated outcomes, each rated as a benefit (+) or a cost (-).
+
+​
+
+Note: the values represent _relative magnitude_. While we are using a number scale to demonstrate relative utilities across alternatives in order to compare outcomes in this activity, utility should be considered ordinal rather than cardinal in nature. For example: while a person can introspect and express whether a good or service provides more, less or equal satisfaction when compared to one another (e.g. I prefer coffee > tea > juice in the morning), they are not going to provide cardinal values such as "coffee is three units of utility, tea two utils, and juice one util"). Numbered ranking can, however, be used to express proportionality: A = 3 and B = 9 doesn't represent specific quantities, but it does represent that A can be considered a third of what has been assigned to B.
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally.
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note (using the pin feature) of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+12.
+- Feature a breakout group. 
+- Tell the non-featured students to pay attention because they will be asked to say how exactly their cost/benefit analysis differed from the group that is sharing. 
+- Call on a featured group member and ask them to _briefly_ share their analysis of key costs/benefits
+- Call on another group member to explain their group's recommendation.
+
+
+----------------------------------------
+
+13.
+- Give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to answer the question.
+- When they are finished tell them that they will be going into another breakout to consider another scenario. 
+- Send students into the next breakout. 
+
+
+----------------------------------------
+
+14.
+- Ensure students in each group are discussing their responses and contributing equally.
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note (using the pin feature) of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+15.
+- Feature a breakout group. 
+- Tell the non-featured students to pay attention because they will be asked to say how exactly their cost/benefit analysis differed from the group that is sharing. 
+- Call on a featured group member and ask them to _briefly_ share their analysis of key costs/benefits
+- Call on another group member to explain their group's recommendation.
+
+
+----------------------------------------
+
+16.
+- Give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to answer the question. 
+
+
+----------------------------------------
+
+17.
+Call on several students to answer the focus question below:
+
+- Do you think agents are good at predicting the relative weighting/value of costs and benefits? Why or why not? (Note: in other words, does expected utility typically equal experienced utility?)
+
+
+----------------------------------------
+
+18.
+Take a one-minute eye rest break. 
+
+
+----------------------------------------
+
+19.
+Briefly introduce the activity.
+
+
+----------------------------------------
+
+20.
+- Tell students to read the slide (mention that they need to scroll through two slides total).
+- Then give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to share their answers.
+- If students answers are implausible, steer them toward this model answer: Shirley's goal is to pay rent while avoiding serious punishment. We could change the cost benefit analysis if there were a better social safety net such that Shirley was not struggling to make ends meet in the first place 
+
+
+----------------------------------------
+
+21.
+- Tell students to read the slide.
+- Then give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to share their answers.
+- If students answers are implausible, steer them toward this model answer: Johannes' goal is to watch the movie before it's available in his country. He also wants to avoid spoilers. He could always change the situation by blocking sites that give spoilers, or by having a friend from North America mail him a legal copy of the movie. 
+
+
+----------------------------------------
+
+22.
+- Give students ~30 seconds to skim this quote from Gary Becker, a Nobel Laureate and the founder of rational theories of criminal behavior.
+- Ask 1-2 students: How does this anecdote capture the essence of our discussion?
+- Optional: This led Becker to write a groundbreaking paper called, “Crime and Punishment: An Economic Approach” in 1968. Why might this have been so influential? How do you think people _used_ to explain criminal behavior, and why is Becker’s approach different?
+    - Highlight how Becker frames criminals not as socially depressed or mentally ill (a traditional view at the time— criminals are “bad” people), but as rational agents capable of calculating the potential cost/benefits of a crime given their current situation and likelihood of being caught.
+
+
+----------------------------------------
+
+23.
+- Give students approximately four to five minutes to complete the reflection poll.
+- (Optional) Debrief by highlighting 1 - 2 strong responses.
+
+
+----------------------------------------
+
+24.
+Call on several students to summarize the main takeaways from this lesson.
+
+Invite several students to synthesize with previous LOs:
+
+- How is #utility related to #purpose?
+- How is #utility related to #psychologicalexplanation
+- Can someone link #utility with an LO from the Characteristics of Complex Systems unit?
+
+
+
+===================RESOURCES===================
+
+Utility Quote.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/00143706-5933/ss50-10.1-utility-quote.pdf
+null
+
+--------------------------------------------
+
+Utility table example.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/00143715-4103/ss50-19.1-utility-table-example.pdf
+null
+
+--------------------------------------------
+
+baltimore-and-ohio-employees-magazine - 1912.pdf
+https://course-resources.minervaproject.com/uploaded_files/production/00026967-8147/baltimore-and-ohio-employees-magazine---1912.pdf
+null
+
+--------------------------------------------
+
+[template] NOTES Cost v Benefits (Wael)
+https://sle-authoring.minervaproject.com/api/v1/worksheets/0079e17e-13fd-41fe-a9cd-d9f213a1784b/
+null
+
+--------------------------------------------
+
+[template] NOTES Cost v Benefits (Drishti)
+https://sle-authoring.minervaproject.com/api/v1/worksheets/2b4b382a-5c7f-44da-9f90-0e1a2bdbc698/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1555175
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2</strong>: Agents</p><p><strong>Big Question</strong>: Why do people commit crimes?</p><p><strong>LOs</strong>: </p><ul><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span> - Consider different types of costs and benefits for all stakeholders.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="systemanalysis">﻿<span>#systemanalysis</span>﻿</span> - Analyze and apply decompositions of systems into constituent parts at multiple levels of analysis.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Recognize how costs and benefits determine the utility of an outcome for an agent. </li><li>Evaluate the role of utility in shaping criminal behavior</li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span> - Consider different types of costs and benefits for all stakeholders.</strong></p><h6><strong><span class="ql-cursor">﻿</span></strong></h6><p>When making decisions, one must always consider tradeoffs between costs and benefits and must consider them from the different perspectives of all stakeholders. When making decisions that affect people (as virtually all decisions in the real world will do), such reasoning must occur at multiple levels of analysis, ranging from effects on the individual to effects on groups at different levels of scale. Sometimes, a decision that maximizes overall benefits will be very unpopular with a subgroup; one must learn to anticipate and mitigate the negative effects of such cases. Furthermore, individuals or groups may not all derive utility from the same outcomes, which is important to recognize when predicting how they will behave.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction/Breakout Instructions - 1555205
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Recognize how costs and benefits determine the utility of an outcome for an agent. </p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Breakout Instructions</strong></h1><h6><br/></h6><ol><li>In your breakout groups, consider your scenario and determine possible courses of action that could be pursued by your agent.  </li><li>Next, evaluate the specific outcomes that could occur as a result.  Are some more or less desirable given your understanding of the agent’s goals?  </li><li>Classify these outcomes as either costs or benefits, and assign a corresponding (positive values = benefits; negative values = costs).  </li><li>Once you have evaluated a number of potential costs/benefits, determine a recommended course of action for your agent.  You will need to explain this recommendation when we reconvene</li></ol></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1555221
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Recognize how costs and benefits determine the utility of an outcome for an agent. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1555228
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Evaluate the role of utility in shaping criminal behavior</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Poll 1 - 1555232
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Scenario 1</strong> </h1><p>Shirley has been out of work for a while and is struggling to make ends meet. She’s had to ask her family for money in the past and is embarrassed to approach them again, particularly as her parents are retired and have limited funds. Rent is going to be due in one week and she thinks she might be about $100 short. She might be able to find some temp work in the next few days or try to sell some possessions to raise money, but is anxious about whether either of those will work.</p><p>While at the bus stop Shirley realizes someone has left their phone on the bench.</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p>It might be the latest iPhone, which means it could be worth a lot of money— In California, “petty theft” is a misdemeanour charge applied to taking money or property valued at $400 or less. It often results in probation or community service, and sometimes up to six months in jail. “Grand theft” applies when the property stolen is worth over $950, and is much more severely punished (such as 16 months to three years in prison).</p><p>Shirley takes a moment to consider the alternatives, decides the phone is most likely worth around $400, then puts it in her bag (and later sells it without trying to find the owner).</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Poll 2 - 1555238
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Scenario 2</strong></h1><p>Johannes lives in a country that never seems to get early releases of the latest movies. At best, they have been released in North America and Europe for months before making it to him.</p><p>Fed up with being subjected to spoilers, he downloads a copy of the latest Disney offering from The Pirate Bay instead of waiting and paying to see the film when it is released in his city.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1555242
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Evaluate the role of utility in shaping criminal behavior</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1555245
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2</strong>: Agents</p><p><strong>Big Question</strong>: Why do people commit crimes?</p><p><strong>LOs</strong>: </p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span></span> - Consider different types of costs and benefits for all stakeholders.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="systemanalysis">﻿<span>#systemanalysis</span>﻿</span></span> - Analyze and apply decompositions of systems into constituent parts at multiple levels of analysis.</li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Recognize how costs and benefits determine the utility of an outcome for an agent. </li><li>Evaluate the role of utility in shaping criminal behavior</li></ul></div></div></div></div></div></div>

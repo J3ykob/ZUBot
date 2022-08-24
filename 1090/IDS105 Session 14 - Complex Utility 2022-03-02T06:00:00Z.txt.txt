@@ -1,0 +1,1076 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Based on the principles of prospect theory, would the following scenario be likely to result in a crime’s being committed? Why or why not?
+
+Scenario: An employee who earns a large salary discovers an opportunity to steal a small amount of additional money from his employer with a very low likelihood of being caught
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Based on the principles of prospect theory, would the following scenario be likely to result in a crime’s being committed?
+
+Scenario: An investor receives insider information that if correct would allow her to make a significant profit by trading appropriately; she estimates the chance of the information’s being correct and the chance of getting caught both to be around 50%.
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Based on the principles of prospect theory, would the following scenario be likely to result in a crime being committed?
+
+Scenario: A single mother who has just lost her job sees that the person sitting in front of her on the bus has just dropped his wallet without noticing, and that there is a large amount of cash in the wallet--but others may have also noticed this.
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+Based on the principles of prospect theory, would the following scenario be likely to result in a crime’s being committed?
+
+Scenario: A person who has recently had his driver’s license suspended misses the bus, and knows that the only way to get to work on time is by driving, and that if he misses his morning meeting he will almost certainly be fired.
+
+------------------------------------------
+
+Poll 1 Key Concepts
+
+none
+
+Fill in the blank. \_\_\_\_\_\_\_ is the idea that while you enjoy winning and dislike losing, you in fact dislike losing _more_ than you like winning.
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+Poll 2 Key Concepts
+
+none
+
+Fill in the blank. \_\_\_\_\_\_\_ is the idea that we prefer certainty over risk (even if the certain option has some associated costs).
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+Poll 3 Key Concepts
+
+none
+
+Fill in the blank. \_\_\_\_\_\_\_ is the idea that $100 is worth a lot more to someone who has only $50 than it is to someone who has $5000. 
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+Student Example 1
+
+none
+
+The student's example is an example of which of the following?
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+Student Example 2
+
+none
+
+The student's example is an example of which of the following?
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+Student Example 3
+
+none
+
+The student's example is an example of which of the following?
+
+ - Risk aversion
+ - Reference point
+ - Diminishing sensitivity
+ - Loss aversion
+ - Mixed gamble
+ - Bad choice
+ - Possibility effect
+ - Certainty effect
+------------------------------------------
+
+A2. Poll 1
+
+outcome
+
+Read the following example of criminal behavior: 
+
+​
+
+“The News International phone-hacking scandal is a controversy involving the defunct News of the World and other British newspapers published by News International, a subsidiary of News Corporation. Employees of the newspaper were accused of engaging in phone hacking, police bribery and exercising improper influence in the pursuit of stories. Whilst investigations conducted from 2005 to 2007 appeared to show that the paper's phone hacking activities were limited to celebrities, politicians and members of the British Royal Family, in July 2011 it was revealed that the phones of murdered schoolgirl Milly Dowler, relatives of deceased British soldiers and victims of the 7 July 2005 London bombings had also been hacked.” [Source: https://en.wikipedia.org/wiki/News\_International\_phone\_hacking\_scandal]
+
+​
+
+**For each of the biological, sociological, and psychological theories of crime, briefly explain the account each approach would give of the utility of the criminal behavior.**
+
+
+------------------------------------------
+
+A2. Poll 2
+
+outcome
+
+Consider the same example of criminal behavior: 
+
+​
+
+“The News International phone-hacking scandal is a controversy involving the defunct News of the World and other British newspapers published by News International, a subsidiary of News Corporation. Employees of the newspaper were accused of engaging in phone hacking, police bribery and exercising improper influence in the pursuit of stories. Whilst investigations conducted from 2005 to 2007 appeared to show that the paper's phone hacking activities were limited to celebrities, politicians and members of the British Royal Family, in July 2011 it was revealed that the phones of murdered schoolgirl Milly Dowler, relatives of deceased British soldiers and victims of the 7 July 2005 London bombings had also been hacked.” [Source: https://en.wikipedia.org/wiki/News\_International\_phone\_hacking\_scandal]
+
+​
+
+**How would prospect theory explain this example?**
+
+
+------------------------------------------
+
+A2. Poll 3
+
+outcome
+
+Once again, consider the following example of criminal behavior:
+
+​
+
+“The News International phone-hacking scandal is a controversy involving the defunct News of the World and other British newspapers published by News International, a subsidiary of News Corporation. Employees of the newspaper were accused of engaging in phone hacking, police bribery and exercising improper influence in the pursuit of stories. Whilst investigations conducted from 2005 to 2007 appeared to show that the paper's phone hacking activities were limited to celebrities, politicians and members of the British Royal Family, in July 2011 it was revealed that the phones of murdered schoolgirl Milly Dowler, relatives of deceased British soldiers and victims of the 7 July 2005 London bombings had also been hacked.” [Source: https://en.wikipedia.org/wiki/News\_International\_phone\_hacking\_scandal]
+
+​
+
+**How can we explain this example in terms of #systemanalysis and #emergentproperties?**
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+How does utility (as explained by prospect theory) relate to either psychological explanation or purpose? Use an example from today’s lesson to illustrate your answer.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+Briefly introduce the class. 
+
+   1. How might we use prospect theory to explain Bernie Madoff's continuing operation of this Ponzi scheme even when he was almost certain it would end in massive investor losses and criminal charges?
+
+    Students should recognize that the Ponzi scheme rapidly enters the quadrant of the fourfold pattern occupied by gamblers where one is in a domain of loss with high probability, leading to risk seeking behavior.
+
+For example: Prospect theory highlights an embedded feedback loop in Ponzi schemes: the longer the scheme lasts, the bigger the sure loss if the schemer turns himself in, which makes it harder to take the sure loss, even though the possibility of avoiding any loss at all becomes smaller and smaller.  We can even think that human agents can overvalue even theoretical possibilities of no loss if they are facing catastrophic losses. The size of the catastrophe increases our bias to the point of not just overvaluing the possibility of no loss but seeing a possibility (>0% probability) when in actuality there is 0% of no loss.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll A**:** **Assuming risk aversion, the reward is not great enough to justify even a small risk given the consequences. Focus grading on the depth of explanation and appropriate use of key terms captured in prospect theory.
+
+**Follow-up**: How could you alter the scenario in such a way as to change the likely outcome?
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll B**: Although the reward could be significant, the probability of success is probably not high enough to overcome risk aversion. Focus grading on the depth of explanation and appropriate use of key terms captured in prospect theory.
+
+**Follow-up**: How could you alter the scenario in such a way as to change the likely outcome?
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll C**: Although the reward is high, there is no loss involved in avoiding the risk (only a foregone gain), so loss aversion won’t influence the decision. Perhaps the “possibility effect” may nudge the decision towards risk-taking behavior by shaping the individual's perspective on the likelihood of getting away with it (or, conversely, inflate the likelihood of getting caught and have the opposite effect). Focus grading on the depth of explanation and appropriate use of key terms captured in prospect theory.
+
+**Follow-up**: How could you alter the scenario in such a way as to change the likely outcome?
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).
+- Poll + debrief should take 10 minutes in total.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Call on another student to answer the focus question.
+
+**Answer to Poll D**: The potential loss is very high, and the chances of being caught are relatively low, so risk-seeking behavior is likely. Focus grading on the depth of explanation and appropriate use of key terms captured in prospect theory.
+
+**Follow-up**: How could you alter the scenario in such a way as to change the likely outcome?
+
+
+----------------------------------------
+
+10.
+- Tell the students that they are going to start by identifying some of the key concepts of prospect theory. 
+- Tell them that then they will rely on their pre-class work and identify which of the concepts apply to some examples from their fellow students. 
+- Go over the activity learning goal. 
+
+
+----------------------------------------
+
+11.
+- Give students a minute or less to answer the poll.
+- Show the students the answer and tell them that the correct answer is D, loss aversion.
+- Call on 1-2 students to justify their answer.
+
+
+----------------------------------------
+
+12.
+- Give students a minute or less to answer the poll.
+- Show the students the answer and tell them that the correct answer is A, risk aversion.
+- Call on 1-2 students to justify their answer.
+
+
+----------------------------------------
+
+13.
+- Give students a minute or less to answer the poll.
+- Show the students the answer and tell them that the correct answer is C, diminishing sensitivity.
+- Call on 1-2 students to justify their answer.
+
+
+----------------------------------------
+
+14.
+- Tell the students that now some of them will be called on to paste an example of one of the concepts from the homework assignment into the doc, without indicating in any way what the concept is.
+
+**Answer key / examples for faculty**
+
+**Risk aversion**: People usually prefer to pay standard fares to purchase airline seats in advance rather than waiting for the possibility of last-minute bargains. We will prefer certainty over risk (even if it has some associated costs); buying insurance is another example, see fourfold pattern p. 317-18.
+
+**Reference point**: Evaluation takes place relative to a neutral reference point (or “adaptation level”). For financial outcomes, this could be the status quo, or what you expect. for example: In talking about Madoff, students felt that 8-12% was a high rate of return (presumably their reference point is 2-5%), but this didn’t raise investor’s eyebrows (who might be used to hearing about 15-20% as a "solid" or reasonably high result).
+
+**Diminishing sensitivity**: Both sensory diminishment and the evaluation of changes of wealth. The difference between $900 and $1000 feels less than the difference between $100 and $200 (Kahneman p. 282)
+
+**Loss aversion**: “Losses loom larger than gains”— this is related to the slope change of the function on p. 283. “You like winning and you dislike losing, and you dislike losing _more_ than you like winning” The response to a given loss is stronger than the response to similar gain. You are moderately happy to win $50, but relatively more angry to lose $50. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 284). _NB: this can be commonly confused with risk aversion. Consider drawing the S-curve (p.283) and noting the "loss-aversion" ratio of 1.5-2.5 (p. 284)_
+
+**Mixed gamble**: Gamble with a risk of loss and possibility of gain leads to loss aversion causing extremely risk-averse behavior. Coin toss: heads gain $150 and tails lose $100. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 283-5)
+
+**Bad choice**: A sure loss is compared to something with a high probability of getting even worse and a low probability of getting off okay. Doubling down (risk seeking) takes place in this domain of loss. Hold a losing stock position in case the company rebounds; double down on failing strategy etc. Also see fourfold pattern p. 317 with rejecting a statistically favorable settlement in hopes of winning in litigation.
+
+**Possibility effect:** Low probabilities are magnified / treated as if they are higher (e.g. buy lottery tickets; fret over low-risk surgery)
+
+**Certainty effect**: High probabilities are treated as if they are lower (e.g. accept a settlement even though your case is strong)
+
+
+----------------------------------------
+
+15.
+- Call on another student and ask them paste an example of one of the concepts from the homework assignment into the doc, without indicating in any way what the concept is.
+
+**Answer key / examples for faculty**
+
+**Risk aversion**: People usually prefer to pay standard fares to purchase airline seats in advance rather than waiting for the possibility of last-minute bargains. We will prefer certainty over risk (even if it has some associated costs); buying insurance is another example, see fourfold pattern p. 317-18.
+
+**Reference point**: Evaluation takes place relative to a neutral reference point (or “adaptation level”). For financial outcomes, this could be the status quo, or what you expect. for example: In talking about Madoff, students felt that 8-12% was a high rate of return (presumably their reference point is 2-5%), but this didn’t raise investor’s eyebrows (who might be used to hearing about 15-20% as a "solid" or reasonably high result).
+
+**Diminishing sensitivity**: Both sensory diminishment and the evaluation of changes of wealth. The difference between $900 and $1000 feels less than the difference between $100 and $200 (Kahneman p. 282)
+
+**Loss aversion**: “Losses loom larger than gains”— this is related to the slope change of the function on p. 283. “You like winning and you dislike losing, and you dislike losing _more_ than you like winning” The response to a given loss is stronger than the response to similar gain. You are moderately happy to win $50, but relatively more angry to lose $50. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 284). _NB: this can be commonly confused with risk aversion. Consider drawing the S-curve (p.283) and noting the "loss-aversion" ratio of 1.5-2.5 (p. 284)_
+
+**Mixed gamble**: Gamble with a risk of loss and possibility of gain leads to loss aversion causing extremely risk-averse behavior. Coin toss: heads gain $150 and tails lose $100. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 283-5)
+
+**Bad choice**: A sure loss is compared to something with a high probability of getting even worse and a low probability of getting off okay. Doubling down (risk seeking) takes place in this domain of loss. Hold a losing stock position in case the company rebounds; double down on failing strategy etc. Also see fourfold pattern p. 317 with rejecting a statistically favorable settlement in hopes of winning in litigation.
+
+**Possibility effect:** Low probabilities are magnified / treated as if they are higher (e.g. buy lottery tickets; fret over low-risk surgery)
+
+**Certainty effect**: High probabilities are treated as if they are lower (e.g. accept a settlement even though your case is strong)
+
+
+----------------------------------------
+
+16.
+- Call on another student and ask them paste an example of one of the concepts from the homework assignment into the doc, without indicating in any way what the concept is.
+
+**Answer key / examples for faculty**
+
+**Risk aversion**: People usually prefer to pay standard fares to purchase airline seats in advance rather than waiting for the possibility of last-minute bargains. We will prefer certainty over risk (even if it has some associated costs); buying insurance is another example, see fourfold pattern p. 317-18.
+
+**Reference point**: Evaluation takes place relative to a neutral reference point (or “adaptation level”). For financial outcomes, this could be the status quo, or what you expect. for example: In talking about Madoff, students felt that 8-12% was a high rate of return (presumably their reference point is 2-5%), but this didn’t raise investor’s eyebrows (who might be used to hearing about 15-20% as a "solid" or reasonably high result).
+
+**Diminishing sensitivity**: Both sensory diminishment and the evaluation of changes of wealth. The difference between $900 and $1000 feels less than the difference between $100 and $200 (Kahneman p. 282)
+
+**Loss aversion**: “Losses loom larger than gains”— this is related to the slope change of the function on p. 283. “You like winning and you dislike losing, and you dislike losing _more_ than you like winning” The response to a given loss is stronger than the response to similar gain. You are moderately happy to win $50, but relatively more angry to lose $50. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 284). _NB: this can be commonly confused with risk aversion. Consider drawing the S-curve (p.283) and noting the "loss-aversion" ratio of 1.5-2.5 (p. 284)_
+
+**Mixed gamble**: Gamble with a risk of loss and possibility of gain leads to loss aversion causing extremely risk-averse behavior. Coin toss: heads gain $150 and tails lose $100. The fear of losing $100 is greater than the hope associated with gaining $150 (Kahneman p. 283-5)
+
+**Bad choice**: A sure loss is compared to something with a high probability of getting even worse and a low probability of getting off okay. Doubling down (risk seeking) takes place in this domain of loss. Hold a losing stock position in case the company rebounds; double down on failing strategy etc. Also see fourfold pattern p. 317 with rejecting a statistically favorable settlement in hopes of winning in litigation.
+
+**Possibility effect:** Low probabilities are magnified / treated as if they are higher (e.g. buy lottery tickets; fret over low-risk surgery)
+
+**Certainty effect**: High probabilities are treated as if they are lower (e.g. accept a settlement even though your case is strong)
+
+
+----------------------------------------
+
+17.
+Call on multiple students to sum up prospect theory using some of the key concepts we have been over in this activity.
+
+​
+
+**Sample answer: **Prospect theory is a theory of decision making that focuses on how people actually make decisions, not on how they ought to make them. People have biases in decision making. For instance, they hate losing more than they like winning, and they prefer certain bets over risky ones even if the certain bet is more costly overall. Such decisions are in fact irrational (they are not the most logical choice in the situation).
+
+
+----------------------------------------
+
+18.
+Take a one-minute eye rest break.
+
+
+----------------------------------------
+
+19.
+- Briefly introduce the activity learning goals.
+- Tell the students that they will consider how analyzing criminal behavior in terms of characteristics of complex systems can supplement traditional theories of crime. 
+    - Tell them that in particular, they will focus on the idea that decisions can be understood in terms of #systemanalysis—and that the cognitive biases addressed by prospect theory can sometimes result in emergent properties that impact the utility of an outcome for an agent.
+
+
+----------------------------------------
+
+20.
+- Give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to answer the question. If their answers seem implausible steer them towards this model answer: Journalists are considered to be one of the top ten professions that are highest in the percentage of psychopaths. This might give a biological explanation of the crime, given that psychopathy is a brain disorder where individuals often show decreased activity in decision making and fear centers of the brain. Sociologically, the cutthroat nature of the tabloid business in the UK may have resulted in a race for information that involved the cutting of corners. This dovetails with a psychological explanation as well. If reporters are to be the best, and not get fired, they will try to get top stories at all costs, sometimes even violating laws or ethical rules to do so. 
+
+
+----------------------------------------
+
+21.
+- Give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to answer the question. If their answers seem implausible steer them towards this model answer: There are many possible answers here, but one relevant concept is the idea of a reference point. According to prospect theory, one's reference point (or “adaptation level”) changes based on what they are used to and their expectations. To someone in the cutthroat industry of British tabloids, where people are often pushing the bounds of legality, phone tapping may not seem so bad since their reference point has adapted over time. 
+
+
+----------------------------------------
+
+22.
+- Give students 4-5 minutes to answer the poll.
+- Then call on 1-2 students to answer the question. If their answers seem implausible steer them towards this model answer: There are many possible answers here, but one answer is that when we consider the British tabloid industry in terms of multiple levels of analysis, we see that journalists have certain incentives to please editors who have incentives to please the owners. Norms might emerge out of this structure, such as the norm to get the story no matter what. This can lead to ethically dubious, or even illegal behavior. 
+
+
+----------------------------------------
+
+23.
+Call on multiple students to answer the focus questions below.
+
+   1. Do these approaches each provide a comprehensive account of criminal behavior? Why or why not?
+
+​
+
+    While the reading labels the three approaches as "theories of crime" it notes that:
+
+- Biological theories of crime: _criminologists emphasize that this approach is limited--most realistic explanations will involve simultaneous and complementary explanations from other types of theories_
+- Sociological theories of crime: _are often employed to augment biological explanations_
+- Psychological theories of crime: _focus on the psychological characteristics of individuals who commit crimes.... [which] may be the result of biological or social factors_
+
+Thus, it can be more appropriate to discuss these as different factors that can contribute to crime, using LOs such as #systemanalysis.
+,   2. Why is prospect theory relevant to psychological explanations of crime?
+    Criminal behavior is risky behavior, and because people are naturally risk averse in most circumstances, prospect theory may help to explain why criminals engage in high-risk behaviors in certain situations.,   3. Why is it useful to explain criminal behavior in terms of characteristics of complex systems?
+    Criminal behavior occurs within social systems, and results in part from interactions among agents and dynamics within the system. For example, patterns of law enforcement, or economic factors, can lead to emergent properties related to crime. 
+----------------------------------------
+
+24.
+- Give students approximately four to five minutes to complete the reflection poll.
+- (Optional) Debrief by highlighting 1 - 2 strong responses.
+
+
+----------------------------------------
+
+25.
+* Call on a student to summarize the take-home message from this lesson. **Summary**: The utility of an action is not a linear function of the gain or loss involved. Rather, individuals have biases that lead them to value gains and losses differently (in particular, we humans are overly sensitive to the prospect of a loss), and in some cases to overvalue the certainty or possibility of a particular outcome. Moreover, these biases can combine and lead to unexpected effects. These effects can make decision making very difficult to predict, even when the best choice seems clear from the standpoint of what a consistent rational agent would decide. Learning to recognize the patterns of decision making that result from cognitive biases—in conjunction with the effects of characteristics of complex systems--can help one to anticipate risk taking, such as that involved in criminal behavior.
+
+* \[Optional\] Call on 1-2 students and ask the focus question, and prompt them to explain how it relates to the topic of the lesson.
+   1. Think about an occasion on which you or someone you know engaged in risky behavior. What motivated the behavior and why did the potential rewards outweigh the risks involved? Avoid anything too personal or graphic.
+    ​
+
+
+===================RESOURCES===================
+
+unused
+https://docs.google.com/document/d/1CgtK091Vu_QueGskhzPkE0AWzE5s7sOGReBqMmhteJk/edit
+null
+
+--------------------------------------------
+
+Prospect theory examples
+https://docs.google.com/document/d/1vrUqqhXXaV_g_M6G3byFOcjgCtn4FvE15nWJkNnPEkA/edit
+null
+
+--------------------------------------------
+
+baltimore-and-ohio-employees-magazine - 1912.pdf
+https://course-resources.minervaproject.com/uploaded_files/production/00026968-6918/baltimore-and-ohio-employees-magazine---1912.pdf
+null
+
+--------------------------------------------
+
+Forum Doc 1
+null
+null
+
+--------------------------------------------
+
+Forum Doc 2
+null
+null
+
+--------------------------------------------
+
+Forum Doc 3
+null
+null
+
+--------------------------------------------
+
+Activity 2: Breakout Notes
+https://sle-authoring.minervaproject.com/api/v1/worksheets/5e3ba9b9-5caa-4c3c-a641-4b4a118925f5/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1555250
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2</strong>: Agents</p><p><strong>Big Question</strong>: Why do people commit crimes?</p><p><strong>LOs:</strong></p><ul><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span> - Consider different types of costs and benefits for all stakeholders.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="systemanalysis">﻿<span>#systemanalysis</span>﻿</span> - Analyze and apply decompositions of systems into constituent parts at multiple levels of analysis.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="emergentproperties">﻿<span>#emergentproperties</span>﻿</span> - Identify emergent properties of complex systems and discern their causes. </li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Identify instances of bias that impact the utility derived from the outcomes of decisions. </li><li>Recognize ways that characteristics of complex systems influence and result from individual decision making. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span> - Consider different types of costs and benefits for all stakeholders.</strong></p><h6><br/></h6><p>When making decisions, one must always consider tradeoffs between costs and benefits and must consider them from the different perspectives of all stakeholders. When making decisions that affect people (as virtually all decisions in the real world will do), such reasoning must occur at multiple levels of analysis, ranging from effects on the individual to effects on groups at different levels of scale. Sometimes, a decision that maximizes overall benefits will be very unpopular with a subgroup; one must learn to anticipate and mitigate the negative effects of such cases. Furthermore, individuals or groups may not all derive utility from the same outcomes, which is important to recognize when predicting how they will behave.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction - 1555280
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Identify instances of bias that impact the utility derived from the outcomes of decisions.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1555315
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Identify instances of bias that impact the utility derived from the outcomes of decisions.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1555319
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Recognize ways that characteristics of complex systems influence and result from individual decision making.</p><p><br/></p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1555336
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1><strong>Activity Learning Goal</strong></h1><p>Recognize ways that characteristics of complex systems influence and result from individual decision making.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1555342
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 2:</strong> Agents</p><p><strong>Big Question:</strong> Why do people commit crimes?</p><p><strong>LOs:</strong></p><ul><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="utility">﻿<span>#utility</span>﻿</span> - Consider different types of costs and benefits for all stakeholders.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="systemanalysis">﻿<span>#systemanalysis</span>﻿</span> - Analyze and apply decompositions of systems into constituent parts at multiple levels of analysis.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="emergentproperties">﻿<span>#emergentproperties</span>﻿</span> - Identify emergent properties of complex systems and discern their causes. </li></ul><p><strong>Activity Learning Goals: </strong></p><ul><li>Identify instances of bias that impact the utility derived from the outcomes of decisions. </li><li>Recognize ways that characteristics of complex systems influence and result from individual decision making. </li></ul></div></div></div></div></div></div>

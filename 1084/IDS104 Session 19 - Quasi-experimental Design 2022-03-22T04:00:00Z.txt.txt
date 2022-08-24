@@ -1,0 +1,1118 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+A group of researchers is interested in domestic chicken evolution. They took a sample of chickens before beginning a selective breeding program. In this program, humans choose which birds mate, attempting to obtain larger chickens. The researchers compared the sizes of chickens from the same lineage before the breeding program and after 5 years of selective breeding. Which specific kind of study design did these researchers use and what features identify the study as that specific research design? Explain.
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+What are at least 2 reasons why one might select a quasi-experimental design over other types of research designs? Explain. 
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Your friend designs a research project to see whether a “carrot” or “stick” leads more students to do their cleaning chores. He assigns students from one residential hall to the carrot treatment and students from another to the stick. He tells the students in the carrot treatment that if they all do their cleaning chores by Sunday night they will get a pizza party. He warns the students in the stick treatment that if their cleaning chores are not done by Sunday night they will not be allowed to leave the residential hall until all of the chores are done. 1) Which kind of study design did your friend use and what features identify the study as relying on that specific research design? Explain. 2) How could this experiment be improved?
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What is one advantage of using a quasi-experimental design rather than an RCT or standard experiment? One disadvantage? Explain. 
+
+------------------------------------------
+
+Type of QE design
+
+outcome
+
+What kind of quasi-experimental design did the pre-class reading describe about using plasma of COVID-19 survivors to treat the ill?
+
+ - 1.1 - 1-group pretest-posttest design
+ - 1.2 - 1-group pre-posttest design that uses a double pretest
+ - 1.3 - 1-group pre-posttest design that uses a nonequivalent dependent variable
+ - 1.4 - Removed-treatment design
+ - 1.5 - Repeated-treatment design
+ - 3.1 - Untreated control group with dependent pre and posttest samples
+ - 3.2 - Untreated control group with double pretest samples and posttest samples
+ - 3.3 - Untreated control group with dependent pre and posttest samples and switching replications
+------------------------------------------
+
+Reasons to doubt
+
+outcome
+
+Explain a reason to doubt the validity of this study, given the quasi-experimental design that it used.
+
+
+------------------------------------------
+
+Type of QE design - after breakout
+
+outcome
+
+What kind of quasi-experimental design did your group use?
+
+ - 1.1 - 1-group pretest-posttest design
+ - 1.2 - 1-group pre-posttest design that uses a double pretest
+ - 1.3 - 1-group pre-posttest design that uses a nonequivalent dependent variable
+ - 1.4 - Removed-treatment design
+ - 1.5 - Repeated-treatment design
+ - 3.1 - Untreated control group with dependent pre and posttest samples
+ - 3.2 - Untreated control group with double pretest samples and posttest samples
+ - 3.3 - Untreated control group with dependent pre and posttest samples and switching replications
+------------------------------------------
+
+Reasons to doubt - after breakout
+
+outcome
+
+Explain how your group's quasi-experimental design will help establish the validity of the original finding that plasma from survivors helps treat people sick with COVID-19.
+
+
+------------------------------------------
+
+Applying distinctions.
+
+outcome
+
+Select one of the distinctions we have discussed and added to the table, and explain why that distinction could be particularly relevant to a field of study you are interested in (e.g., medicine, marketing, ecology, psychology).
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+From the activities in this session, what is one crucial aspect of a quasiexperimental design to consider in order to increase the internal validity of the study? Explain using an example from this session.
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce the lesson.
+- Explain that in this session we focus on quasiexperimental design, a type of experiment (bolded in the #experimentaldesign LO paragraph on slides 2-3).
+- Call on students to answer the focus questions.
+
+   1. Today we focus on quasiexperimental study design. Why is it important to understand different types of research design?
+    To test a hypothesis as rigorously as possible one must understand the nature of the different types of design and their strengths and weaknesses. By the same token, to be an “informed consumer” of studies reported in the media, one must know how to evaluate them critically.,   2. How might to-be-observed cases be assigned to different levels of the independent variable if they are not randomly assigned? Provide examples.
+    Some examples of how to-be-observed cases are assigned:
+
+* They may be pre-existing conditions (e.g., age, gender, field site, school classroom, school)
+
+* The intervention may impact an entire population (e.g., before and after comparisons after institution of a social program),   3. How might “extraneous variables” be affected by the assignment of cases in a quasiexperiment?
+    Because the to-be-observed cases are not randomly assigned, confounds may be prevalent (extraneous variables is another term to describe these). For example, in a study in which a predator, cane toads, are released to eat invasive beetles in one crop area and in another area insecticide is used, confounds may include: different densities of beetles in each area before the intervention, the temperatures may be different in each area which may affect the predators, or one area may be wetter (e.g., precipitation or wet soils), which may affect functioning of the insecticide. In each of these cases a separate variable (the confound) other than the actual treatment may be having an affect on the results.
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+This is pretest/post-test quasi-experimental design. No chickens were randomized to treatments; after a certain date, all were subjected to selective breeding (the treatment/intervention).
+
+_**Follow-up**_: How could you modify this study to test the same hypothesis, but be an:
+
+- Experimental design?
+- Observational study?
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**This is pretest/post-test quasi-experimental design. No chickens were randomized to treatments; after a certain date, all were subjected to selective breeding (the treatment/intervention).
+
+​
+
+_**Follow-up**_: How could you modify this study to test the same hypothesis, but be an:
+
+- Experimental design?
+- Observational study?
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll B:**
+
+Possible answers:
+
+- Take advantage of real-world occurrences and study phenomena
+- Avoid ethical issues that an experiment would cause
+- It is not logistically feasible to do a RCT
+
+_**Note**_: Quasi-experiments do not minimize confounding variables because the assignment to treatment groups is not randomized.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Possible answers:
+
+- Take advantage of real-world occurrences and study phenomena
+- Avoid ethical issues that an experiment would cause
+- It is not logistically feasible to do a RCT
+
+_**Note**_: Quasi-experiments do not minimize confounding variables because the assignment to treatment groups is not randomized.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll C:**
+
+This is a quasi-experiment because the students are not randomized to a treatment group, but your friend provided an intervention (a “treatment”).
+
+_**Follow-up**_: How could you modify this study to test the same hypothesis, but be an:
+
+- Experimental design?
+- Observational study?
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+This is a quasi-experiment because the students are not randomized to a treatment group, but your friend provided an intervention (a “treatment”).
+
+_**Follow-up**_: How could you modify this study to test the same hypothesis, but be an:
+
+- Experimental design?
+- Observational study?
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll D:**
+
+One advantage of a quasi-experiment is that it typically better reflects real-world conditions than does an RCT or standard experiment, and thus has the potential to be more generalizable (has greater external validity).
+
+Disadvantages of quasi-experiments (compared to RCT and standard experiments) are that quasi-experiments _do not_:
+
+- Eliminate confounders that might influence results (because subjects are not randomized)
+- Allow you generally to infer causation between the independent variable and dependent variable.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+One advantage of a quasi-experiment is that it typically better reflects real-world conditions than does an RCT or standard experiment, and thus has the potential to be more generalizable (has greater external validity). Disadvantages of quasi-experiments (compared to RCT and standard experiments) are that quasi-experiments _do not_:
+
+- Eliminate confounders that might influence results (because subjects are not randomized)
+- Allow you generally to infer causation between the independent variable and dependent variable.
+
+
+----------------------------------------
+
+10.
+Introduce the learning goal and go to the next step.
+
+
+----------------------------------------
+
+11.
+- Give students three minutes to answer the polls.
+- Tell students that the study design is the 1-group pretest-posttest study design and then go to the next step.
+
+
+----------------------------------------
+
+12.
+- Ask the student on stage the focus question.
+- For the sake of time, only take one answer before going into breakouts.
+
+   1. Explain a reason why the results reported from the study might not be true.
+
+    Sample answers:
+
+​
+
+- With the small sample size and lack of a control group, maturation effects could explain the improvement of the patients that was reported.
+- With the lack of randomization to treatment (and potentially sampling), the researchers could have consciously or unconsciously selected participants who were starting to get better.
+- We don't have information on confounding variables like other treatments being taken simultaneously, age, sex, etc.
+
+----------------------------------------
+
+13.
+Briefly present the instructions and start the breakout.
+
+​
+
+Clarify that internal validity refers to the extent to which a study's results support a claim of cause and effect.
+
+
+----------------------------------------
+
+14.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track. Visit groups who overlook key aspects of any study design (e.g., sampling, dependent variable, etc.) to get them focused properly.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+15.
+- Give students three minutes to finish the poll.
+- Move to the next step to debrief.
+
+
+----------------------------------------
+
+16.
+Ask a student on stage the focus question.
+
+Take answers from different groups as time allows.
+
+   1. Explain how your study improved on the original study.
+
+    Student-generated answers.
+
+----------------------------------------
+
+17.
+Ask the focus question.
+
+   1. Our quasi-experiments tried to assess the validity of the original study, so we can consider them replications. Would you say our replications are close, partial, or conceptual replications?
+
+    The QEs are partial replications, because they keep many aspects the same and address the validity of the original study, but rightfully don't do an exact/close replication, because the changes are improvements that will give us better insight on whether plasma treatment will work.
+
+​
+
+[Note: a group may have chosen a substantially different study population, so if they did that and claim they designed a conceptual replication that tested the generalizability of the original result, then that's also correct.]
+
+----------------------------------------
+
+18.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+19.
+Introduce the learning goal.
+
+
+----------------------------------------
+
+20.
+- In the breakout, students will list distinctions between study types, and explain why they are useful.
+- Ask a student why the distinction about quasiexperiments listed in the table is important.
+    - The distinction is important because we can't assume that confounding variables are evenly distributed between the groups.
+- After filling the answer into the table, tell students they will do this for other distinctions in breakouts.
+
+
+----------------------------------------
+
+21.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+​
+
+The following table shows example entries that you can suggest to students if they seem stuck. Note that the first entry is from the pre-breakout step, and students are provided the next two distinctions:
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/production/00026389-7217/screen-shot-2020-04-02-at-9.08.48-am.png)
+
+​
+
+
+----------------------------------------
+
+22.
+- For the debrief, call on a student to add in their distinction between study types, and then tell them they should call on a classmate to explain the importance of that distinction.
+- Repeat as time allows.
+
+SAMPLE ENTRIES (your table in class is not expected to be this comprehensive):
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/production/00026390-4626/screen-shot-2020-04-02-at-9.08.48-am.png)
+
+
+----------------------------------------
+
+23.
+- Give students three minutes to answer the poll.
+- End the poll and move to the next step.
+
+
+----------------------------------------
+
+24.
+Ask students to explain their answers as time permits.
+
+
+----------------------------------------
+
+25.
+Ask the focus question.
+
+   1. What is a distinction you previously knew, but now have a better appreciation for and understanding of?
+
+    Student generated answer.
+
+----------------------------------------
+
+26.
+Give students 4 minutes to answer the poll
+
+​
+
+**Notes:** There is not necessarily one correct answer; the idea is for students to wrestle with how different design aspects may influence the results and the validity (robustness) of a quasi-experimental study. Sample size is likely one of the most important aspects to consider to design a robust quasi-experiment because the disadvantage of quasi-experiments is the non-randomization of the cases to be studied, which may lead confounding variables to have large effects and hence produce low internal validity. However, comparison groups and monitoring of uncontrolled independent variables are also important to study design.
+
+
+----------------------------------------
+
+27.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Notes:** There is not necessarily one correct answer; the idea is for students to wrestle with how different design aspects may influence the results and the validity (robustness) of a quasi-experimental study. Sample size is likely one of the most important aspects to consider to design a robust quasi-experiment because the disadvantage of quasi-experiments is the non-randomization of the cases to be studied, which may lead confounding variables to have large effects and hence produce low internal validity. However, comparison groups and monitoring of uncontrolled independent variables are also important to study design.
+
+
+----------------------------------------
+
+28.
+- Prompt a student to reiterate a key strength (or advantage) of quasiexperimental study designs.
+- Offer a summary of the following take-home in your own words, if needed: Quasi-experiments are an alternative to RCTs and standard experiments when cases cannot be randomized. Quasi-experiments are widely used, but are often less robust than other experimental designs. Careful consideration to sample size, design structure, and how the study is controlled can result in robust designs that are relatively generalizable.
+- Call on students to answer the focus questions.
+
+   1. Can you think of a non-medical question that would benefit from a quasiexperimental study?
+
+    Student-provided answers. 
+
+
+===================RESOURCES===================
+
+example decision tree.png
+https://s3.amazonaws.com/picasso.box_resources/95efb876-7718-11ec-ba25-9a7b3cd9f4c7/example decision tree.pdf
+null
+
+--------------------------------------------
+
+Deriving Insights 10.1 - Harris et al. 2004 Figure 1.pdf
+https://course-resources.minervaproject.com/uploaded_files/production/00026388-6350/deriving-insights-10.1---harris-et-al.-2004-figure-1.pdf
+null
+
+--------------------------------------------
+
+Further Readings
+https://docs.google.com/document/d/1kPmPKzXZKiku5I9O-RIurIxIhLbJ_JjNY9eI3ANy25A/edit
+null
+
+--------------------------------------------
+
+NOTES Decision tree (Drawing)
+https://docs.google.com/drawings/d/1NmF6-6IVmurD_R8sdGwQDkerKnsNGH9RHS6y1LRvABU/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Activity 2: Usefulness of distinctions
+https://sle-authoring.minervaproject.com/api/v1/worksheets/771f5582-b737-410a-9c96-6460ac3ca980/
+null
+
+--------------------------------------------
+
+NOTES Activity 2 Debrief: Distinctions
+https://sle-authoring.minervaproject.com/api/v1/worksheets/1be5d5d1-5b2c-4cdb-ae72-9b89dc941f3e/
+null
+
+--------------------------------------------
+
+[template] NOTES Activity 1: QE for COVID-19 treatment
+https://sle-authoring.minervaproject.com/api/v1/worksheets/ad3f8ccd-2c4c-4c35-80b2-46f6415e95a9/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1552535
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design </p><p><strong>Big Question: </strong>How do humans impact evolution? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span></span> - Apply and interpret experimental studies. </li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="observationalstudy">﻿<span>#observationalstudy</span>﻿</span></span> - Design and interpret observational studies.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span> - Identify and evaluate appropriate control groups for empirical study designs.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span></span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Design a quasi-experiment to test whether plasma from COVID-19 survivors can treat those sick with the disease.</li><li>Identify key aspects of a quasi-experimental design that distinguish it from other study designs we have explored. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span> - Design and interpret experimental studies.</strong></p><h6><br/></h6><p>A true experiment has one or more independent variables, which are manipulated or selected independently, and one or more dependent variables, which are measures of the effects of variations of the independent variable or variables. An experiment relies on assigning samples to a treatment condition (an intervention) and tries to minimize (or, ideally, eliminate) the influences of extraneous variables. To determine that the treatment causes the outcome, experimenters must control extraneous variables and other factors that may impact the outcome. In contrast to observational studies, experiments always involve interventions.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction - 1552569
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Design a quasi-experiment.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Breakout Instructions  - 1552577
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Breakout Instructions</h1><h6><br/></h6><p>In your breakout group, design a quasi-experimental study that will improve upon the internal validity of the initial study by China National Biotec Group.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1552594
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Design a quasi-experiment to test whether plasma from COVID-19 survivors can treat those sick with the disease.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1552608
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Compare study types by identifying and explaining distinctive features</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1552629
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Compare study types by explaining distinctive elements and the usefulness of those distinctions</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1552641
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design</p><p><strong>Big Question: </strong>How do humans impact evolution? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies. </li><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - Identify and evaluate appropriate control groups for empirical study designs.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Design a quasi-experiment to test whether plasma from COVID-19 survivors can treat those sick with the disease.</li><li>Identify key aspects of a quasi-experimental design that distinguish it from other study designs we have explored. </li></ul></div></div></div></div></div></div>

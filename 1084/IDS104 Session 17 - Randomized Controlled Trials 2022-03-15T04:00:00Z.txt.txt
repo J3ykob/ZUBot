@@ -1,0 +1,1201 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+What are some potential problems when a researcher uses experimental treatments that require the test subject to participate actively (i.e., comply with instructions) in order to implement the intervention (e.g., physical therapy, dieting) for an RCT. Explain at least two. 
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Consider a RCT designed to evaluate the possible effects of vitamin D supplements (i.e., given to babies from a dropper) on diarrhea incidence in babies. The investigators want to control for type of feeding (bottle feeding vs. breastfeeding) as a potential confounder. What is one method they could use to accomplish this? Explain.
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+What are at least 2 reasons for randomization in RCTs? Explain. 
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+The placebo effect is probably triggered by what kind of bias? Explain.
+
+
+------------------------------------------
+
+Core aspects of an RCT
+
+outcome
+
+Look at the partial list of core aspects of an RCT on the left. What did your group not include (if anything), and what else did your group add (if anything).
+
+
+------------------------------------------
+
+Kaptchuk Poll 1
+
+outcome
+
+Do you agree with the conclusions of Kaptchuk et al. (2006) about the difference in placebo effect produced by a sugar pill and a sham acupuncture needle?
+
+ - Yes
+ - No
+------------------------------------------
+
+Weaknesses
+
+none
+
+Which of the following aspects of the study have the most important flaws? (Choose one)
+ - Independent variable
+ - Dependent variable
+ - Sample (size, randomization)
+ - Blinding
+ - Controls
+ - Interpretation of results
+ - Duration of treatment
+------------------------------------------
+
+Weaknesses justification
+
+outcome
+
+Explain and justify the aspect of the study that you identified as having the greatest flaws. 
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+How did the exploration of RCTs in this session inform your understanding of #controlgroups? Make sure to reference one or more specific examples from this session.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce the lesson.
+- Explain that in this session we focus on randomized controlled trials, a specific type of interventional study.
+- Call on students to answer the focus questions.
+
+   1. What does “randomized controlled” mean in this context?
+    In the context of RCT, it means that the assignment to a treatment group is random and that there are control groups to which one can compare the effects of the treatment.
+,   2. Why do RCTs focus on interpreting the differences _between_ groups (instead of the results of a specific group)?
+
+    In a RCT, the difference in results between the treated group and the control groups is the primary result. If there is no difference in the results, then the treatment had little effect. Other results beyond what was “trialed” by the experiment are not considered because they are not directly targeted by the experimental design.
+,   3. Why do we need a natural history control group?
+    The natural history control allows researchers to determine how much of the effective treatment is due to the placebo effect and how much is due to the intervention. ,   4. What would a difference in results between the placebo and the natural history control demonstrate?
+
+_Follow-up_: What would a lack of a significant difference in the dependent variable between placebo and natural history group indicate?
+
+    A difference in results between these two groups would demonstrate a placebo effect or a nocebo effect (a negative effect from the placebo, such as side effects).
+
+_Follow-up_: No placebo effect!
+,   5. How does randomization differ from random sampling?
+
+    Randomization refers to randomly assigning individuals to treatment and control groups. Random sampling refers to randomly selecting individuals for inclusion in the study.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+May have all of the following problems:
+
+- Introduce confounding variables
+- Introduce confirmation bias
+- Distort results of the study
+- Do not allow for blinding
+- Do not allow for a placebo
+
+Treatments that cannot be blinded because the test subjects must do something to implement the intervention may distort the results by introducing confounders and confirmation bias, but a control is still possible either by comparing the treatment to no intervention (e.g., no diet, or no physical therapy) or to an already widely used version of the treatment (e.g., the standard diet prescribed, or the standard physical therapy used).
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+May have all of the following problems:
+
+- Introduce confounding variables
+- Introduce confirmation bias
+- Distort results of the study
+- Do not allow for blinding
+- Do not allow for a placebo
+
+Treatments that cannot be blinded because the test subjects must do something to implement the intervention may distort the results by introducing confounders and confirmation bias, but a control is still possible either by comparing the treatment to no intervention (e.g., no diet, or no physical therapy) or to an already widely used version of the treatment (e.g., the standard diet prescribed, or the standard physical therapy used).
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll B:**
+
+All of the following methods would control for bottle feeding as a confounder, although some may be more effective than others.
+
+- Analyze data for bottle fed and breastfed infants separately
+- Randomize the allocation to treatment groups (Vitamin D supplemented and not supplemented)
+- Match each control and treatment baby who is bottle fed with a control or treatment baby who is breastfed
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+All of the following methods would control for bottle feeding as a confounder, although some may be more effective than others.
+
+- Analyze data for bottle fed and breastfed infants separately
+- Randomize the allocation to treatment groups (Vitamin D supplemented and not supplemented)
+- Match each control and treatment baby who is bottle fed with a control or treatment baby who is breastfed
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll C:**
+
+Randomization is primarily used to achieve baseline comparability between the treatment and control groups (i.e., to make the groups being compared similar with respect to known and unknown confounders). It is also important to eliminate bias in assigning subjects to treatment groups, but not for minimizing confirmation bias.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+Randomization is primarily used to achieve baseline comparability between the treatment and control groups (i.e., to make the groups being compared similar with respect to known and unknown confounders). It is also important to eliminate bias in assigning subjects to treatment groups, but not for minimizing confirmation bias.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+One possible answer is that the placebo effect is often triggered by confirmation bias: the patient believes that he or she is receiving a medically active treatment and therefore his or her brain and body respond accordingly (placebo effects are often “real”--actual physiological effects occur). Sometimes the opposite happens: The patient experiences negative side effects from the treatment, but he or she has only received the placebo. If he or she expected negative effects, this is referred to as _nocebo effect_.
+
+_Follow-up_: What would be the most effective method to confirm whether a positive outcome is a placebo effect? (Answer: The most effective method to confirm whether a placebo effect is contributing to results is to use a natural history control, i.e., a control group that does not receive a placebo or treatment).
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+One possible answer is that the placebo effect is often triggered by confirmation bias: the patient believes that he or she is receiving a medically active treatment and therefore his or her brain and body respond accordingly (placebo effects are often “real”--actual physiological effects occur). Sometimes the opposite happens: The patient experiences negative side effects from the treatment, but he or she has only received the placebo. If he or she expected negative effects, this is referred to as _nocebo effect_.
+
+_Follow-up_: What would be the most effective method to confirm whether a positive outcome is a placebo effect? (Answer: The most effective method to confirm whether a placebo effect is contributing to results is to use a natural history control, i.e., a control group that does not receive a placebo or treatment).
+
+
+----------------------------------------
+
+10.
+- Tell students that RCTs are the backbone of the biomedical industry, and most developments for the study design have come about in this context.
+- Because of that, we will use development of HIV treatments as a scenario to come up with RCTs.
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+12.
+- Give students one minute to fill out the poll.
+- Add to the document on the left from student poll responses as appropriate. [NOTE: Control groups and Confounding variables have been left off of the starting list, which should both be included. If students don't suggest these, add them. You could join Control Groups with Treatment Groups. You could incorporate confounding variables with 'Independent variables' if you'd like. Something like self-administered treatments, such as vitamins, pain killers, or Chinese medicine/herbal remedies, might be relevant.]
+
+​
+
+
+----------------------------------------
+
+13.
+The general idea is the the whole class will build the study design together as different groups bring pieces of their studies.
+
+- This discussion should move quickly through the items on the list.
+- Tell students to pay attention because they will need to respond to the input of their classmates.
+- After one of their classmates explains how they would implement one aspect (e.g., what is their sampling strategy), tell them they will have to vote with checks and Xs whether that is sufficient or needs revision.
+- After each vote, make the decision whether to move to the next step or revise the current step.
+- Tell the presenting student to call on a classmate as appropriate (i.e., call on an X if a revision is needed, call on a check if it's time to move to the next step).
+
+_Possible entries to the list_
+
+++1-Target population and sampling++
+
+Restrict target population to individuals at the same stage of HIV progression; You could use cluster sampling, randomly choosing a subset of hospitals that treat HIV patients and sampling all the individuals in each of those hospitals that qualifies. [other reasonable sampling methods: simple random sample, stratified sampling; systematic and convenience sampling are not as appropriate here].
+
+++2-Dependent variable(s)++
+
+Viral load; survival rates
+
+++3-Control groups++
+
+For ethical reasons, we can't withhold effective care, so the placebo group and the natural history group should still both receive AZT or another similar effective anti viral drug.
+
+++4-Treatment groups++
+
+To keep consistent with the control groups, the treatment group should receive the bacterial substance along with the standard of care (e.g., AZT). A single treatment group is often used in an initial clinical trial, but students could choose to test different doses (more often that's done in subsequent research).
+
+++5-Randomization++
+
+Use computer generated random numbers to assign subjects to groups.
+
+++6-Independent variable(s)++
+
+Age, sex, diet, etc.
+
+++7-Blinding++
+
+Double blinding should be implemented. The doctors/researchers should not know whether they are delivering active drug or inert placebo, and the subjects should know they only have a random chance of receiving the active drug.
+
+++8-Confounding variables++
+
+Self-administered treatments, such as vitamins, pain killers, or Chinese medicine/herbal remedies
+
+
+----------------------------------------
+
+14.
+- Call on a student to explain what aspect of RCTs they will better remember from this activity.
+- Tell students that RCTs are the backbone of biomedical research, but they are also increasingly used in other fields like business and public policy assessment.
+
+
+----------------------------------------
+
+15.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+16.
+Tell students to start off by giving their overarching judgment of the paper.
+
+​
+
+Students will take the poll again, so don't debrief this poll now.
+
+
+----------------------------------------
+
+17.
+- This is the first of two debriefs. This debrief should be rapid so that there is more time for the next, deeper discussion.
+- For this activity, engage students in a constructive dialogue about the article. The goal is to reach consensus about the strengths and weaknesses of, and possible improvements to, the study design of Kaptchuk et al. (2006).
+- The first set of focus questions in the debrief is to confirm that students are able to identify the hypothesis of the study and evaluate whether the study design actually tests that hypothesis.
+- The second set of questions should focus on the strengths of the design.
+- NOTE: Weaknesses will be addressed in the next debrief, so table discussion of them at this point.
+
+To keep students engaged, pace this discussion as follows:
+
+1. Ask a focus question.
+2. Prompt students to answer (in their heads or scratch paper).
+3. Then call on a student to answer (vary calling on those on and off the stage to keep students engaged).
+
+   1. What hypothesis was tested in this study?
+
+1. Does the study test that hypothesis?
+
+2. Do the results bear directly on that hypothesis?
+    Whether a sham acupuncture needle has a greater placebo effect than an inert pill in patients with persistent arm pain.
+
+1. The study does attempt to test that hypothesis.
+
+2. Some of the results bear directly on the hypothesis, but there are many confounding variables at play that complicate interpretation.,   2. What are some strengths of this design?
+    - The researchers use multiple dependent variables to quantify pain, which is inherently difficult to measure.
+- Randomization is properly done.
+- The sample size is decent.
+
+----------------------------------------
+
+18.
+- Prompt students to answer the polls. Tell students that they may have to defend their responses in the next step.
+- Only the multiple choice poll is shown in the discussion step; the long form poll is the pre-class work poll and should be used for assessment purposes if desired (i.e., scoreable on #controlgroups or #interventionalstudy).
+
+
+----------------------------------------
+
+19.
+- Begin this section by focusing on the weaknesses poll results (only the multiple choice results will be shown onstage, the long form poll is for scoring purposes). Call on students to explain and justify their responses. Work through all of the design aspects in the order that students “voted” for them to identify weaknesses in design.
+- For each weakness identified, ask a student to formulate a potential change to the study design that would eliminate that weakness. Use the focus questions as necessary to deepen discussion of the weaknesses and proposed improvements.
+
+   1. Why did you think that aspect of the study design (identified in the poll) was flawed?
+    Student-provided examples. The most important flaw that should come up:
+
+- Lack of natural history control (though it should be noted that the authors did not assert any interest in quantifying the placebo effect compared to a baseline; their focus was the sham acupuncture versus the inert pill.)
+
+Others to discuss:
+
+- Including last observation carried forward approach to increase sample size
+- Short time period 
+- Unequal length of time for the two placebos. 
+,   2. How could you change the study design to remedy the identified flaws?
+    Student-provided examples. The most important aspect that should come up:
+
+- Add a natural history control to see whether the symptoms are following a progression typical for this type of pain.
+,   3. What potential confounding variables should be addressed?
+    Student-provided examples. A few examples:
+
+- Whether or not the test subjects are taking over-the-counter painkillers or administering other self-treatment methods to alleviate symptoms in addition to the treatments provided in the study.
+- The amount of actual patient-provider time differs greatly for each placebo type. The investigators do not control for this or statistically adjust to remove such possible effects.
+- "Buy in" to acupuncture could be an important confound. How effective will the placebo be if I think acupuncture is not effective?
+,   4. How might the weaknesses of the design bias/impact the results?
+
+    For example, without a natural history control, we cannot know whether the placebo effect observed is real; instead, the improvement may have simply followed the course of natural history with these patients. ,   5. _(Optional) _What are some constraints that may have led to the weaknesses in this study design? 
+
+    For example:
+
+* Recruiting patients to take part, especially if ⅔ are going to get no treatment for symptoms (i.e., a placebo and a natural history control).
+
+* Funding for the experiment may have restricted the number of participants the researchers could include (and then to increase sample size to achieve statistical power they decided to have larger sample sizes rather than a natural history control arm).
+----------------------------------------
+
+20.
+- Ask students to look at their previous vote and mark (using checks/Xs) if they changed their mind about the conclusion of the paper or not.
+- As time allows, take student explanations of the change, or lack thereof.
+
+
+----------------------------------------
+
+21.
+- Call on another student to explain how the results of the paper that they critiqued may have informed their understanding of RCT design. (For example, strong placebo effect and need for a natural history control).
+- Ask the focus questions as time allows.
+
+   1. How does critiquing this experiment show the importance of keeping things the same among groups?
+
+    Key flaws of this experiment were the differences between pill and sham needle groups in duration of treatment, frequency of treatment, and ability to double blind (presumably done for the pill group, not done for acupuncture because acupuncturists knew which type of needle they used).
+,   2. The placebo effect is probably triggered by what kind of bias?
+
+    One possible answer is that the placebo effect is often triggered by confirmation bias: the patient believes that he or she is receiving a medically active treatment and therefore his or her brain and body respond accordingly (placebo effects are often “real”--actual physiological effects occur). Sometimes the opposite happens: The patient experiences negative side effects from the treatment, but he or she has only received the placebo. If he or she expected negative effects, this is referred to as _nocebo effect_.
+
+----------------------------------------
+
+22.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+23.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+24.
+- Call on a student to share a rich answer from the reflection poll.
+- Provide a summary of the following in your own words: Randomized controlled trials (RCTs) are rigorous experimental designs because the randomized allocation of subjects to treatments and controls minimizes the risk of confounding factors. RCTs are considered less biased and less susceptible to confounding variables than are other research methods. RCTs are simple in theory but complex in practice. The studies explored in this session demonstrate that there is room for better design of RCTs so that effects of treatments can be reliably estimated. Often, tradeoffs (such as sample size or number of treatment arms) are made to accommodate funding or logistical constraints; such tradeoffs can weaken our confidence in the reported conclusions. This underscores the importance of understanding RCT design so that you can interpret such results critically.
+- Call on students to answer the focus questions (especially the first one which ties back to biases).
+
+​
+
+   1. Is there an intriguing intervention or treatment that you have heard about that could benefit from an RCT to determine whether it is effective?
+    Student provided examples:
+
+* Does taking a walk help to refocus your mind on intellectual tasks?
+
+* Can yoga help to relieve stress?
+
+* Does drinking alcohol inhibit intellectual function the next day?,   2. Are there aspects of other Big Questions that would benefit from RCTs?
+    In general, applications of RCT are rather narrow and specialized. But, there are likely a few examples of RCT applications to aspects of other Big Questions (but they may be difficult to come up with on the spot in class).
+
+For example:
+
+- How can we avoid global pandemics? - there are a number of RCTs that could inform our understanding of containment of disease and minimizing infections.
+
+----------------------------------------
+
+25.
+
+
+
+===================RESOURCES===================
+
+NS51 5.2 HIV RCT.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/00160332-4559/ns51-5.2-hiv-rct.pdf
+null
+
+--------------------------------------------
+
+Blank
+https://docs.google.com/document/d/1CjCqufAflXYbc01B4yfof3QhtcP9rNYXjdttKAFdoQY/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Breakout 1: Design RCT
+https://sle-authoring.minervaproject.com/api/v1/worksheets/c8131a32-1f22-4646-a78f-40436eed0f0f/
+null
+
+--------------------------------------------
+
+NOTES Debrief A1: HIV RCT
+null
+null
+
+--------------------------------------------
+
+Slide for  Lesson Introduction - 1553139
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LOs</strong>: </p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span></span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - Identify and evaluate appropriate control groups for empirical study designs.</li></ul><p><strong>Activity Learning Goals: </strong> </p><ul><li>Consider the role of RCTs in drug development. </li><li>Practice interpreting RCTs and evaluating strengths and weaknesses of the study design. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span> -</strong> <strong>Apply and interpret experimental studies.</strong></p><h6><br/></h6><p>A true experiment has one or more independent variables, which are manipulated or selected independently, and one or more dependent variables, which are measures of the effects of variations of the independent variable or variables. An experiment relies on assigning samples to a treatment condition (an intervention) and tries to minimize (or, ideally, eliminate) the influences of extraneous variables. To determine that the treatment causes the outcome, experimenters must control extraneous variables and other factors that may impact the outcome. In contrast to observational studies, experiments always involve interventions. </p><p><br/></p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction - 1553173
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Consider the role of RCTs in drug development.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1553182
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Consider the role of RCTs in drug development.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1553195
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Practice interpreting RCTs and evaluating strengths and weaknesses of the study design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1553221
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Practice interpreting RCTs and evaluating strengths and weaknesses of the study design.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1553233
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LOs</strong>: </p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#controlgroups﻿</span> - Identify and evaluate appropriate control groups for empirical study designs.</li></ul><p><strong>Activity Learning Goals: </strong> </p><ul><li>Consider the role of RCTs in drug development. </li><li>Practice interpreting RCTs and evaluating strengths and weaknesses of the study design. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for (Optional) Further Reading - 1553238
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Further Reading</h1><p>For more primary literature reading on the efficacy of placebos:  </p><ul><li>Kaptchuk et al. (2010). Placebos without deception: a randomized controlled trial in irritable bowel syndrome. <em>PloS One</em>, <em>5</em>(12), e15591. Retrieved from http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015591. </li><li>Jensen et al. (2012). Nonconscious activation of placebo and nocebo pain responses. <em>Proceedings of the National Academy of Sciences</em>,<em>109</em>(39), 15959-15964. Retrieved from http://www.pnas.org/content/109/39/15959.full.pdf. </li></ul><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p>Best practices for RCTs focused on placebo effects:  </p><ul><li>Hróbjartsson, A., Kaptchuk, T. J., &amp; Miller, F. G. (2011). Placebo effect studies are susceptible to response bias and to other types of biases. <em>Journal of Clinical Epidemiology</em>, 64(11), 1223-1229. Retrieved January 14, 2016 from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3146959/pdf/nihms272257.pdf.</li></ul></div></div></div></div></div></div>

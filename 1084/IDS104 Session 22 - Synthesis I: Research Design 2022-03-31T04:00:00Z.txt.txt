@@ -1,0 +1,1414 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Describe one reason why you might use an observational rather than an experimental approach. Explain using an example.
+
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Identify one advantage and one disadvantage of quasi-experimental design relative to other research methods. Explain.
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+Identify one advantage and one disadvantage of RCT relative to other research designs. Explain.
+
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+Identify one advantage and one disadvantage of using a case study to test a hypothesis.
+
+
+------------------------------------------
+
+Peer Instruction Poll (Main)
+
+none
+
+A research team is interested in low child literacy rates in Rajasthan, India. They decide to offer different interventions to three test groups and compare those to a control group that is not offered an intervention. In the first group, the mothers are offered literacy classes (with the reasoning that she could then help the child learn at home); the second group of mothers is given activity books to enhance home learning; and the third group of mothers has their children being tutored once a week. The researchers assessed literacy in the children before and 4 months after the intervention. Assume that the sample size is large. Which of the following predictions could be tested with this study design? (Select all that apply).
+
+ - Better educated mothers are more effective at helping children to read
+ - Students whose mothers have more educational resources will exhibit increased literacy
+ - Mothers given more educational resources will enhance their child’s learning
+ - Students who are tutored will exhibit greater increases in literacy than those who are helped only by their mothers. 
+------------------------------------------
+
+What is problematic?
+
+outcome
+
+Which aspect of this study is **most** problematic? 
+
+ - Treatment
+ - Controls
+ - Sampling
+ - Dependent variable
+ - Other
+------------------------------------------
+
+Explanation
+
+outcome
+
+Briefly explain why the aspect you chose is the most problematic.
+
+------------------------------------------
+
+Best study type
+
+outcome
+
+Based on your understanding of the advantages and disadvantages of different research techniques, which method do you think would be the best to examine the relationship between the Zika virus and birth defects?
+
+ - Observational study--cross-sectional study
+ - Observational study--cohort study
+ - Observational study--case-control study
+ - Case study
+ - RCT
+ - Quasi-experiment
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+Are some (or one) research methods consistently better than others? Why or why not? Justify your answer with specific examples, including at least one salient example from this class session. 
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce this synthesis session (shorter introduction than usual!).
+- Point out that for this lesson, we return to the Big Question "How can we avoid global pandemics?"
+- Call on students to answer the focus question.
+
+   1. Which of the research designs is most prone to confounding variables? The least prone? 
+
+    There could be multiple answers here. One for most prone is observational studies. One for least prone could be an RCT.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll A:**
+
+- When you merely want to collect descriptive information (e.g., Is the incidence of heart disease increasing?)
+- You want to explore potential causes by identifying strong correlations without disturbing the natural setting.
+- You cannot do an experiment (e.g., How fast does the earth move around the sun?) or it is unacceptable to do an experiment.
+
+**Follow-up**: What are some positive features of observational study design?
+
+Some possible answers:
+
+- Can be inexpensive compared to experiments (but not always)
+- Examine community-, group-, or national-level data and trends
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+- When you merely want to collect descriptive information (e.g., Is the incidence of heart disease increasing?)
+- You want to explore potential causes by identifying strong correlations without disturbing the natural setting.
+- You cannot do an experiment (e.g., How fast does the earth move around the sun?) or it is unacceptable to do an experiment.
+
+**Follow-up**: What are some positive features of observational study design?Some possible answers:
+
+- Can be inexpensive compared to experiments (but not always)
+- Examine community-, group-, or national-level data and trends
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+**Advantages:**
+
+- They may be more practical, efficient and less costly than a standard experiment or RCT.
+- May allow a study with an intervention when when a randomized assignment to treatment would be unethical.
+- Provide results that may be more generalizable than standard experiments or RCTs because they are in a “natural” setting.
+
+**Disadvantages:**
+
+- No randomized assignment to groups, so allocation bias can be significant (e.g., if the control and treatment groups are not similar).
+- May not be able to establish cause and effect.
+
+**Follow-up**: What is similar and what is different between quasi-experimental and RCT designs? Provide examples. (Answer: Both have an intervention, although in quasi-experiments there is no random allocation to groups because it would be unethical or would not make sense to do so (e.g., pregnant versus not pregnant women; testing different teaching styles in two different classrooms).
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+**Advantages:**
+
+- They may be more practical, efficient and less costly than a standard experiment or RCT.
+- May allow a study with an intervention when when a randomized assignment to treatment would be unethical.
+- Provide results that may be more generalizable than standard experiments or RCTs because they are in a “natural” setting.
+
+**Disadvantages:**
+
+- No randomized assignment to groups, so allocation bias can be significant (e.g., if the control and treatment groups are not similar).
+- May not be able to establish cause and effect.
+
+**Follow-up**: What is similar and what is different between quasi-experimental and RCT designs? Provide examples. (Answer: Both have an intervention, although in quasi-experiments there is no random allocation to groups because it would be unethical or would not make sense to do so (e.g., pregnant versus not pregnant women; testing different teaching styles in two different classrooms).
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+**Advantages:**
+
+- Much more control over the confounding variables.
+- Can establish cause and effect
+
+**Disadvantages:**
+
+- May not be “realistic” and therefore not generalizable outside of the experimental setting.
+- Placebo, which is typically used as a control, may not be an adequate control if placebo effects are strong (need to have a natural history control or other appropriate and relevant control)
+
+**Follow-up:** What does the random in RCT refer to? Why is this important?
+
+(Answer: Random allocation to a treatment group (not a random sample drawn from a population). A RCT may, in some cases, not rely on a random sample. This is important to minimize the effects of confounding variables.)
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+**Advantages:**
+
+- Much more control over the confounding variables.
+- Can establish cause and effect
+
+**Disadvantages:**
+
+- May not be “realistic” and therefore not generalizable outside of the experimental setting.
+- Placebo, which is typically used as a control, may not be an adequate control if placebo effects are strong (need to have a natural history control or other appropriate and relevant control)
+
+**Follow-up:** What does the random in RCT refer to? Why is this important?(Answer: Random allocation to a treatment group (not a random sample drawn from a population). A RCT may, in some cases, not rely on a random sample. This is important to minimize the effects of confounding variables.)
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D**:
+
+Many possible answers.
+
+_Advantages_: depth of study, could identify new avenues for research, only way to analyze a rare case, allows evaluation of the relationships among factors to be evaluated (useful in complex systems or where we have little information). Outliers can increase our understanding of a phenomenon. Whether outlier or representative, new insights are often found through case studies.
+
+​
+
+_Disadvantages_: Not as generalizable as larger more targeted studies, may be many confounding variables and more chance for bias due to the many human touch points.
+
+​
+
+​
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D**:
+
+Many possible answers.
+
+_Advantages_: depth of study, could identify new avenues for research, only way to analyze a rare case, allows evaluation of the relationships among factors to be evaluated (useful in complex systems or where we have little information). Outliers can increase our understanding of a phenomenon. Whether outlier or representative, new insights are often found through case studies.
+
+_Disadvantages_: Not as generalizable as larger more targeted studies, may be many confounding variables and more chance for bias due to the many human touch points.
+
+
+----------------------------------------
+
+10.
+If time allows, use any of these focus questions as follow-ups. Note that this class is packed, however, so don't linger too long.
+
+   1. What is similar and what is different between quasi-experimental and observational designs?
+    Both may use observations as data, but in quasi-experimental design there is an intervention that is applied by the researcher. 
+,   2. What steps should a researcher take to avoid confounding variables?
+
+    Possible Answers:
+
+- Random allocation to treatment groups in RCT or experiments
+- Large sample size
+- Controlling for confounding variables
+- Could also match the treatment/control groups as best as possible (e.g., case control studies and quasi-experimental design)
+,   3. In which types of studies are allocation biases potentially significant (i.e., control and treatment groups are not equal)?
+    Any study in which there is no random allocation to treatment groups:
+
+* quasi-experiments
+
+* case control studies
+----------------------------------------
+
+11.
+Introduce the learning goal and then start the poll.
+
+
+----------------------------------------
+
+12.
+- Allow students 1-2 minutes to quickly answer the pre-breakout poll. 
+- Tell them they will have a chance to explore this poll question in more depth in breakouts.
+
+
+----------------------------------------
+
+13.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+14.
+- Students re-poll to see if their minds have changed given the breakout discussion.
+- (Optional) Identify a student moderator for the debrief. The student moderator should:
+    - Call on students across all breakout groups (the instructor should facilitate this by moving students in and out of the main stage during discussion).
+    - Discuss each prediction individually and move on if there is consensus.
+- The instructor can moderate the last 3-4 minutes to wrap up the activity if necessary. There are a few “right” answers to this peer instruction poll, but many gray areas--which should lead to rich discussion. The optional focus questions below should help draw these out if students do not identify them during their discussion.
+- (Optional) If there is time, address the optional aspect of rewording predictions for preciseness.
+- If students reach a consensus, do not linger, move on to the main activities, which could benefit from more time.
+
+**Explanation of Correct Answer(s) to poll:**
+
+**Prediction (a)** is not tested by this study because the researchers do not differentiate among mothers who are “better educated” (beyond those offered the literacy classes). To test this, a researcher would have to collect data about the education levels of the mothers. In addition, researchers in this study are also not examining how effective mothers are in helping children, but rather the outcomes of the interventions on literacy.
+
+**Prediction (b)** could be tested if one considers the literacy of students of the mothers given activity books and the mothers given literacy classes compared to the control group. One confounding aspect in testing this prediction would be differentiating whether the activity books or the mothers are enhancing the learning, but that would not impact the test of this specific prediction (which simply tests whether the students of mothers who are given more resources show improved literacy, not whether it is the mothers who are more effective).
+
+**Prediction (c)** could be tested but is broadly written here. Prediction (b) is similar, addresses the same concept and is more clearly worded.
+
+**Prediction (d)** is testable because one could compare the literacy of the tutored students to that of students who were helped (presumably) by mothers. One confounding aspect would be whether the mothers given more resources are helping their children study. According to the study design, mothers are given more resources, but are not directed to tutor their children. Some mothers may have more time to do so than others.
+
+   1. What confounding variables would muddy the interpretation of the results when using the data from this study to evaluate each prediction?
+
+    These are noted above in the answers column. This question is called out here in case students do not bring this up during the student-led discussion.,   2. How could you test one of the predictions that is not testable using this study design?
+
+    Use this question to promote further discussion if students come to a consensus in the poll discussion quickly.
+
+----------------------------------------
+
+15.
+Ask a student: "Is there another prediction that could be tested that was not one of the 4 provided?"
+
+
+----------------------------------------
+
+16.
+Introduce the learning goal and tell students we will have a short activity using a poll and discussion to evaluate an experimental design scenario.
+
+
+----------------------------------------
+
+17.
+- Briefly introduce this activity and the study scenario.
+- Prompt students to answer both polls (one multiple choice and one long form explanation, the latter is for optional scoring purposes). Debrief is in the next step.
+
+
+----------------------------------------
+
+18.
+* Call on students to justify/explain their responses. Use the focus questions to deepen discussion.
+
+
+* **Note:** Both sampling methods and pseudoreplication are problems in this study. The goals of the discussion are to identify the flaws and then suggest ways that these flaws could be corrected. (See answers to focus questions below). 
+   1. What is the experimental unit (i.e., the physical entity which can be assigned to a treatment)?
+
+_Follow-ups_:
+
+- What problem does this indicate?
+- How could this be mitigated?
+
+    In this case, the water treatment is applied to each aquarium, so the fish are not the experimental units. In order for individual fish to be experimental units, somehow the investigators would have to take one fish at a time and apply the treatment independently to each fish. This would be impractical from a logistics standpoint, and was not done. Instead, the water treatment levels were applied to the entire aquarium, and so the experimental unit is an aquarium with 100 fish.
+
+_Follow-up_:
+
+- Pseudoreplication
+- Use more aquaria.
+,   2. How does the sampling indicated in this description affect the results?
+
+_Follow-up:_ How could the sampling problem be mitigated?
+
+    Sampling in this example is also problematic. 
+
+- The researchers plan to measure lesions in the first 10 fish they catch, which is not random, but a convenience sample, which is notoriously biased and potentially not representative. For example, it could be that researchers catch the slowest moving fish, which are much sicker, and therefore might have a greater number of lesions than others in the aquarium. 
+- Also, 10 fish is a relatively small sample size, with 100 fish in each tank, researchers could reasonably sample all of them, or at least more than 10.
+
+_Follow-up:_ In the best of all worlds, each fish would have a unique number and a random number generator would specify which ones to sample. Given that this isn’t practical, think of every variable you can that might confound the results (e.g., speed, depth of swimming, size) and sample randomly within that variable.
+
+----------------------------------------
+
+19.
+* Call on a student to identify a take-home message for this activity.
+
+* Summarize in your own words if necessary.
+
+----------------------------------------
+
+20.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+21.
+Tell students that the goal of this activity is to determine the most effective research approach to address a specific scenario.
+
+
+----------------------------------------
+
+22.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+23.
+Launch the poll and give students ~ 1 minute to answer. Move to the debrief in the next step.
+
+
+----------------------------------------
+
+24.
+- Call on students across all groups to explain their answers and identify which aspects were the most compelling in shaping their final decision.
+- Use the focus questions to deepen the discussion.
+- Notes: Tell students that they may be called on to: 1) justify their response based on the advantages and disadvantages of each type of research design, 2) evaluate the response of another student, 3) summarize the discussion and identify the consensus reached.
+
+   1. If speed of devising a solution were a primary concern (which it currently is), would your choice of research method change?
+
+    It may change. One might choose a case study or an observational case-control study to try to elucidate what is happening because the lack of time does not allow for an experiment or long-term observational cohort study.,   2. Optional: If you were most interested in establishing whether the Zika virus caused the birth defects, what would be your choice of research method?
+
+    To establish causation, one would need to do an experiment. There are obvious ethical problems with conducting direct experiments focused on infection to address causation in this situation, unless the experiments are in vitro and that may be problematic. 
+
+​
+
+A quasi-experimental approach manipulating mosquito abundances could be a reasonable interventional approach.
+
+​
+
+The most robust observational approach would perhaps be a cohort observational study in which you compare the infants of women who were infected with Zika at different points in their pregnancy to those that were not, but this would still not reveal a causal relationship. (Note: Observational data of the outbreak in Colombia, which lags a bit behind the Brazil outbreak may provide some correlational evidence).
+
+----------------------------------------
+
+25.
+- Explain that one seminal study of the link between microcephaly and Zika was a case-control observational study from Brazilian researchers. 
+- For results, tables 2 and 3 demonstrate the strongest links between Zika and microcephaly as they show the results of serum testing of the newborns: Zika virus was found more frequently in the cerebrospinal fluid or serum in cases, whereas controls all tested negative for Zika-virus specific fluid and serum. 
+
+
+----------------------------------------
+
+26.
+This article shows how a case study was used to explore the relationship between zika and microcephaly.
+
+
+----------------------------------------
+
+27.
+Call on a student to summarize a take-home message for this activity.
+
+
+----------------------------------------
+
+28.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+**Note to faculty: **Each research method has specific uses for which it is particularly good. Typically experiments are upheld as a “gold standard” method for testing a hypothesis, but sometimes experiments are not feasible or appropriate to evaluate a specific hypothesis and hence other methods are employed. Moreover, not all research involves hypothesis testing.
+
+
+----------------------------------------
+
+29.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+30.
+- Call on a student to identify a take-home for this session.
+- Provide a summary of the following take-home in your own words: Determining the best way to test a hypothesis requires careful consideration of the advantages and disadvantages of different research methods. There is not always one “right” research design that can adequately test a hypothesis. Rather, a combination of approaches is often used to accumulate evidence to support or refute a specific hypothesis.
+- Ask the focus questions.
+
+   1. Which creative heuristic might be most useful for determining which research method to use to address a specific hypothesis?
+    **Some examples:**
+
+- Retrospective comparisons (Extrapolating from similar problems already solved);
+- Juxtaposing opposite problems to suggest reciprocal solutions;
+- Recognizing and Accounting for the Oddity of Occurrences (Accounting for deviations from the general trend; Accounting for the oddity of the general trend itself)
+,   2. What other aspects/stages of research design could benefit from creative heuristics? Are there different heuristics you might draw on for these?
+    **Some example stages:**
+
+* Developing hypotheses from observational data or from previous studies
+
+* Figuring out what control would be most effective
+
+* Some examples from the Deductive Reasoning Procedures (Generating multiple explanations for a given relation; Identifying counter forces obscuring an obvious relation; Hypothetico-deductive sets of postulates)
+
+===================RESOURCES===================
+
+Araujo et al 2016.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/rjeBdV/araujo-et-al-2016.pdf
+null
+
+--------------------------------------------
+
+researchdesigntypesnew.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/00110624-2277/google-doc.pdf
+null
+
+--------------------------------------------
+
+Mlakar et al. 2016 - Zika Virus Associated with Microcephaly.pdf
+https://course-resources.minervaproject.com/uploaded_files/production/00026391-4584/mlakar-et-al.-2016---zika-virus-associated-with-microcephaly.pdf
+null
+
+--------------------------------------------
+
+Blank
+https://docs.google.com/document/d/1TjLC-9meGp1ugnTfAENjreEZSmv6LjHiJCtIvc4lMhg/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Activity 3: Complementary studies for Zika
+https://sle-authoring.minervaproject.com/api/v1/worksheets/381ded3e-f3ba-4413-9393-ad867cb262c8/
+null
+
+--------------------------------------------
+
+[template] NOTES Child literacy rates in Rajasthan, India
+https://sle-authoring.minervaproject.com/api/v1/worksheets/e881c0fa-674f-4017-b3ac-d7654fc1f425/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction: LO Synthesis - 1553355
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design</p><p><strong>Big Question: </strong>How can we avoid global pandemics?</p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interventionalstudy">﻿<span>#interventionalstudy</span>﻿</span></span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="observationalstudy">﻿<span>#observationalstudy</span>﻿</span></span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span></span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span> - <span style="color: rgb(51, 51, 51);">Identify and evaluate appropriate control groups for empirical study designs.</span></li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interviewsurvey">﻿<span>#interviewsurvey</span>﻿</span></span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span> - <span style="color: rgb(51, 51, 51);">Design and interpret case studies.</span></li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="evidencebased">﻿<span>#evidencebased</span>﻿</span></span> - Identify and appropriately structure the information needed to support an argument effectively. </li></ul><p><strong>Activity Leaning Goals: </strong>Continued ....</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Activity Learning Goals:</strong></p><ul><li>Determine which predictions can be effectively tested by a specific study design. </li><li>Identify flaws in sampling in scientific studies and suggest ways to correct those flaws.</li><li>Determine the most effective research approach for a specific scenario.</li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Activity Introduction - 1553397
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Determine which predictions can be effectively tested by a specific study design. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1553406
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Determine which predictions can be effectively tested by a specific study design. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Activity Introduction - 1553412
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify flaws in sampling in scientific studies and suggest ways to correct those flaws.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Poll - 1553413
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Scenario</h1><p>A research group wants to evaluate polluted stream water for its effect on fish lesions. They set up 2 large aquaria, each with 100 fish. They randomly assign a water treatment (polluted vs. control) to the two aquaria. After 30 days, they catch 10 fish from each aquarium and count the number of lesions on each fish. </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1553421
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Identify flaws in sampling in scientific studies and suggest ways to correct those flaws.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3. Introduction - 1553434
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Determine the most effective research approach for a specific scenario.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A3. Closure Moment - 1553457
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Determine the most effective research approach for a specific scenario.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1553469
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design</p><p><strong>Big Question: </strong>How can we avoid global pandemics?</p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interventionalstudy﻿</span> - Apply and interpret experimental studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - <span style="color: rgb(51, 51, 51);">Identify and evaluate appropriate control groups for empirical study designs.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#interviewsurvey﻿</span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="casestudy">﻿<span>#casestudy</span>﻿</span></span> - <span style="color: rgb(51, 51, 51);">Design and interpret case studies.</span></li><li><span style="color: rgb(10, 120, 191);">﻿#evidencebased﻿</span> - Identify and appropriately structure the information needed to support an argument effectively. </li></ul><p><strong>Activity Learning Goals</strong>: Continued ...</p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Activity Learning Goals:</strong></p><ul><li>Determine which predictions can be effectively tested by a specific study design. </li><li>Identify flaws in sampling in scientific studies and suggest ways to correct those flaws.</li><li>Determine the most effective research approach for a specific scenario.</li></ul></div></div></div></div></div></div>

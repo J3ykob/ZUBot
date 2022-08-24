@@ -1,0 +1,3388 @@
+{
+    "id": 22317,
+    "active-breakout-session-id": null,
+    "allow-student-no-video": false,
+    "allow-background-blur": true,
+    "assessment": {
+        "id": 22113,
+        "description": null,
+        "muted": true,
+        "title": null
+    },
+    "assignments": [
+        {
+            "id": 25806,
+            "assignment-groups": [],
+            "can-submit-file": false,
+            "can-submit-multiple-resources": false,
+            "can-submit-url": false,
+            "description": "\n### Readings ###\n#### Granovetter, M. (1978). Threshold models of collective behavior. *American Journal of Sociology.* 1420-1443.  #### \n\n\n> This article applies the concept of a threshold to the analysis of group behavioral dynamics. Some parts of the article are technical and difficult, but there are important theoretical ideas throughout. You do not need grasp all of the details, but make sure you understand the basic explanation of how thresholds are applied to explain rioting behavior, and how different distributions of thresholds can result in very different group behavior. Pay attention also to the discussions of friendship and influence, spatio-temporal effects, and social norms.\n\n#### Wikipedia (n.d.). 2015 Baltimore protests. In *Wikipedia*. Retrieved August 13, 2016 from: https://en.wikipedia.org/wiki/2015_Baltimore_protests #### \n Retrieved from [https://web.archive.org/web/20170423132708/https://en.wikipedia.org/wiki/2015_Baltimore_protests](https://web.archive.org/web/20170423132708/https://en.wikipedia.org/wiki/2015_Baltimore_protests)\n\n\n\n> This article provides context for the discussion of the Baltimore riots in Graham (2015). Use this article to inform your opinions about how the riots might have been prevented.\n\n#### Graham, D. (2015). The Baltimore riots didn’t have to happen. In *The Atlantic.* #### \n Retrieved from [https://web.archive.org/web/20160417045638/http://www.theatlantic.com/politics/archive/2015/04/the-baltimore-riots-that-didnt-happen/391931/](https://web.archive.org/web/20160417045638/http://www.theatlantic.com/politics/archive/2015/04/the-baltimore-riots-that-didnt-happen/391931/)\n\n\n\n> This article discusses possible explanations of the Baltimore riots, and focuses in particular on why people rioted during some of the protests but not others. We will discuss how law enforcement might have prevented some of the rioting based on characteristics of complex systems and the reading by Granovetter.\n\n#### Recidivism Dynamics Research Paper #### \n\n\n> Review the assignment instructions on your dashboard prior to class, and be prepared to answer questions about how you might approach the topic.\n\n### Study Guide ###\n1. What is a “threshold” as defined by Granovetter?\n\n2. What factors determine an agent’s threshold for a behavior, and what factors determine whether the threshold is activated?\n\n3. How do thresholds determine the overall behavior of a group?\n\n4. How are social relations, environmental features, and social norms relevant to thresholds?\n### Pre-class Work ###\nBegin by refreshing your memory of the different theories of motivations discussed in the last lesson (Activity 1, LP 8.1). Using the threshold analysis of group behavior presented in Granovetter (1978), propose a way that law enforcement might intervene by manipulating motivations to prevent rioting in a crowd of protesters. You may use the Baltimore riots (as described in Graham, 2015) as an example. Consider the scenario from a complex systems perspectives and think about #systemsanalysis.\n\n**Note**: When considering interventions, it is important to consider the responsibilities of law enforcement with respect to: a) the rights of peaceful protesters or bystanders who are not rioting, b) preventing property damage, and c) guaranteeing their own safety.\n\n**Bring to class**: Write a 2-3 sentence description of your proposal, and have it open in a separate tab during class. Be prepared to paste it into a poll.",
+            "description-format": "markdown",
+            "due-date": "2022-02-16T06:00:00Z",
+            "grouping": null,
+            "is-group-assignment": false,
+            "length": null,
+            "muted": true,
+            "num": null,
+            "publish-at": null,
+            "published": null,
+            "python-notebook": null,
+            "section": 1614,
+            "title": null,
+            "type": "preparatory"
+        }
+    ],
+    "av-config": null,
+    "av-service": "opentok",
+    "bandwidth-mode": "high",
+    "class-number": 10,
+    "class-polls": [
+        {
+            "id": 248755,
+            "klass-id": 22317,
+            "poll-id": 248922,
+            "poll": {
+                "id": 248922,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 4,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "Does an agent's level of motivation to riot determine whether he or she will riot when his threshold is reached? Why or why not?",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Poll A",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248756,
+            "klass-id": 22317,
+            "poll-id": 248923,
+            "poll": {
+                "id": 248923,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 4,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "In Granovetter's model, what could cause an individual's threshold for rioting behavior to change? Why?\n",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Poll B",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248757,
+            "klass-id": 22317,
+            "poll-id": 248924,
+            "poll": {
+                "id": 248924,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 4,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "Does an agent’s level of motivation to riot determine whether his or her threshold will be activated? Why or why not?",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Poll C",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248758,
+            "klass-id": 22317,
+            "poll-id": 248925,
+            "poll": {
+                "id": 248925,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 4,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "Which is more likely to determine whether an individual’s threshold for rioting behavior is activated: whether the person’s friends are rioting or the person’s beliefs about whether rioting is socially acceptable? Why?",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Poll D",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248759,
+            "klass-id": 22317,
+            "poll-id": 248926,
+            "poll": {
+                "id": 248926,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253939,
+                        "choice": "85% looting threshold, 65% property destruction threshold, and 70% violence threshold",
+                        "index": 0,
+                        "poll-id": 248926
+                    },
+                    {
+                        "id": 253940,
+                        "choice": "95% looting threshold, 95% property destruction threshold, and 90% violence threshold",
+                        "index": 1,
+                        "poll-id": 248926
+                    },
+                    {
+                        "id": 253941,
+                        "choice": "35% looting threshold, 25% property destruction threshold, and 25% violence threshold",
+                        "index": 2,
+                        "poll-id": 248926
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "For activists who are motivated by advocating for a cause, what are the most plausible thresholds for looting, property destruction, and violence?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Activists",
+                "type": "mc"
+            }
+        },
+        {
+            "id": 248760,
+            "klass-id": 22317,
+            "poll-id": 248927,
+            "poll": {
+                "id": 248927,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253942,
+                        "choice": "95% looting threshold, 90% property destruction threshold, and 85% violence threshold",
+                        "index": 0,
+                        "poll-id": 248927
+                    },
+                    {
+                        "id": 253943,
+                        "choice": "55% looting threshold, 55% property destruction threshold, and 35% violence threshold",
+                        "index": 1,
+                        "poll-id": 248927
+                    },
+                    {
+                        "id": 253944,
+                        "choice": "35% looting threshold, 25% property destruction threshold, and 25% violence threshold",
+                        "index": 2,
+                        "poll-id": 248927
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "For politicians whose motivation is to respond to the protest and calm the situation, what are the most plausible thresholds for looting, property destruction, and violence?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Politicians",
+                "type": "mc"
+            }
+        },
+        {
+            "id": 248761,
+            "klass-id": 22317,
+            "poll-id": 248928,
+            "poll": {
+                "id": 248928,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253945,
+                        "choice": "15% threshold for leaving the protest; 95% threshold for giving tributes or speeches",
+                        "index": 0,
+                        "poll-id": 248928
+                    },
+                    {
+                        "id": 253946,
+                        "choice": "95% threshold for leaving the protest; 15% threshold for giving tributes or speeches",
+                        "index": 1,
+                        "poll-id": 248928
+                    },
+                    {
+                        "id": 253947,
+                        "choice": "35% threshold for leaving the protest; 75% threshold for giving tributes or speeches",
+                        "index": 2,
+                        "poll-id": 248928
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "For close relatives and friends of a protester hurt by the police the week before whose motivation is to express discontent with the situation and get justice for the protester, what are the most plausible thresholds for **leaving the protest **and **for giving tributes or speeches**?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Close relatives/Friends of a protester hurt by police",
+                "type": "mc"
+            }
+        },
+        {
+            "id": 248762,
+            "klass-id": 22317,
+            "poll-id": 248929,
+            "poll": {
+                "id": 248929,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253948,
+                        "choice": "95% looting threshold, 95% property destruction threshold, and 95% violence threshold",
+                        "index": 0,
+                        "poll-id": 248929
+                    },
+                    {
+                        "id": 253949,
+                        "choice": "75% looting threshold, 75% property destruction threshold, and 75% violence threshold",
+                        "index": 1,
+                        "poll-id": 248929
+                    },
+                    {
+                        "id": 253950,
+                        "choice": "95% looting threshold, 95% property destruction threshold, and 80% violence threshold",
+                        "index": 2,
+                        "poll-id": 248929
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "For a bystander mother and her young children who has no intent to be there and is protective of her children, what are the most plausible thresholds for looting, property destruction, and violence?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Bystander mother and her young children",
+                "type": "mc"
+            }
+        },
+        {
+            "id": 248763,
+            "klass-id": 22317,
+            "poll-id": 248930,
+            "poll": {
+                "id": 248930,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253951,
+                        "choice": "75% looting threshold, 75% property destruction threshold, and 75% violence threshold",
+                        "index": 0,
+                        "poll-id": 248930
+                    },
+                    {
+                        "id": 253952,
+                        "choice": "5% looting threshold, 10% property destruction threshold, and 15% violence threshold",
+                        "index": 1,
+                        "poll-id": 248930
+                    },
+                    {
+                        "id": 253953,
+                        "choice": "50% looting threshold, 40% property destruction threshold, and 25% violence threshold",
+                        "index": 2,
+                        "poll-id": 248930
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "For radical anarchists who want to \"take down the whole system,\" what are the most plausible thresholds for looting, property destruction, and violence?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Radical Student Activists",
+                "type": "mc"
+            }
+        },
+        {
+            "id": 248764,
+            "klass-id": 22317,
+            "poll-id": 248931,
+            "poll": {
+                "id": 248931,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253954,
+                        "choice": "Yes",
+                        "index": 0,
+                        "poll-id": 248931
+                    },
+                    {
+                        "id": 253955,
+                        "choice": "No",
+                        "index": 1,
+                        "poll-id": 248931
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "How can we understand rioting as an emergent property?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Emergence",
+                "type": "yn"
+            }
+        },
+        {
+            "id": 248765,
+            "klass-id": 22317,
+            "poll-id": 248932,
+            "poll": {
+                "id": 248932,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [
+                    {
+                        "id": 253956,
+                        "choice": "Yes",
+                        "index": 0,
+                        "poll-id": 248932
+                    },
+                    {
+                        "id": 253957,
+                        "choice": "No",
+                        "index": 1,
+                        "poll-id": 248932
+                    }
+                ],
+                "poll-sessions": [],
+                "question": "How can we understand rioting as involving randomness?\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Randomness",
+                "type": "yn"
+            }
+        },
+        {
+            "id": 248766,
+            "klass-id": 22317,
+            "poll-id": 248933,
+            "poll": {
+                "id": 248933,
+                "grading-type": "outcome",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "Paste your intervention proposal into the poll.\n",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Pre-class work poll",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248767,
+            "klass-id": 22317,
+            "poll-id": 248934,
+            "poll": {
+                "id": 248934,
+                "grading-type": "outcome",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "In 1-2 sentences, describe the intervention from your breakout that you believe would be most successful and why.\n",
+                "student-visible": true,
+                "teacher-visible": true,
+                "title": "Closure poll",
+                "type": "long-form"
+            }
+        },
+        {
+            "id": 248768,
+            "klass-id": 22317,
+            "poll-id": 248935,
+            "poll": {
+                "id": 248935,
+                "grading-type": "none",
+                "multiple-response": false,
+                "num-choices": 3,
+                "poll-choices": [],
+                "poll-sessions": [],
+                "question": "How does Granovetter’s threshold model synthesize #behaviorexplanation in relation to networks? Illustrate with an example of an intervention discussed in the second activity.\n",
+                "student-visible": false,
+                "teacher-visible": true,
+                "title": "Reflection Poll",
+                "type": "long-form"
+            }
+        }
+    ],
+    "class-users": [
+        {
+            "id": 516839,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15216,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15216,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_Zgu1cbkRCeiFi5MVlipeeQ9pFExrqezaRBbxALah.ics",
+                "email": "202103634@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Shahad",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "AlAli",
+                "official-first-name": "Shahad",
+                "official-last-name": "Alali",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516840,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15396,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15396,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_sBVMogMUJrrnIpmzuKegTIMirlltLhL37UeA4e0x.ics",
+                "email": "202105524@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Maryam",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Albawardi",
+                "official-first-name": "Maryam",
+                "official-last-name": "Albawardi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516841,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15492,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15492,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_wG8BKZLQrgmOIiTQ4WDjgFUm65DBHRcDyt6jsu8g.ics",
+                "email": "202100154@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Shamma",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Algergawi",
+                "official-first-name": "Shamma",
+                "official-last-name": "Algergawi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516842,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15189,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15189,
+                "aws-avatar-key": "Ghaya_Alhemeiri_15189_2021-09-29T19:10:02.164Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_CN51ydg4kvW4Getp51zVJQGcFKetneMkJnc9AEKR.ics",
+                "email": "202110892@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Ghaya",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alhemeiri",
+                "official-first-name": "Ghaya",
+                "official-last-name": "Alhemeiri",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516843,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15367,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15367,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_lUOsWACcbxtHp1zg5W2iJTNavREE79KEd8hfVD2i.ics",
+                "email": "202102659@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Mariam",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Almarar",
+                "official-first-name": "Mariam",
+                "official-last-name": "Almarmar",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516844,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15487,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15487,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_BxA8SdpUCgUQHeM2vGWU6057EG16AYq0U4WDFLKZ.ics",
+                "email": "202112654@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Hessa",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Almarzooqi",
+                "official-first-name": "Hessa",
+                "official-last-name": "Almarzooqi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516845,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15383,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15383,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_0B93pMMfdqx2qexOPJL9GdttZO6iwRq34nf2Y0J9.ics",
+                "email": "202120281@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Alia",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "AlMheiri",
+                "official-first-name": "Alia",
+                "official-last-name": "AlMheiri",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516846,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15217,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15217,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_iJ0W2oama5lEZUC8mhgUuFz1cGZH0kCYvL74DdY6.ics",
+                "email": "202106804@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Shaikha",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alsaadi",
+                "official-first-name": "Shaikha",
+                "official-last-name": "Alsaadi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516847,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15502,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15502,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_sK9kdvgNBwBR9K0MG9akp0vLSDUsHZ3dXTLHeTgT.ics",
+                "email": "202115165@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Shaikha",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alshehhi",
+                "official-first-name": "Shaikha",
+                "official-last-name": "Alshehhi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516848,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15386,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15386,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_YmW7ztr0pJ7RmTRVVPtdXaBS5PkwBsAEEffc6ccP.ics",
+                "email": "202112329@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Alya",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alsuwaidi",
+                "official-first-name": "Alya",
+                "official-last-name": "Alsuwaidi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516849,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15746,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15746,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_T7S43WHffJ2RU85x2WMacx8o3Oz0s7eYMnlMEITB.ics",
+                "email": "202117844@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Hind",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alsuwaidi",
+                "official-first-name": "Hind",
+                "official-last-name": "Alsuwaidi",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516850,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15200,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15200,
+                "aws-avatar-key": "Maryam_Alwars_15200_2021-08-18T09:18:12.840Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_w6Wg08GMe8rjlsF5i5ucAl5WFodgObGaEt6TgzqN.ics",
+                "email": "202105638@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Maryam",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Alwars",
+                "official-first-name": "Maryam",
+                "official-last-name": "Alwars",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516851,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "teacher",
+            "should-subscribe-to-av": true,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 16987,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 16987,
+                "aws-avatar-key": "Zeina_Hojeij_16987_2021-11-06T15:57:25.775Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_50f71p4S9bkUvQJIMBzoO8N3OH2xYZN5ZxRy88eK.ics",
+                "email": "Zeina.Hojeij@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Zeina",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Hojeij",
+                "official-first-name": "Zeina",
+                "official-last-name": "Hojeij",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "faculty",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516852,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "ta",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 18152,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 18152,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_YhTj83LarMZbVq8zPXy31DFrEPvflVuPaKgF3M0g.ics",
+                "email": "anna.hristova@uni.minerva.edu",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Anna",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Hristova",
+                "official-first-name": "Anna",
+                "official-last-name": "Hristova",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "faculty",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516853,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15376,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15376,
+                "aws-avatar-key": "Vania_Llerena Velasquez_15376_2021-08-30T05:54:48.683Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_81FHt3LaOfX3ABeKzCyzosr9ZaiuuBVbfxwgZfAI.ics",
+                "email": "M80008572@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Vania",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Llerena Velásquez",
+                "official-first-name": "Vania",
+                "official-last-name": "Llerena Velasquez",
+                "pronunciation-url": "https://s3-us-west-2.amazonaws.com/name-pronunciations/Vania_Llerena Velasquez_15376_2021-08-30T06:02:18.654Z",
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516854,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15378,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15378,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_7RhqJ8JZAYrrrUzps3oFwWMW814T0IoQKVbvNxeT.ics",
+                "email": "M80008621@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Jakub",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Maliszewski",
+                "official-first-name": "Jakub",
+                "official-last-name": "Maliszewski",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516855,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "backup-instructor",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15353,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15353,
+                "aws-avatar-key": "Justin_Morton_15353_2021-09-10T22:49:01.331Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_PFQuONBV6pWf7cGssdH91Aa0FNL6U47bL1xgCJTr.ics",
+                "email": "James.Morton@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": true,
+                "first-name": "Justin",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Morton",
+                "official-first-name": "Justin",
+                "official-last-name": "Morton",
+                "pronunciation-url": null,
+                "ptt-mode": false,
+                "role": "faculty",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516856,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "ta",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 18156,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 18156,
+                "aws-avatar-key": "Duc_Nguyen_18156_2022-01-12T22:38:29.810Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_QsrpgLuJoEiscHGZq62yw0ID9MuCbFfmN3IEd1b8.ics",
+                "email": "minhducnguyen2000@uni.minerva.edu",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Duc",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Nguyen",
+                "official-first-name": "Duc",
+                "official-last-name": "Nguyen",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516857,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "ta",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 18158,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 18158,
+                "aws-avatar-key": "Tino_Penchev_18158_2022-01-12T21:53:38.385Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_bizQLZiCUC6LLd7uapfOrrCj2QHuDTDpPe6SvtlK.ics",
+                "email": "tino@uni.minerva.edu",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Tino",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Penchev",
+                "official-first-name": "Tino",
+                "official-last-name": "Penchev",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516858,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "ta",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 16684,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 16684,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_57JHIlcjSVnqqtyFN475wZlfMkWsxiN0uCOw7zmq.ics",
+                "email": "rotich@uni.minerva.edu",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": true,
+                "first-name": "Jacob",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Rotich",
+                "official-first-name": "Jacob",
+                "official-last-name": "Rotich",
+                "pronunciation-url": null,
+                "ptt-mode": false,
+                "role": "faculty",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516859,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "student",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 15379,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 15379,
+                "aws-avatar-key": "default-avatar-wide.png",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_45HWKvjdNq59yKNyXcgpmD1pwUEGpOPg08sjTK6c.ics",
+                "email": "M80008651@zu.ac.ae",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Fatima",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Saleh Salem Al Shamali",
+                "official-first-name": "Fatima",
+                "official-last-name": "Saleh Salem Al-Shamali",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        },
+        {
+            "id": 516860,
+            "active": true,
+            "active-room-id": 777379,
+            "av-stats": null,
+            "bandwidth-mode": "high",
+            "breakout-talk-time": 0,
+            "camera-issue": false,
+            "candidate-pair": null,
+            "classroom-talk-time": 0,
+            "current-emotion": null,
+            "current-ptt-strategy": null,
+            "enable-student-audio-only": false,
+            "filter-indicator": null,
+            "hand-raised": false,
+            "in-breakout": false,
+            "is-in-av-fallback-mode": false,
+            "is-performing-av-check": false,
+            "klass-id": 22317,
+            "location-ip": null,
+            "mic-issue": false,
+            "ping": null,
+            "poor-connection": false,
+            "quick-poll-response": null,
+            "quality-surveys": [],
+            "role": "ta",
+            "should-subscribe-to-av": false,
+            "talk-time-color": "green",
+            "user-agent": null,
+            "user-id": 18162,
+            "active-room": 777379,
+            "enter-class-time": null,
+            "messages": [],
+            "user": {
+                "id": 18162,
+                "aws-avatar-key": "Marta_Zaremba_18162_2022-02-02T13:46:10.260Z",
+                "calendar-url": "https://forum.minervaproject.com/feeds/calendars/user_GMhr2iKFpISbhu6w9HfggPn6dJxh3QLk6fsns2EY.ics",
+                "email": "marta.zaremba@uni.minerva.edu",
+                "enable-backbone-stats-recording": false,
+                "enable-student-drawing": false,
+                "first-name": "Marta",
+                "ideal-teacher-talk-time-fraction": 0.2,
+                "is-recording-agent": false,
+                "last-name": "Zaremba",
+                "official-first-name": "Marta",
+                "official-last-name": "Zaremba",
+                "pronunciation-url": null,
+                "ptt-mode": true,
+                "role": "non-administrator",
+                "title": ""
+            },
+            "video-enabled": true
+        }
+    ],
+    "course-title": null,
+    "created-on": "2022-02-07T15:26:59Z",
+    "current-filter": "",
+    "date": "2022-02-16T06:00:00Z",
+    "disable-slideshow-recording": true,
+    "discussion-iframe-url": null,
+    "enable-single-pc": true,
+    "enable-student-audio-only": false,
+    "enable-student-drawing": false,
+    "end-time": "2022-02-16T07:30:00Z",
+    "experimental-features": false,
+    "is-open": false,
+    "latest-successful-publication": {
+        "created-on": "2022-02-15T01:03:58Z",
+        "status": "success"
+    },
+    "licode-group": "partners-india",
+    "licode-server": "licode-partners-fallback1-us.av.minervaproject.com",
+    "location-hint-ip": null,
+    "lp-notes-url": "https://coursebuilder.minervaproject.com/courses/1668/private_files/171551/ids105-lp10.pdf",
+    "max-subscribed-streams": 24,
+    "opentok-screenshare-session-id": "2_MX40NzIyODEzNH5-MTY0NDI0NzYxOTAxNn5pTnd5cDZHSlhLeDI3VFlTc3I3L3dxVnZ-fg",
+    "opentok-session-id": "2_MX40NzIyODEzNH5-MTY0NDI0NzYxODYyNH43eDdpcTAyUFp1OEg1V0ZTZFNVVmxEbDN-fg",
+    "pre-class-resource": null,
+    "ptt-mode": true,
+    "published": true,
+    "pubsub-server": "pubsub-india-production-1",
+    "recording-sessions": [],
+    "reduced-framerate-cutoff": null,
+    "room": {
+        "id": 777379,
+        "featured-in-modal": null,
+        "layout-pane-trunk": [
+            {
+                "id": "2e8d2fac8dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d307e8dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d30d88dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d311e8dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d31648dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d31aa8dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d31f08dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            },
+            {
+                "id": "2e8d32368dfb11ecb87352e5ee59c84c",
+                "content-type": "empty",
+                "content-id": null,
+                "locked": false
+            }
+        ],
+        "cocalc-project-id": null,
+        "room-resources": [
+            {
+                "id": 1415146,
+                "created-on": "2022-02-07T15:27:11Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 1,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1506825,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Threshold_Models_of_Collective_Behavior (1).pdf",
+                    "type": "pdf",
+                    "uploader-id": null,
+                    "url": "https://course-resources.minervaproject.com/uploaded_files/mke/rZGRLn/threshold-models-of-collective-behavior--1-.pdf",
+                    "whiteboard-controller-model-id": 431611,
+                    "html-slide-content": null
+                },
+                "resource-id": 1506825,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1415148,
+                "created-on": "2022-02-07T15:27:11Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 3,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1506828,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Seattle Times - 1999 WTO Images.pdf",
+                    "type": "pdf",
+                    "uploader-id": null,
+                    "url": "https://course-resources.minervaproject.com/uploaded_files/mke/00142002-9955/seattle-times---1999-wto-images.pdf",
+                    "whiteboard-controller-model-id": 431612,
+                    "html-slide-content": null
+                },
+                "resource-id": 1506828,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1415149,
+                "created-on": "2022-02-07T15:27:11Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 4,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1506829,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "baltimore-and-ohio-employees-magazine - 1912.pdf",
+                    "type": "pdf",
+                    "uploader-id": null,
+                    "url": "https://course-resources.minervaproject.com/uploaded_files/production/00026963-6154/baltimore-and-ohio-employees-magazine---1912.pdf",
+                    "whiteboard-controller-model-id": 431613,
+                    "html-slide-content": null
+                },
+                "resource-id": 1506829,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1442688,
+                "created-on": "2022-02-14T20:54:43Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 14,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1537861,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": "-t13R6ej-WQ",
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": "http://img.youtube.com/vi/-t13R6ej-WQ/0.jpg",
+                    "title": "Battle of Seattle",
+                    "type": "video",
+                    "uploader-id": null,
+                    "url": "https://www.youtube.com/embed/-t13R6ej-WQ?start=676s&end=676s",
+                    "whiteboard-controller-model-id": null,
+                    "html-slide-content": null
+                },
+                "resource-id": 1537861,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443146,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538360,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": "14LhIF_99AbEJ5itQ0pPMZquksGUHFMgZKzgHsLT9oaM",
+                    "google-mimetype": "application/vnd.google-apps.document",
+                    "is-public": true,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Rioting table",
+                    "type": "google-drive",
+                    "uploader-id": null,
+                    "url": "https://docs.google.com/document/d/1NsvMYe8zhBHpiVrZKaCzNJrXO1HNXrFhiUQpHMO9xwg/edit",
+                    "whiteboard-controller-model-id": null,
+                    "html-slide-content": null
+                },
+                "resource-id": 1538360,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443147,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538362,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": "15VKV6vP71u1b7edki23GiWqNSxCaipVMJUzRJuUQWws",
+                    "google-mimetype": "application/vnd.google-apps.document",
+                    "is-public": true,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Example Rioting Table",
+                    "type": "google-drive",
+                    "uploader-id": null,
+                    "url": "https://docs.google.com/document/d/16ZEZus570QmsOhc0GXoGj8L9suN1vpIXkNc3BxyFse0/edit",
+                    "whiteboard-controller-model-id": null,
+                    "html-slide-content": null
+                },
+                "resource-id": 1538362,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443148,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538363,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": "a3d42d0d-44b2-4858-869c-7812bd6b248f",
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": "sled",
+                    "thumbnail-url": null,
+                    "title": "[template] NOTES Activity 2: Engaging Motivation",
+                    "type": "sle",
+                    "uploader-id": null,
+                    "url": "https://sle-authoring.minervaproject.com/api/v1/worksheets/a3d42d0d-44b2-4858-869c-7812bd6b248f/",
+                    "whiteboard-controller-model-id": null,
+                    "html-slide-content": null
+                },
+                "resource-id": 1538363,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443149,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538364,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": "d653de0f-a536-4d98-b0cc-c64250c2ab14",
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": "done",
+                    "subtype": "sled",
+                    "thumbnail-url": null,
+                    "title": "[template] NOTES Activity 1: Motivations and Thresholds",
+                    "type": "sle",
+                    "uploader-id": null,
+                    "url": "https://sle-authoring.minervaproject.com/api/v1/worksheets/d653de0f-a536-4d98-b0cc-c64250c2ab14/",
+                    "whiteboard-controller-model-id": null,
+                    "html-slide-content": null
+                },
+                "resource-id": 1538364,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443150,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538365,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for Lesson Introduction - 1555492",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440507,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><p><strong>Unit 2:</strong> Agents</p><p><strong>Big Question: </strong>Why do people commit crimes?</p><p><strong>LOs: </strong></p><ul><li><strong>#behaviorexplanation:</strong> Analyze the relations among interacting motivating factors that shape behavior.</li><li><span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"emergentproperties\">﻿<span>#emergentproperties</span>﻿</span> - Identify emergent properties of complex systems and discern their causes. </li></ul><p><strong>Activity Learning Goals:</strong></p><ul><li>Identify ways in which network effects can lead to emergent behavior in social systems.</li><li>Recognize how identifying motivations can help to promote effective engagement in social systems.</li></ul></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538365,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443151,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538366,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for A1. Breakout Instructions - 1612399",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440508,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Activity Learning Goal</strong></h1><p>Identify ways in which network effects can lead to emergent behavior in social systems.</p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538366,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443152,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538367,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for A1. Breakout Instructions - 1555536",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440509,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Breakout Instructions</strong></h1><p>Using the table in the notes, list different motivations that individuals might have for attending a protest like the 1999 demonstrations in Seattle. Then consider what average threshold individuals with a particular motivation might have for rioting, such as:</p><ol><li>looting</li><li>property destruction</li><li>violence towards police or other protesters, and</li><li>other such behaviors (specify what they are)</li></ol><p><br/></p></div></div></div></div><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><p>For this purpose, you can attribute thresholds for rioting as a percentage of the total number of protesters who are rioting (as proposed by Granovetter, 1978). If an individual’s threshold is 0%, then he or she will riot regardless of what others do; if the threshold is 100%, he or she will effectively not riot under any circumstances. For simplicity, assume each individual only has one motivation. Try to discuss at least three different individuals </p><p><strong>For example</strong>: Someone might attend a protest in order to capture video of it for a documentary. His or her rioting threshold would presumably be quite high (e.g., 85-95%).</p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538367,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443153,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538368,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for A1. Closure Moment - 1555573",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440510,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Activity Learning Goal</strong></h1><p>Identify ways in which network effects can lead to emergent behavior in social systems.</p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538368,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443154,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538369,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for A2. Introduction/Breakout Instructions - 1555578",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440511,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Activity Learning Goal</strong></h1><p>Recognize how identifying motivations can help to promote effective engagement in social systems.</p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538369,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443155,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538370,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for A2. Closure Moment w/ Poll - 1555582",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440512,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Activity Learning Goal</strong></h1><p>Recognize how identifying motivations can help to promote effective engagement in social systems.</p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538370,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443156,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538371,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for Session Summary - 1555584",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440513,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><p><strong>Unit 2:</strong> Agents</p><p><strong>Big Question: </strong>Why do people commit crimes?</p><p><strong>LOs: </strong></p><ul><li><strong>#behaviorexplanation:</strong> Analyze the relations among interacting motivating factors that shape behavior.</li><li><span style=\"color: rgb(10, 120, 191);\"><span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"emergentproperties\">﻿<span>#emergentproperties</span>﻿</span></span> - Identify emergent properties of complex systems and discern their causes. </li></ul><p><strong>Activity Learning Goals:</strong></p><ul><li>Identify ways in which network effects can lead to emergent behavior in social systems.</li><li>Recognize how identifying motivations can help to promote effective engagement in social systems.</li></ul></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538371,
+                "room-id": 777379,
+                "zoom": 1
+            },
+            {
+                "id": 1443157,
+                "created-on": "2022-02-15T01:04:09Z",
+                "is-breakout-group-notes": false,
+                "layout-mode": "presentation-vertical",
+                "order": 15,
+                "owner": null,
+                "owner-id": null,
+                "page": 1,
+                "preclass": false,
+                "precreated": true,
+                "resource": {
+                    "id": 1538372,
+                    "cocalc-path": null,
+                    "cocalc-project-id": null,
+                    "created-for-breakout-id": null,
+                    "external-id": null,
+                    "google-mimetype": null,
+                    "is-public": false,
+                    "mux-resource-details": null,
+                    "size": null,
+                    "status": null,
+                    "subtype": null,
+                    "thumbnail-url": null,
+                    "title": "Slide for Assignment Instructions - 1555587",
+                    "type": "html-slide",
+                    "uploader-id": null,
+                    "url": null,
+                    "whiteboard-controller-model-id": 440514,
+                    "html-slide-content": "<div class=\"html-slide-container-wrapper\"><div class=\"html-slide-root\"><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h1><strong>Recidivism Assignment</strong></h1><ul><li>800-1,000 words</li><li>Work in teams to answer a question about recidivism</li></ul><p><br/></p><p>Your paper should address ONE of the following research questions:</p><ul><li>Why are people with a high likelihood of recidivism released early from incarceration?</li><li>Why do people fail to change their criminal behaviors even after they have been repeatedly convicted?</li><li>Why have criminal justice systems failed (or have they?) to reduce the problem of recidivism?</li></ul></div></div></div></div><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><p>You must use at least 5 LOs in total:</p><ul><li>Both of the LOs that address core characteristics of complex systems: <span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"emergentproperties,\">﻿<span>#emergentproperties,</span>﻿</span> <span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"systemanalysis\">﻿<span>#systemanalysis</span>﻿</span> </li><li>In addition, you must connect your topic to all three of the LOs introduced in the Agents unit, namely #behaviorexplanation, <span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"purpose,\">﻿<span>#purpose,</span>﻿</span> <span class=\"hashtag\" data-source=\"outcome\" data-type=\"hashtag\" data-value=\"utility.\">﻿<span>#utility.</span>﻿</span> </li></ul></div></div></div></div><div class=\"html-slide-page-wrapper\"><div class=\"resizing-html-slide-page-wrapper\"><style>\n\n.ql-editor {\n  width: 100%;\n  font-size: 24px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.5;\n  background-color: #FFFFFF;\n}\n.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {\n  margin: 0 0 8px 0;\n}\n.ql-editor h1 {\n  font-size: 54px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.2222222222222223;\n}\n.ql-editor h2 {\n  font-size: 36px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h3 {\n  font-size: 27px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor h4 {\n  font-size: 21px;\n  font-family: \"Chronicle Deck\", serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h5 {\n  font-size: 21px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.4285714285714286;\n}\n.ql-editor h6 {\n  font-size: 18px;\n  font-family: \"Acumin Pro\", sans-serif;\n  font-weight: 400;\n  line-height: 1.3333333333333333;\n}\n.ql-editor code, .ql-editor pre {\n  font-size: inherit;\n  font-family: monospace;\n}\n.ql-editor em {\n  font-style: italic;\n}\n.ql-editor s {\n  text-decoration: line-through;\n}\n.ql-editor strong {\n  font-weight: bolder;\n}\n.ql-editor sub {\n  font-size: small;\n  vertical-align: sub;\n}\n.ql-editor sup {\n  font-size: small;\n  vertical-align: super;\n}\n.ql-editor u {\n  text-decoration: underline;\n}\n.ql-editor .hashtag {\n  color: #0A78BF;\n}</style><div class=\"ql-container ql-snow\"><div class=\"ql-editor\" data-gramm=\"false\" data-placeholder=\"Enter text...\"><h2><strong>Division of work</strong></h2><p>All team members should contribute to background research, and your overall paper should be the result of group consensus. Each team member should be responsible for explaining how the paper applies at least one of the LOs you have chosen. When submitting your paper, identify which students explained the application of which LOs. All students should review the entire paper and offer feedback. Each student will receive LO scores for the entire proposal, not just the work that he or she contributed. </p><p><br/></p><p><strong>You must use at least four sources</strong>, at least two must be <em>scholarly</em> sources and at least one should <em>not</em> be scholarly</p><p><br/></p><p><em>Please see the full assignment instructions for further information </em></p></div></div></div></div></div></div>"
+                },
+                "resource-id": 1538372,
+                "room-id": 777379,
+                "zoom": 1
+            }
+        ],
+        "room-users": [
+            {
+                "id": 2839042,
+                "ordering": 50661,
+                "room-id": 777379,
+                "user-id": 15216
+            },
+            {
+                "id": 2839043,
+                "ordering": 163902,
+                "room-id": 777379,
+                "user-id": 15396
+            },
+            {
+                "id": 2839044,
+                "ordering": 116954,
+                "room-id": 777379,
+                "user-id": 15492
+            },
+            {
+                "id": 2839045,
+                "ordering": 59345,
+                "room-id": 777379,
+                "user-id": 15189
+            },
+            {
+                "id": 2839046,
+                "ordering": 254139,
+                "room-id": 777379,
+                "user-id": 15367
+            },
+            {
+                "id": 2839047,
+                "ordering": 682084,
+                "room-id": 777379,
+                "user-id": 15487
+            },
+            {
+                "id": 2839048,
+                "ordering": 89176,
+                "room-id": 777379,
+                "user-id": 15383
+            },
+            {
+                "id": 2839049,
+                "ordering": 2657,
+                "room-id": 777379,
+                "user-id": 15217
+            },
+            {
+                "id": 2839050,
+                "ordering": 742001,
+                "room-id": 777379,
+                "user-id": 15502
+            },
+            {
+                "id": 2839051,
+                "ordering": 625709,
+                "room-id": 777379,
+                "user-id": 15386
+            },
+            {
+                "id": 2839052,
+                "ordering": 730992,
+                "room-id": 777379,
+                "user-id": 15746
+            },
+            {
+                "id": 2839053,
+                "ordering": 363473,
+                "room-id": 777379,
+                "user-id": 15200
+            },
+            {
+                "id": 2839054,
+                "ordering": 126541,
+                "room-id": 777379,
+                "user-id": 16987
+            },
+            {
+                "id": 2839055,
+                "ordering": 222357,
+                "room-id": 777379,
+                "user-id": 18152
+            },
+            {
+                "id": 2839056,
+                "ordering": 169356,
+                "room-id": 777379,
+                "user-id": 15376
+            },
+            {
+                "id": 2839057,
+                "ordering": 284953,
+                "room-id": 777379,
+                "user-id": 15378
+            },
+            {
+                "id": 2839058,
+                "ordering": 345776,
+                "room-id": 777379,
+                "user-id": 15353
+            },
+            {
+                "id": 2839059,
+                "ordering": 200899,
+                "room-id": 777379,
+                "user-id": 18156
+            },
+            {
+                "id": 2839060,
+                "ordering": 802204,
+                "room-id": 777379,
+                "user-id": 18158
+            },
+            {
+                "id": 2839061,
+                "ordering": 663187,
+                "room-id": 777379,
+                "user-id": 16684
+            },
+            {
+                "id": 2839062,
+                "ordering": 367710,
+                "room-id": 777379,
+                "user-id": 15379
+            },
+            {
+                "id": 2839063,
+                "ordering": 699209,
+                "room-id": 777379,
+                "user-id": 18162
+            }
+        ]
+    },
+    "section": {
+        "class-length": 90,
+        "class-times-spec": null,
+        "course": {
+            "id": 1090,
+            "college": 124,
+            "course-code": "IDS105",
+            "coursebuilder-id": 1668,
+            "description": "This course focuses on effective engagement in social systems. Students will examine social interaction through the lens of complex systems theory, which provides a powerful framework for understanding human behavior and group dynamics. Students learn to recognize that they are embedded within many different complex social systems, and they apply their understanding of these systems to analyzing and improving social interactions.",
+            "is-default": false,
+            "state": "available",
+            "syllabus": "https://course-resources.minervaproject.com/uploaded_files/production/00172217-6496/ids105-syllabus.pdf",
+            "term": {
+                "id": 170,
+                "end-date": "2022-04-30T15:00:00Z",
+                "start-date": "2022-01-01T15:00:00Z",
+                "title": "Spring 2022"
+            },
+            "title": "Systems and Society",
+            "type": "assessment-type"
+        },
+        "id": 1614,
+        "is-default": false,
+        "is-open": false,
+        "licode-group": "partners-india",
+        "num": 5,
+        "should-record-sessions": true,
+        "start-date-spec": "01/01/2022",
+        "start-times-of-classes": null,
+        "timezone": "America/Los_Angeles",
+        "title": "Systems and Society-501",
+        "use-public-resources": true
+    },
+    "settings-overrides": null,
+    "should-record-session": true,
+    "teacher-user-id": 16987,
+    "timeline": {
+        "id": 22143,
+        "klass-id": 22317,
+        "timeline-sections": [
+            {
+                "id": 288235,
+                "duration-in-seconds": 180,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847099,
+                        "details": {
+                            "course-builder-id": 441221,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Briefly introduce the class. \n",
+                                "focus-questions": [
+                                    {
+                                        "answer": "A threshold can be thought of as a point at which social motivations become the dominant factor in an individual’s decision making. Alternatively, arousal theory and instinct theory may also provide relevant explanations.",
+                                        "question": "What theories of motivation discussed in the previous lesson are relevant to Granovetter’s notion of a “threshold”?"
+                                    }
+                                ]
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "slide for lesson introduction - 1555492",
+                                    "type": "resource"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Lesson Introduction",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288235
+                    }
+                ],
+                "title": "Class Introduction"
+            },
+            {
+                "id": 288236,
+                "duration-in-seconds": 600,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847100,
+                        "details": {
+                            "course-builder-id": 441222,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.\n- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).\n- Poll + debrief should take 10 minutes in total.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "poll a",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll A",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847101,
+                        "details": {
+                            "course-builder-id": 441223,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Debrief by featuring some of the strongest answers.\n- Call on a student to comment on the answer that you feature.\n- Call on another student to answer the focus question.\n\n**Answer to Poll A:** An agent’s level of motivation to riot is part of what determines his or her threshold.\n\n**Follow-up**: What circumstances might cause a person at a protest with a low motivation to riot to do so anyway?\n\n**Answer to follow-up**: If almost everyone else at the protest were to riot, or if police were to use unjustified force.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "instance": "last",
+                                    "name": "poll a",
+                                    "type": "poll-result",
+                                    "instance-back": 0
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll A Debrief",
+                            "number-of-panes": 6
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847102,
+                        "details": {
+                            "course-builder-id": 441224,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.\n- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).\n- Poll + debrief should take 10 minutes in total.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "poll b",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll B",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847103,
+                        "details": {
+                            "course-builder-id": 441225,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Debrief by featuring some of the strongest answers.\n- Call on a student to comment on the answer that you feature.\n- Call on another student to answer the focus question.\n\n**Answer to Poll B**: Granovetter's model does allow a threshold to change, either in an absolute sense, such as by experience or learning, or in an effective sense, such as the context changing in such a way that it is effectively a different situation (and thus a different threshold). A person might join a peaceful protest with no intention of rioting (and thus a high threshold), but if police begin to attack protestors unprovoked, this person’s threshold may lower considerably (even if it is not automatically tripped). Or a person may have a low threshold for rioting in a low-risk situation where it is unlikely they will be caught, and a high threshold in contexts where there is a high risk of being caught.\n\n**Follow-up**: What circumstances might lead a person’s rioting threshold to be raised?\n\n**Answer to follow-up**: If the person is inspired by a powerful speech about the necessity for peaceful protest.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "instance": "last",
+                                    "name": "poll b",
+                                    "type": "poll-result",
+                                    "instance-back": 0
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll B Debrief",
+                            "number-of-panes": 6
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847104,
+                        "details": {
+                            "course-builder-id": 441226,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.\n- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).\n- Poll + debrief should take 10 minutes in total.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "poll c",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll C",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847105,
+                        "details": {
+                            "course-builder-id": 441227,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Debrief by featuring some of the strongest answers.\n- Call on a student to comment on the answer that you feature.\n- Call on another student to answer the focus question.\n\n**Answer to Poll C**: No - an individual’s motivation determines her threshold, but whether it is activated depends on external circumstances, such as the behaviors of police or other individuals.\n\n**Follow-up**: What circumstances might cause a person at a protest with a low motivation to riot to do so anyway?\n\n**Answer to follow-up**: If almost everyone else at the protest were to riot, or if police were to use unjustified force.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "instance": "last",
+                                    "name": "poll c",
+                                    "type": "poll-result",
+                                    "instance-back": 0
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll C Debrief",
+                            "number-of-panes": 6
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847106,
+                        "details": {
+                            "course-builder-id": 441228,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.\n- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in timeline).\n- Poll + debrief should take 10 minutes in total.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "poll d",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll D",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847107,
+                        "details": {
+                            "course-builder-id": 441229,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Debrief by featuring some of the strongest answers.\n- Call on a student to comment on the answer that you feature.\n- Call on another student to answer the focus question.\n\n**Answer to Poll D**: Beliefs about the acceptability of rioting partly determine an individual’s threshold, but don’t themselves activate it. Social ties to others who may or may not be participating in the rioting can strongly influence whether an individual’s threshold is activated.\n\n**Follow-up**: What circumstances might lead a person who believes that rioting is totally acceptable not to do so?\n\n**Answer to follow-up**: If none of the person’s friends were rioting, or if the police used extreme measures against those who become violet.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "instance": "last",
+                                    "name": "poll d",
+                                    "type": "poll-result",
+                                    "instance-back": 0
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Prep Poll D Debrief",
+                            "number-of-panes": 6
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    },
+                    {
+                        "id": 847108,
+                        "details": {
+                            "course-builder-id": 441230,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "The following question is important for their understanding going in to the Activities.  Address it here if not assigned as a poll (B). \n",
+                                "focus-questions": [
+                                    {
+                                        "answer": "**Answer: **A person might join a peaceful protest with no intention of rioting (and thus a high threshold), but if police begin to attack protestors unprovoked, this person’s threshold may lower considerably (even if it is not automatically tripped).  Granovetter highlighted two ways in which thresholds can change: first, through emotional shock/life experience etc (e.g. this could change an individual's motivation or underlying values, thus the associated threshold); second, if the utility cost/benefit calculation of the situation changes.  This can be akin to a different, context-dependent threshold taking precedence, for example Riot A has no police and lots of friends present (low threshold), Riot B has riot police present and all strangers (higher threshold).\n\n**Follow-up**: What circumstances might lead a person’s rioting threshold to be raised?\n\n**Answer to follow-up**: If the person is inspired by a powerful speech about the necessity for peaceful protest.\n",
+                                        "question": "In Granovetter's model, what could cause an individual's threshold for rioting behavior to change? Why?\n"
+                                    }
+                                ]
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Common Confusions: Review if Poll B not assigned. ",
+                            "number-of-panes": 8
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288236
+                    }
+                ],
+                "title": "Preparatory Assessment"
+            },
+            {
+                "id": 288237,
+                "duration-in-seconds": 2100,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847109,
+                        "details": {
+                            "course-builder-id": 441231,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Briefly describe the 1999 WTO demonstrations, now referred to as the \"Battle in Seattle,\" as an example of a case where protests turned into rioting.  You may wish to highlight that previous demonstrations had not resulted in this kind of outcome.   Stakeholders / protestors were from all kinds of background, including students and families, and represented various perspectives (some prioritizing environmental concerns, others labor, etc).  You may wish the use the slides to illustrate how this played out over time (e.g. from marching to violence).  Summary from National Geographic, below:\n\n​\n\n > \"On November 30, 1999, more than 40,000 protesters forced the cancellation of opening ceremonies of the World Trade Organization (WTO) Ministerial Conference being held in Seattle, Washington. The conflict earned the nickname the 'Battle in Seattle.'\n\n > \"The protests were led by anti-globalization advocates. The anti-globalization movement opposes what it interprets as the unregulated power of multinational corporations. Protesters think that through free trade agreements and organizations such as the World Bank and the International Monetary Fund (IMF), companies are able to reduce labor, environmental, and safety standards. Critics also think free-trade slows the operation of a free-market economy.\n\n > \"Although the anti-globalization movement had organized protests at meetings of the World Bank and IMF for more than a decade, police and WTO organizers were unprepared for the scale of the protests in Seattle. Protesters broke windows and looted the retail outlets of many multinational corporations, such as Starbucks, Bank of America, and Banana Republic. The conflict caused millions of dollars in damage before troops from the National Guard and neighboring police units ended the protests and the WTO meeting continued as planned.\"\n\nRetrieved from: [https://www.nationalgeographic.org/thisday/nov30/battle-seattle/](https://www.nationalgeographic.org/thisday/nov30/battle-seattle/)\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "battle of seattle",
+                                    "type": "resource"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Introduction",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847110,
+                        "details": {
+                            "course-builder-id": 441232,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Explain the breakout activity to students. \n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "slide for a1. breakout instructions - 1612399",
+                                    "type": "resource"
+                                },
+                                {
+                                    "name": "slide for a1. breakout instructions - 1555536",
+                                    "type": "resource"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Breakout Instructions",
+                            "number-of-panes": 2
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847111,
+                        "details": {
+                            "course-builder-id": 441234,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [The correct answer is choice A; B is around the same levels as journalists, which seems implausible; C is implausible, unless the activists are extremely angry].\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "activists",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 1",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847112,
+                        "details": {
+                            "breakout": "Motivations and Thresholds",
+                            "course-builder-id": 441233,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Ensure students in each group are discussing their responses and contributing equally.\n- If students seem quiet, confused, or off task, join their group to help get them back on track.\n- Take note (using the pin feature) of groups that had a particularly interesting discussion to follow up in the debrief.\n\nRecommend that they consider the number of agents and think about including at least one low and one high threshold agent into the mix. Encourage them to fill out the table completely in 10 minutes and then consider how the motivations of the agents described could lead to different behaviors in different scenarios.\n",
+                                "focus-questions": []
+                            },
+                            "op": "breakout",
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Breakouts",
+                            "name": "motivations and thresholds"
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847113,
+                        "details": {
+                            "course-builder-id": 441235,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [The correct answer is A. The politicians are motivated to calm the situation, so their thresholds are quite high].\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "politicians",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 2",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847114,
+                        "details": {
+                            "course-builder-id": 441236,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [The correct answer is B: they will be unlikely to leave the protest and likely to give tributes or speeches]. \n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "close relatives/friends of a protester hurt by police",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 3",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847115,
+                        "details": {
+                            "course-builder-id": 441237,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [The correct answer is C: She is unlikely to loot or destroy property, but is slightly more likely to engage in violence to protect her children against police or rioters].\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "bystander mother and her young children",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 4",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847116,
+                        "details": {
+                            "course-builder-id": 441238,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [The correct answer is B, since they are probably most likely to loot big businesses, although actual violence may be less likely]. \n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "radical student activists",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 5",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847117,
+                        "details": {
+                            "course-builder-id": 441239,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [We can understand rioting as an emergent property at the level of the group].\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "emergence",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 6",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847118,
+                        "details": {
+                            "course-builder-id": 441240,
+                            "notes": {
+                                "engagement-prompt": "Tell students to pay attention to … because they will need this information in order to … \\[do a subsequent task\\]",
+                                "faculty-instructions": "- Give students 1 minute or so to answer the poll.\n- [Optional: Show the poll answers to the students].\n- Call on students until they give you the right answer, and then have that student justify their answer. [As an example, random differences in the visibility of other rioters might determine whether or not large-scale rioting occurs].\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "randomness",
+                                    "type": "poll"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                },
+                                {
+                                    "type": "random-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Poll 7",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    },
+                    {
+                        "id": 847119,
+                        "details": {
+                            "course-builder-id": 441241,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Call on a student to answer the focus question.",
+                                "focus-questions": [
+                                    {
+                                        "answer": "- Threshold estimates are guesses, but this could be studied empirically;\n- instead of averaging across motivations we could represent each agent individually;\n- instead of basing predictions on intuitions about combinations of agents we could design a real model and calculate the number of thresholds exceeded in a given scenario.\n",
+                                        "question": "What are some shortcomings of making predictions about group behavior in the way we have done for this exercise, and how could the approach be improved?\n"
+                                    }
+                                ]
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "slide for a1. closure moment - 1555573",
+                                    "type": "resource"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "quiet-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A1. Closure Moment",
+                            "number-of-panes": 3
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288237
+                    }
+                ],
+                "title": "Activity 1: Motivations and Thresholds"
+            },
+            {
+                "id": 288238,
+                "duration-in-seconds": 60,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847120,
+                        "details": {
+                            "course-builder-id": 441242,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Take a one-minute eye rest break. \n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "baltimore-and-ohio-employees-magazine - 1912.pdf",
+                                    "type": "resource"
+                                }
+                            ],
+                            "participant-filter": "",
+                            "title": "Eye Rest Break",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288238
+                    }
+                ],
+                "title": "Eye Rest Break"
+            },
+            {
+                "id": 288239,
+                "duration-in-seconds": 1200,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847121,
+                        "details": {
+                            "course-builder-id": 441243,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Inform students that the purpose of this activity is **not** to debate perspectives on the Baltimore riots or the effectiveness of various crowd control techniques (which they are encouraged to discuss outside of class) but rather to apply Granovetter’s ideas about thresholds to deepen their understanding of behavior explanation in the context of complex systems, and emphasizing a #systemanalysis perspective for the evolution of group behavior in a crowd containing individuals with different motivations and thresholds for rioting.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "name": "slide for a2. introduction/breakout instructions - 1555578",
+                                    "type": "resource"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A2. Introduction/Breakout Instructions",
+                            "number-of-panes": 2
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288239
+                    },
+                    {
+                        "id": 847122,
+                        "details": {
+                            "course-builder-id": 441244,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Tell students to paste their intervention proposal into the poll.",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "pre-class work poll",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A2. Pre-class Work Poll",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288239
+                    },
+                    {
+                        "id": 847123,
+                        "details": {
+                            "breakout": "Act-2",
+                            "course-builder-id": 441245,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Ensure students in each group are discussing their responses and contributing equally.\n- If students seem quiet, confused, or off task, join their group to help get them back on track.\n",
+                                "focus-questions": []
+                            },
+                            "op": "breakout",
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A2. Breakouts",
+                            "name": "act-2"
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288239
+                    },
+                    {
+                        "id": 847124,
+                        "details": {
+                            "course-builder-id": 441246,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Call on students to answer the focus questions below.  After students answer the poll, call on 1-2 to explain their answers.\n",
+                                "focus-questions": [
+                                    {
+                                        "answer": "Interventions can alter the motivations that drive a person’s decision making, which in turn can raise or lower their threshold for engaging in a particular behavior. \n",
+                                        "question": "How does thinking about interventions in a social system in terms of thresholds relate to #behaviorexplanation?\n"
+                                    },
+                                    {
+                                        "answer": "[After the poll] Identifying the motivations of individuals makes it possible to determine which interventions might prevent their threshold for an unwanted behavior from being triggered.\n",
+                                        "question": "[After the poll] How can thinking about motivations in terms of thresholds help one to decide on an effective intervention?\n"
+                                    }
+                                ]
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "closure poll",
+                                    "type": "poll"
+                                },
+                                {
+                                    "name": "slide for a2. closure moment w/ poll - 1555582",
+                                    "type": "resource"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "A2. Closure Moment w/ Poll",
+                            "number-of-panes": 2
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288239
+                    }
+                ],
+                "title": "Activity 2: Engaging Motivation"
+            },
+            {
+                "id": 288240,
+                "duration-in-seconds": 480,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847125,
+                        "details": {
+                            "course-builder-id": 441247,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "- Give students approximately four to five minutes to complete the reflection poll.\n- (Optional) Debrief by highlighting 1 - 2 strong responses.\n\nExamples will vary, but the basic idea is that whether an individual’s motivation prompts him or her to exhibit a particular behavior depends in part of social motives, which can be represented by the notion of a threshold.\n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "reflection poll",
+                                    "type": "poll"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Reflection Poll",
+                            "number-of-panes": 1
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288240
+                    },
+                    {
+                        "id": 847126,
+                        "details": {
+                            "course-builder-id": 441248,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Call on several students to summarize the take-home message of this lesson.\n\n**Summary**: Whether an agent engages in a particular behavior that he or she has some motivation to pursue often depends on the behavior of others. Threshold models of social systems, such as the one proposed by Granovetter, make it possible to predict group behavior more accurately, particularly if the model is based on observations of real agents, is sufficiently detailed, and is rigorously applied. Moreover, reflecting on such models can help one to determine interventions that might improve the overall functioning of the social system, such as by preventing rioting, for example.",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "slide for session summary - 1555584",
+                                    "type": "resource"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "quiet-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Session Summary",
+                            "number-of-panes": 3
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288240
+                    }
+                ],
+                "title": "Wrap-Up"
+            },
+            {
+                "id": 288241,
+                "duration-in-seconds": 180,
+                "timeline-id": 22143,
+                "timeline-segments": [
+                    {
+                        "id": 847127,
+                        "details": {
+                            "course-builder-id": 441249,
+                            "notes": {
+                                "engagement-prompt": "",
+                                "faculty-instructions": "Explain the upcoming assignment to students and answer any questions that they raise about the project. \n",
+                                "focus-questions": []
+                            },
+                            "op": "layout",
+                            "panes": [
+                                {
+                                    "name": "slide for assignment instructions - 1555587",
+                                    "type": "resource"
+                                },
+                                {
+                                    "type": "teacher"
+                                },
+                                {
+                                    "type": "quiet-student"
+                                },
+                                {
+                                    "type": "quiet-student"
+                                },
+                                {
+                                    "type": "quiet-student"
+                                }
+                            ],
+                            "participant-filter": "lowest_filter_count",
+                            "title": "Assignment Instructions",
+                            "number-of-panes": 5
+                        },
+                        "status": "upcoming",
+                        "timeline-section-id": 288241
+                    }
+                ],
+                "title": "Assignment Introduction"
+            }
+        ]
+    },
+    "title": "IDS105 Session 10 - Emergent Social Behavior",
+    "updated-on": "2022-02-15T01:04:10Z",
+    "use-fabric-whiteboards": true,
+    "is-offline": false,
+    "breakouts": [
+        {
+            "id": 88694,
+            "breakout-sessions": [],
+            "default-resource-desc": "{\"type\": \"copy\", \"id\": 1538364}",
+            "duration-in-seconds": 600,
+            "group-specific-resource-descs": null,
+            "grouping": "groups-of:3",
+            "klass-id": 22317,
+            "sorting": "",
+            "title": "Motivations and Thresholds"
+        },
+        {
+            "id": 88695,
+            "breakout-sessions": [],
+            "default-resource-desc": "{\"type\": \"copy\", \"id\": 1538363}",
+            "duration-in-seconds": 720,
+            "group-specific-resource-descs": null,
+            "grouping": "groups-of:3",
+            "klass-id": 22317,
+            "sorting": "",
+            "title": "Act-2"
+        }
+    ]
+}

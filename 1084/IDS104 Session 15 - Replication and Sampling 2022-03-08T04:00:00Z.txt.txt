@@ -1,0 +1,1159 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+A researcher observes that a bee colony treated with a fungicide has more Nosema spores (a small fungal parasite that affects bees) per bee than does an untreated colony. A colleague decides to repeat the study with the same fungicide and a larger sample size. His lab works with a different species of honey bee that is susceptible to Nosema as well and has had recurrent outbreaks. Is this a replication? Why or why not?
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+A researcher studying disease in bee colonies observes that in a colony treated with a fungicide, the average number of Nosema spores (a small fungal parasite that affects bees) per bee is significantly higher than in an untreated colony. Identify one problem with this study in terms of sampling. Propose a solution to that problem and explain.
+
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+When we observe a difference in results between a replication and an original study, how should we decide which is correct? Provide one example and explain.
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+Study replications are typically done to assess: 1) the validity of a study and 2) the generalizability of the study’s results. How well do conceptual replications assess each of these aspects? Explain.
+
+
+------------------------------------------
+
+Sampling examples
+
+none
+
+What type of sampling is your classmate describing?
+
+ - Stratified
+ - Simple random
+ - Convenience
+ - Cluster
+ - Systematic
+------------------------------------------
+
+Replication examples
+
+none
+
+What type of replication is your classmate describing?
+
+ - Stratified
+ - Simple random
+ - Convenience
+ - Cluster
+ - Systematic
+------------------------------------------
+
+Extension hypothesis
+
+outcome
+
+Flawed sampling is a common reason why study replications do not reproduce the original study's results. If our replications we created in the breakout show that the finding of Snell-Rood and Wick (2013) is valid and generalizable, then we can confidently propose a follow-up hypothesis to extend on the findings. Propose a hypothesis that extends upon the original study's hypothesis that growth and development of human communities causes natural selection that produces evolutionary change in brain size in small mammals.
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+What moment in class best illustrated the importance of effective study replication? Explain.
+
+​
+
+​
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce the session.
+- Prompt students to read the first new LO, #sampling, (on SLIDE 2) and ask the relevant focus questions.
+- Prompt students to read the second new LO, #studyreplication, (on SLIDE 3) and ask the relevant focus questions.
+
+   1. SLIDE 2: What is meant by “sampling”?
+    The technique used to subsample from a target population, and analysis of how that may affect the conclusions one can draw from the study. ,   2. SLIDE 3: What is meant by “study replication”?
+
+_Follow-up_: Is replication the same as “reproducible”? Why or why not?
+
+    Repeating a study to test the robustness of the results (i.e., do you get the same results when replicated?).
+
+_Follow-up_: The difference is in the results of the replication:
+
+- Replication is the process of repeating of a study; results could verify the original study or not.
+- Reproducible means that the results of the replication are very similar to the original study.
+- However, “replicated” typically means that the results of a study have been verified.
+- **Note**: one take-home is to be precise with language!
+,   3. Clarify the difference between sampling and study replication.
+
+    Sampling is how one subsamples the target population as part of the study design. Replication is repeating a study in its entirety to test the robustness of the results.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+This would be a replication, because the second researcher is repeating the study to look at the same relationship between the fungicide treatment and the number of Nosema spores per bee.
+
+**Follow-up:**
+
+- If so, what type of replication is this?
+- Will this work contribute to the understanding of this system?
+
+_Follow-up Answers:_
+
+- Because the colleague is using a different species of honey bee this is most similar to a partial quasi-replication.
+- Yes, the second study will broaden the generalizability of the first because it examines whether the results of the first are applicable to another species.
+
+**Note**: May be of interest to discuss the difficulty of assigning a study to one of the categories suggested by Nakagawa and Parker (2015). Reinforce that there are blurred lines between these categories, but they provide a general idea of how a replication might test the validity and generalizability of the original study.
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+This would be a replication, because the second researcher is repeating the study to look at the same relationship between the fungicide treatment and the number of Nosema spores per bee.
+
+**Follow-up:**
+
+- If so, what type of replication is this?
+- Will this work contribute to the understanding of this system?
+
+_Follow-up Answers:_
+
+- Because the colleague is using a different species of honey bee this is most similar to a partial quasi-replication.
+- Yes, the second study will broaden the generalizability of the first because it examines whether the results of the first are applicable to another species.
+
+**Note**: May be of interest to discuss the difficulty of assigning a study to one of the categories suggested by Nakagawa and Parker (2015). Reinforce that there are blurred lines between these categories, but they provide a general idea of how a replication might test the validity and generalizability of the original study.
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+**Some possible answers:**
+
+- This research study has a very small sample size (two colonies). The researcher should add more colonies into the study to provide more robust conclusions.
+- The study subjects were not randomized to a treatment, and therefore it could be that the colony treated with the fungicide has had chronic Nosema problems and the other colony has not had chronic infections.
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+**Some possible answers:**
+
+- This research study has a very small sample size (two colonies). The researcher should add more colonies into the study to provide more robust conclusions.
+- The study subjects were not randomized to a treatment, and therefore it could be that the colony treated with the fungicide has had chronic Nosema problems and the other colony has not had chronic infections.
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+One possible answer (the best answer): We should treat the difference between an original study and the replication as a problem to be solved--not (yet) as a conclusive statement about the validity of either study. Study 2 didn’t “fail to replicate” Study 1; rather, Studies 1 and 2 produced different results and we now need to figure out what caused that difference. Additional replications can provide that information (e.g., zebra finch example from Nakagawa and Parker (2015)).
+
+**Note: **Some students might note that sometimes the flaws in one or the other study can suggest which study might provide the more valid results, and this is true as well. But in general, more research will have to be done.
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+One possible answer (the best answer): We should treat the difference between an original study and the replication as a problem to be solved--not (yet) as a conclusive statement about the validity of either study. Study 2 didn’t “fail to replicate” Study 1; rather, Studies 1 and 2 produced different results and we now need to figure out what caused that difference. Additional replications can provide that information (e.g., zebra finch example from Nakagawa and Parker (2015)).
+
+**Note: **Some students might note that sometimes the flaws in one or the other study can suggest which study might provide the more valid results, and this is true as well. But in general, more research will have to be done.
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+Conceptual replications are “poor” at testing the validity of the study, because they may use different species or different methods (e.g., experimental versus observational). But, conceptual replications are extremely good at assessing the generalizability of a study’s results.
+
+**Follow-up:**
+
+- What about close replication?
+- A partial replication?
+
+_Follow-up answers_:
+
+- Close replications assess the validity of a study, but do not assess the generalizability.
+- Partial replications can assess both, but are relatively narrow in scope, so the generalizability will not be broad. A partial replication may correct some methodological flaws or may use a different, but related species to assess validity.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+Conceptual replications are “poor” at testing the validity of the study, because they may use different species or different methods (e.g., experimental versus observational). But, conceptual replications are extremely good at assessing the generalizability of a study’s results.
+
+**Follow-up:**
+
+- What about close replication?
+- A partial replication?
+
+_Follow-up answers_:
+
+- Close replications assess the validity of a study, but do not assess the generalizability.
+- Partial replications can assess both, but are relatively narrow in scope, so the generalizability will not be broad. A partial replication may correct some methodological flaws or may use a different, but related species to assess validity.
+
+
+----------------------------------------
+
+10.
+Briefly introduce this activity and explain what students will do in breakouts.
+
+​
+
+
+----------------------------------------
+
+11.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+
+----------------------------------------
+
+12.
+- Tell students to read the instructions.
+- Ask a student what they'll do if they're chosen to present. Clarify for them as appropriate.
+
+
+----------------------------------------
+
+13.
+NOTE: Go back and forth between this step and the next one to go over student examples generated in the breakouts. Plan to spend ~2 minutes on each example so you can go through a couple examples of sampling and replication.
+
+- Call on a student onstage (or pull in a particular student) to present their example of a type of sampling.
+- End the poll and then tell the presenting student to talk to their classmates on stage to see if everyone understands why the example represents the particular type of sampling.
+- Provide clarity as needed, and cut off unproductive discussion as necessary to make sure you get to a few examples.
+
+
+----------------------------------------
+
+14.
+NOTE: Go back and forth between this step and the previous one to go over student examples generated in the breakouts. Plan to spend ~2 minutes on each example so you can go through a couple examples of sampling and replication.
+
+- Call on a student onstage (or pull in a particular student) to present their example of a type of replication.
+- End the poll and then tell the presenting student to talk to their classmates on stage to see if everyone understands why the example represents the particular type of replication.
+- Provide clarity as needed, and cut off unproductive discussion as necessary to make sure you get to a few examples.
+- NOTE: For replication, do not spend unproductive time in the "gray area" at the border of different replication types. That precision is not necessary, but rather a general understanding of the characteristics of different replication types and what they are used for is important (e.g., better for determining validity or generalizability of original study).
+
+
+----------------------------------------
+
+15.
+- Use the two focus questions to provide a closure on the activity.
+
+   1. What distinction between two types of sampling did you learn through this activity?
+
+    Student generated answers (take note during the discussion for what should be highlighted).
+,   2. What are the goals of replication, and how do different types of replication achieve those goals?
+
+    The goals of replication are to determine whether an original finding is valid (holds up in a repeated test so that we can trust the original result is actually true; close and partial replications help with this) and generalizable (holds up in other situations so we can trust that the result doesn't just apply to the narrow case of the original result; conceptual and quasi-replications help with this).
+
+----------------------------------------
+
+16.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+17.
+- Introduce the learning goal and breakout scenario.
+- Tell students that odd numbered groups will design a partial replication and even numbered groups will create a conceptual replication.
+
+
+----------------------------------------
+
+18.
+- Pay attention to what groups add into the doc so that you can know what to highlight in the debrief. 
+- Take notes on ones that you would like to focus on, which could be useful for the debrief.
+
+
+----------------------------------------
+
+19.
+NOTE: This step focuses on the replication type and the next focuses on sampling, but you can toggle between them to bring new students onstage to discuss additional examples. Total of 12 minutes for this debrief. 
+
+- Tell the six students on stage to add their group's "Description of study design" to the correct cell of the table. (If two group members are both on stage, then only one needs to add to the doc.)
+    - Tell students not on stage to read what students added to the document and think of whether the example is a partial or conceptual replication.
+- Choose one study description to focus on.
+    - Highlight the description and tell students to mark a check if they think the replication is a partial replication or X if it is a conceptual replication.
+    - Call on the "owner" of the description to explain whether their classmates were correct or not.
+    - Call on another student to ask whether the replication will help determine the validity or generalizability of the original finding. Tell students this evaluation is more important than the distinction between exact/partial/conceptual (though the distinction of replication type aids the evaluation of what it does).
+- Repeat as time allows (you can also come back to this step after the sampling step).
+
+
+----------------------------------------
+
+20.
+- Tell the six students on stage to add their group's sampling description. (If two group members are both on stage, then only one needs to add to the doc.) Tell students to add to the same group line as their group if possible, otherwise take one of the additional rows.
+    - Tell students not on stage to read what's added to the document and think of what type of sampling is described.
+- Choose one sampling plan to focus on (your notes during the breakout will be helpful).
+    - Highlight the description and tell students to mark an emoji for the type of sampling they think it is. (It's probably best to focus on three, e.g., smile for simple random sampling, snap for convenience sampling, laugh for cluster sampling)
+    - Call on the "owner" of the description to explain whether their classmates were correct or not.
+    - Call on another student to ask whether the sampling method is sufficient for the study or needs to be improved.
+- Repeat as time allows (you can also come back to this step after repeating the replication step).
+
+
+----------------------------------------
+
+21.
+- If time allows, run this poll as a way to practice #hypothesisdevelopment, and also emphasize the use of replications as a way to ensure that science progresses from strong foundations.
+- Give students four minutes to read the material and propose a hypothesis.
+- Feature a strong hypothesis if there is one worth highlighting.
+- Whether there is a strong hypothesis or not, make the point that it doesn't matter how good your hypothesis is if it is based on a faulty finding.
+
+
+----------------------------------------
+
+22.
+- Call on 1-2 students to identify a take-home message for this activity.
+    - Sample take-home: Proper sampling and replication are required to ensure that the foundation of science is solid.
+- Ask the focus question.
+
+   1. (Optional) How can confirmation bias be minimized in replication studies?
+
+    One possible answer: Have a strict research plan, including analysis methods, to minimize being biased from previous results. 
+----------------------------------------
+
+23.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+24.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+25.
+- Call on 1-2 students to provide a take-home from this session.
+- Summarize the following take-home in your own words: **Replication of studies is an integral part of the scientific method. One reason that replications are particularly important is to correct flaws in research design, especially those associated with biased sampling that results in errors. Another reason is to ensure the generalizability of the results**.
+
+   1. An effective sampling strategy captures a true signal with fewer data points. How is this concept relevant to study replications? 
+
+    Replications can be seen as individual samples of a large phenomenon, and we want to design them to represent that phenomenon in as unbiased way as possible and have a clear signal with fewer data points. 
+
+
+===================RESOURCES===================
+
+SLIDE Snell-Rood and Wick 2013 Figure 3
+https://course-resources.minervaproject.com/uploaded_files/production/00026375-9128/deriving-insights-8.1---snell-rood-and-wick-2013-figure-3.pdf
+null
+
+--------------------------------------------
+
+SLIDE Nakagawa and Parker Quote
+https://course-resources.minervaproject.com/uploaded_files/production/00026376-8090/deriving-insights-8.1---nakagawa-and-parker-quote.pdf
+null
+
+--------------------------------------------
+
+Study Evaluation
+https://docs.google.com/document/d/1UUExGnSnbP81TonrcjatwA1Tuy0zbb9jKa-dWuENvCo/edit
+null
+
+--------------------------------------------
+
+Activity 2 Debrief
+https://docs.google.com/document/d/1ZHHaM5mQr7XrgGE0ge2EHgMAh6Yis2JJMnN25ctiPvQ/edit
+null
+
+--------------------------------------------
+
+[template] NOTES Activity 1: Examples of Sampling and Replication Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/858853d4-e394-4199-ad2d-4286bc81b533/
+null
+
+--------------------------------------------
+
+[template] NOTES Partial Replication Breakout 
+https://sle-authoring.minervaproject.com/api/v1/worksheets/4a547349-3e08-4ad2-bbba-1fe89863eb20/
+null
+
+--------------------------------------------
+
+[template] NOTES Conceptual Replication Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/d1e39b78-669c-4c77-813f-a505e996c4fc/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction  - 1552915
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution?</p><p><strong>LOs:</strong> </p><ul><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="studyreplication">﻿<span>#studyreplication</span>﻿</span> - <strong> </strong>Evaluate and incorporate replicability in empirical study designs.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span> - </span>Design effective sampling methods and evaluate the interpretation of results accordingly.</li></ul><p><strong>Activity Learning Goals:</strong></p><ul><li>Master key concepts regarding study replication and sampling in scientific research.</li><li>Learn to design a replication study. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span> -</strong> <strong>Design effective sampling methods and evaluate the interpretation of results accordingly.</strong> </p><h6><br/></h6><p>Many studies require assessing characteristics of samples in order to estimate those characteristics of the corresponding populations (e.g., one might measure a group of seventh grade boys in order to estimate how tall such boys are in general). However, taking a sample inherently risks having an inaccurate representation of the distribution of characteristics within the greater target population. Appropriate methods must be used to sample the target population and evaluate the generalizability of that sample. </p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="studyreplication">﻿<span>#studyreplication</span>﻿</span> - Evaluate and incorporate replicability in empirical study designs.</strong> </p><h6><br/></h6><p>For scientific results to be accepted as well-established they must be reproducible. To determine how broadly applicable the conclusions are, one can replicate the experiment in a variety of contexts (e.g., different experimental subjects, different scales, different researchers). When the results of an empirical study cannot be replicated, this can indicate that the conclusions drawn are incorrect, that the methods of testing are insufficient, or that an attempted replication may have not accurately replicated the study (e.g., may have conceptually, but not technically replicated the methodology of the study).</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Introduction/Breakout Instructions - 1552949
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Master key concepts regarding study replication and sampling in scientific research.</p><h6><br/></h6><h1>Breakout Instructions </h1><ul><li>Create two novel examples (i.e., not from the readings) for types of sampling and replication that we can use in a game in class. </li><li>Do not use the concept terms in your example because other students will have to guess what your example illustrates. </li><li>Type a brief version you can present in the main class.  </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Debrief Instructions - 1552951
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>You be the teacher!</h1><h6><br/></h6><p>One by one, a few students will be called upon to present their examples (REMEMBER! Don't say the name of the concept your example describes).</p><p><br/></p><p>As the student presents their example, other students will answer a poll marking which concept they think the example.</p><p><br/></p><p>Then the presenting student will lead a short discussion asking their classmates why they answered how they did, providing clarification on the right answer.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1: Closure Moment - 1552972
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Master key concepts regarding study replication and sampling in scientific research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Introduction/Breakout Instructions - 1552986
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Learn to design a replication study.</p><p><br/></p></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2: Closure Moment - 1553004
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Learn to design a replication study.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1553016
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution?</p><p><strong>LOs:</strong> </p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="studyreplication">﻿<span>#studyreplication</span>﻿</span></span> - <strong> </strong>Evaluate and incorporate replicability in empirical study designs.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span> - </span>Design effective sampling methods and evaluate the interpretation of results accordingly.</li></ul><p><strong>Activity Learning Goals:</strong></p><ul><li>Master key concepts regarding study replication and sampling in scientific research.</li><li>Learn to design a replication study. </li></ul></div></div></div></div></div></div>

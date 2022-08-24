@@ -1,0 +1,1285 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Because you do not typically randomize subjects in an observational study, how can you minimize bias and confounds that may result? Explain using an example. 
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+You are part of a research team that is following a group of college students during their first year to explore the time spent studying and how that reflects on the student’s grades. What type of observational study is this? Explain why and what kinds of conclusions they can draw.
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+When deciding whether to use an observational or experimental approach, what are some constraints that may help to make the decision? Provide at least one example and explain how it might direct your choice.
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+In experimental designs, the difference between the groups (the treatment and control) provides the basis for conclusions. What is an example of what is being measured or compared in an observational study in order to draw conclusions? Explain. 
+
+------------------------------------------
+
+Replication
+
+outcome
+
+If you constructed an observational study in different parts of the ocean testing whether coccolithophores evolved resistance to higher CO2 levels in the water, would your #studyreplication address the validity of the original study's result or the generalizability?
+
+ - Validity
+ - Generalizability
+------------------------------------------
+
+Control groups
+
+outcome
+
+If you constructed an observational study in different parts of the ocean testing whether coccolithophores evolved resistance to higher CO2 levels in the water, how might you include a control group?
+
+
+------------------------------------------
+
+Observational Design Type 1
+
+outcome
+
+What type of observational study design does this 
+
+ - Observational case-control study
+ - Observational cohort study
+ - Observational cross-sectional study
+------------------------------------------
+
+Observational Design Type 2
+
+outcome
+
+What type of observational study design does this 
+
+ - Observational case-control study
+ - Observational cohort study
+ - Observational cross-sectional study
+------------------------------------------
+
+Case-control
+
+outcome
+
+Using the observational case-control framework, write up a brief overview of a study you might like to do. The topic could involve a professional interest (e.g., business, medicine) or personal interest (e.g., sports, music). 
+
+
+------------------------------------------
+
+Comparison Poll
+
+outcome
+
+Highlight one key similarity and one key difference between the criteria for interventional and observational studies your group created.
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+What is one criteria that we identified in the second activity that provides insight on the observational study we created in the first activity? Explain.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Start class by asking the focus questions
+- See if students have any questions (often there is confusion between retrospective case-control and cohort studies; the key distinction is that for a case-control study one selection participants according to values of the dependent variable, such as having a disease or not).
+
+   1. What is meant by “measurements must be careful, systematic, and unbiased”?
+    What is highlighted in this statement is that the study should be designed so that bias is minimized. Typically this will involve systematic sampling, no pseudoreplication, and blinding when appropriate and possible.,   2. What are some of the “different observational study designs”?
+    Some examples are cohort, cross-sectional, and case-control studies.,   3. What are some of the key strengths of observational studies?
+
+    Student-provided answers. Repeat as time allows to draw out a few examples.
+
+​
+
+Observational studies:
+
+- assess multiple scales in a way that an experiment might not
+- allow "far more openness in data assimilation than do controlled experiments"
+- work in situations where manipulations are impossible (e.g., cannot change plate speed to test plate tectonic theory)
+- can complement experiments and be used to assess the validity of models
+- Data can come from anywhere (e.g., the gambling contest in Alaska that became data) 
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline).
+- Poll + debrief should take 10 minutes in total.
+
+​
+
+**Answer to Poll A:**
+
+**Some possible answers:**
+
+- You can stratify your analysis by subgroups so that subjects within a subgroup share a characteristic, and each subgroup is analysed separately.
+- Restrict the study population to those with a specific value of the suspected confound.
+- Another possible answer is using multivariate techniques in analysis, but students may not have been exposed to this yet.
+
+\ **Follow-up:** When might you randomize subjects in an observational study?
+
+(Answer: You might randomize which subjects you are going to measure if you cannot measure all of them. For example, you might have 56 ponds that fit your criteria, but you will only have time to evaluate 15. You might give every pond a number and use a random number generator to choose which ponds to study.)
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll A:**
+
+**Some possible answers:**
+
+- You can stratify your analysis by subgroups so that subjects within a subgroup share a characteristic, and each subgroup is analysed separately.
+- Restrict the study population to those with a specific value of the suspected confound.
+- Another possible answer is using multivariate techniques in analysis, but students may not have been exposed to this yet.
+
+\ **Follow-up:** When might you randomize subjects in an observational study?(Answer: You might randomize which subjects you are going to measure if you cannot measure all of them. For example, you might have 56 ponds that fit your criteria, but you will only have time to evaluate 15. You might give every pond a number and use a random number generator to choose which ponds to study.)
+
+
+----------------------------------------
+
+4.
+1) You will only have students answer one of these polls. Work with your teaching team to decide which poll you will use for your section.
+
+2) Prompt students to answer the poll, giving 4-5 minutes for them to answer and then 4-5 minutes for the debrief.
+
+​
+
+**Answer to Poll B:**
+
+Cohort study. The researchers are following the students through their first year to correlate the amount of time spent studying with academic grades. The researchers will not be able to demonstrate causation.
+
+**Follow-up:**
+
+- What biases might this be subject to?
+- Are there other methods by which you could explore this same hypothesis?
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll B:**
+
+Cohort study. The researchers are following the students through their first year to correlate the amount of time spent studying with academic grades. The researchers will not be able to demonstrate causation.
+
+​
+
+**Follow-up:**
+
+- What biases might this be subject to?
+- Are there other methods by which you could explore this same hypothesis?
+
+
+----------------------------------------
+
+6.
+1) You will only have students answer one of these polls. Work with your teaching team to decide which poll you will use for your section.
+
+2) Prompt students to answer the poll, giving 4-5 minutes for them to answer and then 4-5 minutes for the debrief.
+
+​
+
+**Answer to Poll C:**
+
+Some constraints might be:
+
+- The research question and desired results (e.g., causality required?)
+- Availability of resources (time, funding, people)
+- Ethical considerations
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll C:**
+
+Some constraints might be:
+
+- The research question and desired results (e.g., causality required?)
+- Availability of resources (time, funding, people)
+- Ethical considerations
+
+
+----------------------------------------
+
+8.
+1) You will only have students answer one of these polls. Work with your teaching team to decide which poll you will use for your section.
+
+2) Prompt students to answer the poll, giving 4-5 minutes for them to answer and then 4-5 minutes for the debrief.
+
+​
+
+**Answer to Poll D:**
+
+Some possible answers that describe the association between exposure and outcome and provide the basis for the study’s conclusions:
+
+- Frequency of an outcome or\ an exposure (e.g., risks, rates, prevalences, and odds are common measures)
+- Correlations between variables to examine associations.
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+**Answer to Poll D:**
+
+Some possible answers that describe the association between exposure and outcome and provide the basis for the study’s conclusions:
+
+- Frequency of an outcome or\ an exposure (e.g., risks, rates, prevalences, and odds are common measures)
+- Correlations between variables to examine associations.
+
+
+----------------------------------------
+
+10.
+Introduce the learning goal and coccolithophores, which are important primary producers in the ocean ecosystem.
+
+
+----------------------------------------
+
+11.
+Ask the focus questions.
+
+   1. This figure is from the pre-class reading. Before we interpret their results presented in the figure, explain briefly what they did. 
+
+    The researchers kept coccolithophores in the lab, and exposed some to relatively high CO2 levels and some to extremely high levels, mimicking future climate change scenarios. They kept the coccolithophores in those conditions for hundreds of generations, allowing them to evolve. Then they measured the growth rate at different CO2 levels as the measure of whether they had evolved resistance to the CO2 level.
+,   2. Apply #dataviz to interpret their results.
+
+    The color bars show the different selection conditions the researchers grew the coccolithophores in. On the x axis are the CO2 levels at which the researchers then measured coccolithophore growth, and the y axis shows the rate of that growth. In normal CO2 conditions, the coccolithophores that grew in normal conditions do the best, but at higher levels of CO2 they do worse than coccolithophores grown in those particular conditions.
+
+​
+
+[Note: students are unlikely to discuss this, so add in if necessary] An important detail is that growth rates below one mean the population is decreasing. That means the evolutionary response to higher CO2 levels may be crucial to whether those populations persist or not, which has consequences on the entire ocean ecosystem.
+,   3. 1. Mark a check if you think the pre-class reading described an interventional study and an X if you think it described an observational study. 
+2. Call on a student with a check to explain why the study was an interventional study
+
+    The study is an interventional study because the researchers manipulated the level of CO2 the coccolithophores experienced over generations (and presumably kept a lot of variables constant as controls).
+
+----------------------------------------
+
+12.
+- Give students three minutes to answer the two polls.
+- Highlight a good answer about including a control group, then go to the next step.
+
+
+----------------------------------------
+
+13.
+- Launch the video and ask students to explain how the waters near Mt. Vesuvius may be particularly useful in trying to test the hypothesis in this activity.
+- Time-permitting, ask the focus questions.
+- Summarize in your own words if necessary, including how even though this is an observational study, Vesuvius is conveniently applying a "treatment" of excess CO2 for us to observe the effects and compare to areas without.
+- Note how selection of study sites/groups/subjects can provide effective control groups in observational studies, even though the researchers do not manipulate variables.
+
+   1. How could you use this to construct a study on coccolithophores with appropriate control groups?
+
+​
+
+    Consider the same species from adjacent to an extinct Mediterranean volcano (therefore no longer releasing CO2 gas) as a control group to compare to the species near Vesuvius (which experiences higher CO2, but otherwise factors are similar).
+
+​
+
+----------------------------------------
+
+14.
+- Give students ~30-45 seconds to mark their answer.
+- End the poll and go to the next step to debrief.
+
+
+----------------------------------------
+
+15.
+​
+
+- Ask the focus questions.
+
+   1. Why is observational cross-sectional study the correct categorization here?
+
+    This is a cross-sectional study, because they take measurements on multiple variables from multiple units (the locations) at one time point (i.e., a "snapshot").
+,   2. What are potential confounds that this study would be susceptible to?
+
+    A number of confounds are relevant. Variables such as other chemicals, predation, or coccolithophore density could affect their skeletons. More relevant to a shortcoming of the cross-sectional study is that the current level of a variable could be the same between different samples, but the previous level could be different. For example, temperatures from the winter could have an affect on skeletal thickness in the spring.
+
+----------------------------------------
+
+16.
+- Give students ~one minute to mark their answer.
+- End the poll and go to the next step to debrief.
+
+
+----------------------------------------
+
+17.
+​
+
+- Ask the focus questions.
+
+   1. Why is this an observational cohort study?
+
+    It is an observational cohort study because the two populations (coccolithophores near Mt. Vesuvius and coccolithophores near the dormant volcano) are followed over time. 
+,   2. How could this scenario be modified to fit the framework of a case-control study?
+
+    Instead of choosing the two populations according to their exposure to a particular independent variable and follow them forward, we could choose samples from two populations based on the dependent variable, one known to have thin skeletons (cases) and another known to have thick skeletons (controls). Instead of following them forward over time, we would look for historical data we could use.
+
+----------------------------------------
+
+18.
+Give students four minutes to answer the poll, then end the poll and go to the next step.
+
+
+----------------------------------------
+
+19.
+- Tell students to take a minute looking through their classmates' answers (encourage some to start at the bottom).
+- Tell them to raise a hand when they find one they like or are interested to know more about.
+- As time allows, call on students with raised hands to explain why they liked the answer or have questions.
+
+
+----------------------------------------
+
+20.
+Ask focus question.
+
+   1. In this activity we distinguished between different observational study types. Why is that distinction useful?
+
+    The distinction is useful because different study types have strengths and weaknesses that can make them better or worse for a situation. 
+
+----------------------------------------
+
+21.
+Take a one minute eye rest break.
+
+
+----------------------------------------
+
+22.
+Introduce the activity learning goal and the breakout instructions before launching breakouts.
+
+
+----------------------------------------
+
+23.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- During breakouts, identify groups with good comparisons to highlight in the debrief, in which students will answer a poll about comparisons of the criteria.
+- Pin a breakout group if you decide to feature a group's notes as part of the debrief.
+
+
+----------------------------------------
+
+24.
+- Give students 3 minutes to answer the poll.
+- As time allows, ask students to explain the similarities and differences they identified.
+
+
+----------------------------------------
+
+25.
+Use this step if there are any particularly useful comparisons made in the breakout that you would like to highlight for the entire class.
+
+
+----------------------------------------
+
+26.
+* Call on a student to identify a take-home message for this activity.
+
+* Summarize in your own words a key take-home that observational studies can be rigorous if well-designed and they share many similar criteria for evaluation of their design as experimental studies.
+
+----------------------------------------
+
+27.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+28.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+29.
+- Call on 1-2 students to provide a take-home from this session.
+- Synthesize a take-home in your own words from the following lesson summary: Observational studies are another method by which to test hypotheses. One advantage of observational studies is that they typically are more generalizable than controlled experiments. Careful design of observational studies must consider many of the same criteria as experimental study designs in order to minimize bias and to be able to draw relevant conclusions.
+
+
+
+===================RESOURCES===================
+
+SLIDE Coccolithophores Selection Graph
+https://course-resources.minervaproject.com/uploaded_files/production/00026385-4475/ca06-9.2---coccolithophores.pdf
+null
+
+--------------------------------------------
+
+SLIDE Coccolithophores
+https://course-resources.minervaproject.com/uploaded_files/production/00026386-6170/deriving-insights-9.2---coccolithophores.pdf
+null
+
+--------------------------------------------
+
+Corals and Vesuvius
+https://www.youtube.com/embed/pbhU5ckSLGE
+null
+
+--------------------------------------------
+
+How to read a scientific paper
+https://docs.google.com/document/d/1kRJtoRFWVGWuCUlIgfZxtgrB9QYVCut2sepY73cnNK4/edit
+null
+
+--------------------------------------------
+
+NOTES Criteria Comparison Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/edd5027f-dd88-4a49-b5c2-2eee7b692ea4/
+null
+
+--------------------------------------------
+
+NOTES Experiment Criteria
+null
+null
+
+--------------------------------------------
+
+[template] NOTES Criteria Comparison Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/22a314f7-a6e3-4413-a8d0-6cc237ca0df9/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1552420
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LOs:</strong> </p><ul><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span> - Identify and evaluate appropriate control groups for empirical study designs.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Distinguish and evaluate different observational study types</li><li>Develop criteria for designing and evaluating observational research </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="observationalstudy">﻿<span>#observationalstudy</span>﻿</span> - Design and interpret observational studies.</strong></p><h6><br/></h6><p>Science typically begins with observation. Only after phenomena have been described can one search for patterns and principles that underlie them. The nature of observational studies varies in different disciplines, but in all cases measurements must be careful, systematic, and unbiased. Different observational study designs each have strengths and weaknesses, but can effectively test hypotheses.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Activity Introduction - 1552450
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Distinguish and evaluate different observational study types</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Poll 1: Study Design Types - 1552469
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Observational Study Design</h1><h6><br/></h6><p>A group of researchers want to evaluate how ocean acidification affects coccolithophores. They use a random location generator to choose 30 locations off of the California coast. From those locations they sample sea water to test a range of variables (e.g., CO2 concentration, pH, temperature, salinity) along with coccolithophores, which they measure to see how thick their skeletons are.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Poll 1: Debrief - 1552473
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Observational Study Design</h1><h6><br/></h6><p>A group of researchers want to evaluate how ocean acidification affects coccolithophores. They use a random location generator to choose 30 locations off of the California coast. From those locations they sample sea water to test a range of variables (e.g., CO2 concentration, pH, temperature, salinity) along with coccolithophores, which they measure to see how thick their skeletons are.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Poll 2 - Study Design Types - 1552478
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Observational Study Design</h1><h6><br/></h6><p>A group of researchers want to evaluate how ocean acidification affects coccolithophores. They take 30 samples of sea water and coccolithophores from near Mt. Vesuvius every month for a year. During the same time period they take 30 samples from near a dormant Mediterranean volcano. They measure a range of variables of the sea water and measure the skeletal thickness of coccolithophores from the two locations.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Poll 2 - Debrief - 1552482
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Observational Study Design</h1><h6><br/></h6><p>A group of researchers want to evaluate how ocean acidification affects coccolithophores. They take 30 samples of sea water and coccolithophores from near Mt. Vesuvius every month for a year. During the same time period they take 30 samples from near a dormant Mediterranean volcano. They measure a range of variables of the sea water and measure the skeletal thickness of coccolithophores from the two locations.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1552495
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Distinguish and evaluate different observational study types</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1552518
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Develop criteria for designing and evaluating observational research.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Session Summary - 1552530
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3: </strong>Research Design </p><p><strong>Big Question:</strong> How do humans impact evolution? </p><p><strong>LOs:</strong> </p><ul><li><span style="color: rgb(10, 120, 191);">﻿#observationalstudy﻿</span> - Design and interpret observational studies.</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="controlgroups">﻿<span>#controlgroups</span>﻿</span></span> - Identify and evaluate appropriate control groups for empirical study designs.</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Activity Learning Goals:</strong> </p><ul><li>Distinguish and evaluate different observational study types</li><li>Develop criteria for designing and evaluating observational research </li></ul></div></div></div></div></div></div>

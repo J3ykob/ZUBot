@@ -1,0 +1,1418 @@
+===================POLLS===================
+
+Poll A
+
+outcome
+
+Give an example of a wording practice that should be avoided when developing survey questions. Explain why you should avoid this wording.
+
+
+------------------------------------------
+
+Poll B
+
+outcome
+
+Explain when you would use a quantitative survey rather than a qualitative one. Identify at least one example.
+
+------------------------------------------
+
+Poll C
+
+outcome
+
+What is meant by the statement that “survey questions should be reliable”? Why is it important that survey questions are reliable?
+
+------------------------------------------
+
+Poll D
+
+outcome
+
+What type of bias might result from leading survey or interview questions? Explain. 
+
+------------------------------------------
+
+Counterargument against surveys
+
+outcome
+
+Write a counterargument (i.e., play "Devil's advocate") against those made by your classmate that surveys are the best approach for the study. Explain why an interview approach would be better.
+
+
+------------------------------------------
+
+Counterargument against qualitative questions
+
+outcome
+
+Write a counterargument (i.e., play "Devil's advocate") against those made by your classmate that qualitative questions are the best approach for the study. Explain why quantitative questions would be better.
+
+
+------------------------------------------
+
+Student survey question draft
+
+outcome
+
+Write a survey question that you might use to assess whether money can make a person happy.
+
+
+------------------------------------------
+
+Reflection Poll
+
+outcome
+
+What is an important aspect of applying interviews and surveys that you had not known before that came up in this class session? Reference a specific moment in class for your example and explain why your example is important for designing interviews or surveys.
+
+
+
+===================INSTRUCTOR===================
+
+1.
+- Briefly introduce the lesson.
+- Prompt students to read the new LO.
+- Call on students to answer the focus questions.
+
+   1. What are key differences between an interview and survey?
+    Interviews typically are conducted 1:1, and responses are recorded by the interviewer. Surveys are administered to a large number of people, and the respondent typically completes the answers in writing.
+
+By their nature, interviews typically collect data from many fewer subjects than do surveys.
+,   2. What is a target population?
+    The population that the researcher wishes to study using the interview or survey approach.
+
+----------------------------------------
+
+2.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll A:**
+
+- Shorthand (contractions, abbreviations, symbols, slashes, parentheses, brackets)
+- Framing questions in the negative (e.g., how frequently do you not attend classes?)
+- Using double negatives (e.g., do you agree or disagree that students should never not go to class?)
+- Passive voice (e.g., how often were grade reductions made by your teachers for absences?)
+- Words or phrases with a strong point of view (leading questions)
+
+
+----------------------------------------
+
+3.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Additional follow-up focus questions for debrief are in a separate step below. 
+
+**Answer to Poll A:**
+
+- Shorthand (contractions, abbreviations, symbols, slashes, parentheses, brackets)
+- Framing questions in the negative (e.g., how frequently do you not attend classes?)
+- Using double negatives (e.g., do you agree or disagree that students should never not go to class?)
+- Passive voice (e.g., how often were grade reductions made by your teachers for absences?)
+- Words or phrases with a strong point of view (leading questions)
+
+
+----------------------------------------
+
+4.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll B:**
+
+- The most efficient way to collect information from large populations (i.e., larger samples) is through quantitative surveys. With larger populations the vast amounts of information that need to be generated from qualitative surveys become daunting. And to collect qualitative data for a large population would be a huge effort and cost.
+- Quantitative surveys are better when survey questions do not need to be open-ended (e.g., population census).
+
+_Follow-up_: When would a qualitative survey be more effective? (Answer: Qualitative and mixed method surveys often contain contextual information to help interpret the results or explain variations in the data, and can offer more nuanced feedback.)
+
+
+----------------------------------------
+
+5.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Additional follow-up focus questions for debrief are in a separate step below. 
+
+**Answer to Poll B:**
+
+- The most efficient way to collect information from large populations (i.e., larger samples) is through quantitative surveys. With larger populations the vast amounts of information that need to be generated from qualitative surveys become daunting. And to collect qualitative data for a large population would be a huge effort and cost.
+- Quantitative surveys are better when survey questions do not need to be open-ended (e.g., population census).
+
+_Follow-up_: When would a qualitative survey be more effective? (Answer: Qualitative and mixed method surveys often contain contextual information to help interpret the results or explain variations in the data, and can offer more nuanced feedback.)
+
+
+----------------------------------------
+
+6.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll C:**
+
+Reliability means that repeatedly measuring the same property will produce the same result. This means that each survey question should be designed so that it means the same thing to everyone taking and analyzing the survey.
+
+\ _Follow-up_: What is meant by the statement that survey questions should be valid? Why is it important that survey questions are valid? (Answer: Validity is the extent to which a survey question measures the property it is supposed to measure. Valid survey questions will mean that the results of the survey will be accurate and can be generalized to the greater population that was sampled.)
+
+
+----------------------------------------
+
+7.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Additional follow-up focus questions for debrief are in a separate step below. 
+
+**Answer to Poll C:**
+
+Reliability means that repeatedly measuring the same property will produce the same result. This means that each survey question should be designed so that it means the same thing to everyone taking and analyzing the survey.
+
+\ _Follow-up_: What is meant by the statement that survey questions should be valid? Why is it important that survey questions are valid? (Answer: Validity is the extent to which a survey question measures the property it is supposed to measure. Valid survey questions will mean that the results of the survey will be accurate and can be generalized to the greater population that was sampled.)
+
+
+----------------------------------------
+
+8.
+- Students should only answer **one** of these polls. Work with your teaching team to decide which poll you will use for your section.
+- Give students approximately four to five minutes to complete the preparatory assessment poll before debriefing (next step in Timeline). 
+- Poll + debrief should take 10 minutes in total.
+
+**Answer to Poll D:**
+
+- Confirmation bias on the part of the researcher.
+- Attentional bias for the respondent (e.g., the respondent is swayed by the leading language and cannot envision another answer).
+
+
+----------------------------------------
+
+9.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+- Additional follow-up focus questions for debrief are in a separate step below. 
+
+**Answer to Poll D:**
+
+- Confirmation bias on the part of the researcher.
+- Attentional bias for the respondent (e.g., the respondent is swayed by the leading language and cannot envision another answer).
+
+
+----------------------------------------
+
+10.
+
+* Ask the focus questions.
+   1. Why shouldn’t double negatives not be avoided when writing survey questions?
+    Double negatives are confusing for the respondent and can result in inaccurate results because the respondent meant one answer but by being confused answered the opposite.,   2. Course evaluations are typically which type of survey?
+
+    Course evaluation surveys typically include a quantitative portion and a qualitative portion and therefore are mixed method surveys.
+,   3. Exit polls (asking voters what their votes were as they are leaving the polling station) during elections are which type of interview/survey?
+    Exit polls are quantitative surveys. Typically exit polls count the number of people who voted for which candidate or measure and provide a prediction of the final vote count.
+----------------------------------------
+
+11.
+Introduce the learning goal and start the breakout.
+
+
+----------------------------------------
+
+12.
+- Ensure students in each group are discussing their responses and contributing equally. 
+- If students seem quiet, confused, or off task, join their group to help get them back on track.
+- Take note of groups that had a particularly interesting discussion to follow up in the debrief.
+
+​
+
+_**Example advantages and disadvantages for faculty reference:**_
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/rwbjGV/interview.png)
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/Y881oY/survey.png)
+
+![](https://course-resources.minerva.kgi.edu/uploaded_files/mke/YMRQ3V/study-questions.png)
+
+
+----------------------------------------
+
+13.
+- Tell students to read the instructions and mark a check when they are finished.
+- Then move to the next step.
+
+
+----------------------------------------
+
+14.
+- Ask a student on stage to make an argument that surveys are the best for the study evaluating whether slower rates of age-related declines in physical functioning are caused by an optimistic mindset.
+- Give the student no more than a minute. If they only give a very brief answer (~10s), prompt them to expound.
+- If necessary (e.g., the initial argument is poor and misses important strengths of surveys), ask another student to add an argument for surveys.
+
+
+----------------------------------------
+
+15.
+- Give students two minutes for this poll.
+- Call on 1-2 students to explain their counterargument.
+
+​
+
+
+----------------------------------------
+
+16.
+- Ask a student on stage to make an argument that ++qualitative questions++ are the best for the study evaluating whether slower rates of age-related declines in physical functioning are caused by an optimistic mindset.
+- Give the student no more than a minute. If they only give a very brief answer (~10s), prompt them to expound.
+- If necessary, ask another student to add an argument for interviews.
+
+
+----------------------------------------
+
+17.
+- Give students two minutes for this poll.
+- Call on 1-2 students to explain their counterargument.
+
+​
+
+
+----------------------------------------
+
+18.
+- Students may be interested to know that this was an actual study that was published, and they may be curious about the results. If you have time you can share this excerpt from the actual study that this example was based on. The article is fully referenced in the wrap-up for this lesson in further reading.
+- Use the focus questions to further discussion. 
+
+   1. How might interviews and surveys be used in conjunction with other types of study designs we have explored? What about regarding the study considered here?
+    A few important points (students may make other important connections as well, so possible answers are not limited to these):
+
+* Interviews and surveys could be a research tool and part of the data collection methods for most of the study designs we have discussed. For example:
+
+  * RCT (e.g., using a survey or interview to collect information on side effects of a trial)
+
+  * quasi-experimental (e.g., a questionnaire or interview to determine how a new social program has changed people’s well-being)
+
+* Interviews and surveys also could be the only methods used in a study, such as when the goal is to summarize people’s opinions (e.g., course surveys). NOTE: Questionnaires are a type of survey.
+
+In this study, the researchers used an observational study that incorporated surveys as the study design.,   2. Which criteria used to evaluate other types of studies should also be used to evaluate and develop interviews and surveys?
+    * Testability of the hypothesis
+
+* Sample (both how to sample from a larger population and sample size)
+
+* Confounding variables (one may be able to include questions in the interview or survey to partially mitigate these)
+
+* Comparisons (such as controls)
+----------------------------------------
+
+19.
+- Call on a student to summarize a take-home about #interviewsurvey from this activity.
+- Call on another student to revise/refine if necessary.
+
+
+----------------------------------------
+
+20.
+Take a one minute eye rest break. 
+
+
+----------------------------------------
+
+21.
+- Introduce the learning goal, and as a primer for the activity, give students ~2 minutes to write a practice survey question in the poll.
+- Note that we will return to these written questions after the game, so do not debrief at this step.
+
+
+----------------------------------------
+
+22.
+Explain how the activity works, then move to the next step to start the activity.
+
+
+----------------------------------------
+
+23.
+BE SURE YOU HAVE THE Q&A DOC OPEN IN ANOTHER WINDOW
+
+​
+
+NOTE: This step is exactly the same as the following step. Toggle between these steps to pull in new students on stage.
+
+- This activity should be fast paced.
+- Copy/paste a question (pick your favorites from the list; the first question is pre-loaded)
+- Tell students to raise a hand if they see a flaw that the original student did not identify.
+- Ask the student on stage to identify flaws in the question (if any), and then call on a classmate to correct it.
+- Once you are satisfied with the discussion (flaw and fix clearly identified), tell the two students to write an improved version of the question in the table and move on to another student to repeat for a new question.
+- Repeat as much as time allows
+
+
+----------------------------------------
+
+24.
+BE SURE YOU HAVE THE Q&A DOC OPEN IN ANOTHER WINDOW
+
+​
+
+NOTE: This step is exactly the same as the previous step. Toggle between these steps to pull in new students on stage.
+
+- This activity should be fast paced.
+- Copy/paste a question (pick your favorites from the list; the first question is pre-loaded)
+- Tell students to raise a hand if they see a flaw that the original student did not identify.
+- Ask the student on stage to identify flaws in the question (if any), and then call on a classmate to correct it.
+- Once you are satisfied with the discussion (flaw and fix clearly identified), tell the two students to write an improved version of the question in the table and move on to another student to repeat for a new question.
+- Repeat as much as time allows
+
+
+----------------------------------------
+
+25.
+- Give students a moment to review the survey questions they wrote at the beginning of this activity.
+- Ask for a few volunteers to explain how they would revise their survey questions after having participated in the game.
+- Call on another student to explain why good survey questions are important. (Note to faculty: because bad survey questions can cause erroneous results.)
+- Make the closure point that it's easy to pick out flaws in survey questions, but it's also very easy to write flawed survey questions, so it's necessary to go through the revision process.
+
+
+----------------------------------------
+
+26.
+- Open this step BEFORE class and open this document in another tab. The document contains the survey questions that you will paste one at a time in the class document (so that students cannot look ahead) and has survey answers for your own reference.
+- Copy and paste questions from this document (i.e., not cut and paste).
+- NOTE: After class, lock this document for students.
+
+
+----------------------------------------
+
+27.
+- Allow students approximately 4 minutes to answer the poll
+- Highlight exceptional answers and move to session summary.
+
+
+----------------------------------------
+
+28.
+- Debrief by featuring some of the strongest answers.
+- Call on a student to comment on the answer that you feature.
+
+
+----------------------------------------
+
+29.
+* Call on a student to provide a take-home for this session. 
+
+* Provide a summary of the following take-home in your own words: Interviews and surveys can be useful research tools, but:  
+    * One must understand the advantages and disadvantages of different interview and survey methods to apply an appropriate method for a specific study. 
+    * Good question design is key to obtaining accurate results. 
+
+
+* Ask the focus question (if there is time). 
+   1. What are some best practices when determining which type of interview or survey to use?
+    Consider the goals of the research, the constraints for the study (e.g., financial, personnel effort, time), the limitations of each method and how those may affect the potential conclusions.
+----------------------------------------
+
+30.
+
+
+
+===================RESOURCES===================
+
+Study Conclusion.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/VLjX7n/study-conclusion.pdf
+null
+
+--------------------------------------------
+
+Game Slides_1.pdf
+https://course-resources.minervaproject.com/uploaded_files/mke/VOQ9ln/game-slides-1.pdf
+null
+
+--------------------------------------------
+
+Scoresheet
+https://docs.google.com/document/d/1NJtJOyVyHzEZO_h8XE0MKnnTBFYj8TvJvxTkgo8RAsI/edit
+null
+
+--------------------------------------------
+
+Game template
+https://docs.google.com/document/d/1iBrTp7YszGtK1CT3stkocnEieInQlk7n5s23MjpyU7o/edit
+null
+
+--------------------------------------------
+
+Game Questions & Answers
+https://docs.google.com/document/d/1MPr4_E4sIMTXWdtYZcz2tL2O4n8q4NkdArF94fGLVwk/edit
+null
+
+--------------------------------------------
+
+[template] NOTES A1 Breakout
+https://sle-authoring.minervaproject.com/api/v1/worksheets/7ed23205-f239-40ba-9b6e-88553a1f8816/
+null
+
+--------------------------------------------
+
+Activity 2: Revising survey questions
+https://sle-authoring.minervaproject.com/api/v1/worksheets/1fc28f94-4e08-4399-adb8-4e04119bb8f9/
+null
+
+--------------------------------------------
+
+Slide for Lesson Introduction - 1552646
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Methods</p><p><strong>Big Question</strong>: Why do we age? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interviewsurvey">﻿<span>#interviewsurvey</span>﻿</span></span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span style="color: rgb(10, 120, 191);"><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="sampling">﻿<span>#sampling</span>﻿</span></span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Active Learning Goals</strong>:  </p><ul><li>Decide the best approach for a study that could use interview and survey methods.</li><li>Recognize problems in survey questions that can lead to biased or erroneous results. </li></ul></div></div></div></div><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong><span class="hashtag" data-source="outcome" data-type="hashtag" data-value="interviewsurvey">﻿<span>#interviewsurvey</span>﻿</span> - Design and interpret primary research performed as interviews or surveys (individually or in groups). </strong></p><h6><br/></h6><p>Particularly in the social sciences and public health areas, much primary research involves interviewing or surveying human participants. Considerable research on such methodologies has produced a set of best practices. For example, interviews should be structured (the same questions are asked of all participants, as opposed to having a freeform discussion) and surveys should avoid leading questions. In all cases, participants must be sampled randomly from the target population. Web-based interviews and surveys present special challenges, including verification of participant characteristics.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Introduction/Breakout Instructions - 1552688
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Decide the best approach for a study that could use interview and survey methods.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Breakout Debrief Instructions - 1552690
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>"Devil's Advocate" Discussion</h1><h6><br/></h6><p>For the next part of class, we will start by listening to the student on the main stage make an argument for one of the approaches. If you agree, then give a snap while your classmate makes the argument, but in the next step you will be asked to write a counterargument.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Argument for Surveys - 1552692
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>"Devil's advocate" discussion</h1><p>Argue for the use of <u>surveys</u> to test whether slower rates of age-related declines in physical functioning are caused by a positive mindset.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Argument for Qualitative Qs - 1552703
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>"Devil's Advocate" Discussion</h1><p>Argue for the use of <u>qualitative questions</u> to test whether slower rates of age-related declines in physical functioning are caused by a positive mindset.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A1. Closure Moment - 1552719
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Decide the best approach for a study that could use interview and survey methods.</p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Introduction - 1552732
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Recognize and correct problems in survey questions that can lead to biased or erroneous results. </p><p><br/></p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Instructions  - 1552734
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Crowdsourcing survey question improvements</h1><h6><br/></h6><ol><li>The student on stage will determine whether there is a problem with the survey question and if so, what the problem is.</li><li>That student will call on a second classmate to propose how to fix the problem.</li><li>The second classmate will explain their idea to improve the question.</li><li>Students not speaking can submit improvements through chat.</li><li>Then the two speakers will edit the question in the document to improve it, and the rest of the class will move on to another question.</li></ol></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for A2. Closure Moment - 1552746
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Activity Learning Goal</h1><p>Recognize problems in survey questions that can lead to biased or erroneous results  </p></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for Summary Slide - 1552758
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><p><strong>Unit 3:</strong> Research Methods</p><p><strong>Big Question</strong>: Why do we age? </p><p><strong>LOs:</strong></p><ul><li><span style="color: rgb(10, 120, 191);">﻿#interviewsurvey﻿</span> - Design and interpret primary research performed as interviews or surveys (individually or in groups).</li><li><span style="color: rgb(10, 120, 191);">﻿#sampling﻿</span> - Design effective sampling methods and evaluate the interpretation of results accordingly. </li></ul><p><strong>Active Learning Goals</strong>:  </p><ul><li>Decide the best approach for a study that could use interview and survey methods.</li><li>Recognize problems in survey questions that can lead to biased or erroneous results. </li></ul></div></div></div></div></div></div>
+
+--------------------------------------------
+
+Slide for (Optional) Further Reading  - 1552763
+null
+<div class="html-slide-container-wrapper"><div class="html-slide-root"><div class="html-slide-page-wrapper"><div class="resizing-html-slide-page-wrapper"><style>
+
+.ql-editor {
+  width: 100%;
+  font-size: 24px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #FFFFFF;
+}
+.ql-editor h1, .ql-editor h2, .ql-editor h3, .ql-editor h4, .ql-editor h5, .ql-editor h6, .ql-editor ol, .ql-editor p, .ql-editor pre, .ql-editor ul {
+  margin: 0 0 8px 0;
+}
+.ql-editor h1 {
+  font-size: 54px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.2222222222222223;
+}
+.ql-editor h2 {
+  font-size: 36px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h3 {
+  font-size: 27px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor h4 {
+  font-size: 21px;
+  font-family: "Chronicle Deck", serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h5 {
+  font-size: 21px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.4285714285714286;
+}
+.ql-editor h6 {
+  font-size: 18px;
+  font-family: "Acumin Pro", sans-serif;
+  font-weight: 400;
+  line-height: 1.3333333333333333;
+}
+.ql-editor code, .ql-editor pre {
+  font-size: inherit;
+  font-family: monospace;
+}
+.ql-editor em {
+  font-style: italic;
+}
+.ql-editor s {
+  text-decoration: line-through;
+}
+.ql-editor strong {
+  font-weight: bolder;
+}
+.ql-editor sub {
+  font-size: small;
+  vertical-align: sub;
+}
+.ql-editor sup {
+  font-size: small;
+  vertical-align: super;
+}
+.ql-editor u {
+  text-decoration: underline;
+}
+.ql-editor .hashtag {
+  color: #0A78BF;
+}</style><div class="ql-container ql-snow"><div class="ql-editor" data-gramm="false" data-placeholder="Enter text..."><h1>Further Reading</h1><ul><li>The original paper for the study example in Activity 1: Steptoe, A., de Oliveira, C., Demakakos, P., &amp; Zaninotto, P. (2014). Enjoyment of life and declining physical function at older ages: a longitudinal cohort study. <em>Canadian Medical Association Journal</em>, <em>186</em>(4), E150-E156. Retrieved January 26, 2016 from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3940591/pdf/186e150.pdf. </li><li>A popular media synopsis of the Steptoe et al. (2014) study:<em> </em>Searing, L. (2014). Optimism and a positive outlook seems to help people stay healthier as they age. <em>Washington Post. </em>Retrieved January 26, 2016 from https://www.washingtonpost.com/national/health-science/optimism-and-a-postive-outlook-seems-to-help-people-stay-healthier-as-they-age/2014/01/17/041b517a-7ee8-11e3-95c6-0a7aa80874bc_story.html. </li></ul></div></div></div></div></div></div>
